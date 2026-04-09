@@ -1,7 +1,7 @@
 ---
 title: "Home Assistant: The Ultimate Guide to Smart Home Automation"
 description: "Discover Home Assistant, the ultimate open-source smart home automation platform. Learn installation, setup, features, and advanced customization options."
-pubDate: "2026-04-09"
+date: "2026-04-09"
 ---
 
 # Home Assistant: The Ultimate Guide to Smart Home Automation
