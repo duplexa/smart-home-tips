@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import cloudflare from '@astrojs/cloudflare';
 
 export default defineConfig({
-  site: 'https://example.com', // Replace with your domain
+  site: 'https://smarthomestips.com', // Replace with your domain
   output: 'static',
   adapter: cloudflare(),
   integrations: [sitemap()],
