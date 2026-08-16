@@ -9,7 +9,7 @@ interface Props {
 }
 
 const { title, description, date, author, image, type } = Astro.props;
-const url = new URL(Astro.url.pathname, Astro.site).href;
+const url = new URL(Astro.url.pathname.replace(/\/+$/, '') || '/', Astro.site).href;
 
 const websiteSchema = {
   '@context': 'https://schema.org',
@@ -26,6 +26,7 @@ const articleSchema = {
   description,
   url,
   ...(date && { datePublished: date.toISOString() }),
+  ...(date && { dateModified: date.toISOString() }),
   author: { '@type': 'Organization', name: author ?? 'Smart Home Tips editorial team' },
   publisher: { '@type': 'Organization', name: 'Smart Home Tips' },
   ...(image && { image }),
