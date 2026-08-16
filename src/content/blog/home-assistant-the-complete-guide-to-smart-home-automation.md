@@ -4,8 +4,6 @@ description: "Home Assistant open-source platform for smart home automation. Lea
 date: 2026-04-10
 ---
 
-# Home Assistant: The Complete Guide to Smart Home Automation
-
 Home Assistant has revolutionized the way we think about smart home automation, offering an open-source platform that puts control back in your hands. Whether you're a tech enthusiast or someone looking to make their home more convenient and efficient, Home Assistant provides the tools and flexibility needed to create a truly intelligent living space.
 
 ## What is Home Assistant?

@@ -4,8 +4,6 @@ description: "Build a Home Assistant smart home with practical UK product picks 
 date: "2026-08-16"
 ---
 
-# Home Assistant Starter Kit UK: Best Devices, Sensors and Automations
-
 Home Assistant is the right smart-home platform when you want local control, privacy, deep automations and the freedom to mix brands. The wrong way to start is buying random gadgets first and hoping they integrate later. The right way is to build around a small set of reliable device categories: lights, plugs, sensors, presence, Wi-Fi and dashboards.
 
 ## Quick Starter Kit

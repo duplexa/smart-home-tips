@@ -4,8 +4,6 @@ description: "Compare the best UK smart plugs for Alexa, Google Home, Apple Home
 date: 2026-08-16
 ---
 
-# Best Smart Plugs UK: Matter, Energy Monitoring and Alexa Picks
-
 Smart plugs are the easiest smart-home purchase to get right because the use cases are simple: lamps, fans, dehumidifiers, chargers, slow cookers, Christmas lights and standby-heavy devices. The best UK smart plug for most people in 2026 is one that supports your current voice assistant, has a safe 13A rating, and ideally includes energy monitoring.
 
 If you want a safe first buy, start with the **TP-Link Tapo P110M Matter Smart Plug**. It works with Alexa, Google Home, Apple Home and SmartThings through Matter, while the Tapo app adds the energy monitoring view that most people actually want.

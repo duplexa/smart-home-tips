@@ -4,8 +4,6 @@ description: "Practical smart home automation ideas for UK homes, with product p
 date: 2026-08-16
 ---
 
-# Best Smart Home Automation Ideas: Routines That Are Actually Worth Building
-
 The best smart home automations are boring in the best way: lights turn on before you trip over something, plugs cut standby power, heating follows occupancy, and the house looks lived-in when you are away. Start with routines that solve daily friction before chasing complex automations.
 
 ## Starter Products For Useful Automations

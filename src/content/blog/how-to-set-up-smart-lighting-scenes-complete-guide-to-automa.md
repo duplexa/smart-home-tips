@@ -4,8 +4,6 @@ description: "Learn how to set up smart lighting scenes for automated home light
 date: 2026-04-21
 ---
 
-# How to Set Up Smart Lighting Scenes: Complete Guide to Automated Home Lighting
-
 Smart lighting scenes transform how you experience your home by automatically adjusting lights based on your daily routines, moods, and activities. Rather than manually controlling each light fixture, scenes allow you to create preset combinations that activate multiple lights at once with specific brightness levels, colors, and timing.
 
 ## What Are Smart Lighting Scenes?

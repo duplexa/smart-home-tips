@@ -4,8 +4,6 @@ description: "The practical buyer guide to smart smoke detectors, smoke and CO a
 date: 2026-08-16
 ---
 
-# Best Smart Smoke Detectors That Work With Apps, Alexa and Google Home
-
 Smart smoke detectors are worth buying when they solve a real problem: you want a phone alert when you are out, you want a family member notified, or you want one alarm to trigger the whole home. They are not worth buying just because the box says "smart".
 
 The short version: UK buyers should look hardest at FireAngel Pro Connected, Aico SmartLINK if the home is being professionally fitted, X-Sense if you want low-cost app alerts, and Frient if you already run Home Assistant. US buyers get a stronger Google Home path through First Alert SC5, while older Nest Protect owners should plan around expiry rather than assume they can keep buying replacements forever.

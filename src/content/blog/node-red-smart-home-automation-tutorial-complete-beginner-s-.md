@@ -4,8 +4,6 @@ description: "Complete Node-RED smart home automation tutorial. Learn installati
 date: 2026-04-11
 ---
 
-# Node-RED Smart Home Automation Tutorial: Complete Beginner's Guide
-
 Node-RED has revolutionized how we approach smart home automation, offering a visual programming interface that makes complex automation accessible to everyone. This comprehensive tutorial will guide you through setting up Node-RED for smart home automation, from installation to creating sophisticated automated workflows.
 
 ## What is Node-RED and Why Use It for Smart Home Automation?

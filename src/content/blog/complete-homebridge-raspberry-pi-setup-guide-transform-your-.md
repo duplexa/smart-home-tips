@@ -4,8 +4,6 @@ description: "Complete step-by-step guide to set up Homebridge on Raspberry Pi. 
 date: 2026-04-11
 ---
 
-# Complete Homebridge Raspberry Pi Setup Guide: Transform Your Smart Home
-
 Homebridge transforms your Raspberry Pi into a powerful smart home hub that bridges non-HomeKit devices with Apple's ecosystem. This comprehensive guide walks you through every step of setting up Homebridge on your Raspberry Pi, from initial installation to advanced configuration.
 
 ## What is Homebridge and Why Use a Raspberry Pi?
