@@ -16,7 +16,7 @@ Falls represent one of the most serious risks for elderly individuals. Smart hom
 
 Smart cameras with AI-powered fall detection can automatically alert family members or emergency services when unusual activity patterns are detected. These systems learn normal movement patterns and can distinguish between a fall and routine activities like sitting down or bending over.
 
-Wearable devices like the [Apple Watch Series 9](https://www.amazon.co.uk/dp/B0CHWV5TS6?tag=smarthomestip-21) integrate seamlessly with home automation systems. When fall detection activates, the device can trigger smart lights throughout the home, unlock doors for emergency responders, and send alerts to predetermined contacts.
+Wearable devices like the [Apple Watch Series 9](https://www.amazon.co.uk/dp/B0CHWV5TS6/ref=nosim?tag=smarthomestip-21) integrate seamlessly with home automation systems. When fall detection activates, the device can trigger smart lights throughout the home, unlock doors for emergency responders, and send alerts to predetermined contacts.
 
 Motion sensors placed strategically throughout the home can monitor daily routines and alert family members if normal patterns change significantly. For example, if bathroom visits don't occur within expected timeframes, or if there's no movement detected for extended periods during typical active hours.
 
@@ -24,7 +24,7 @@ Motion sensors placed strategically throughout the home can monitor daily routin
 
 Proper lighting becomes increasingly critical with age, as vision changes and mobility challenges develop. Automated lighting systems can prevent accidents while providing comfort and security.
 
-Motion-activated pathway lighting automatically illuminates routes between frequently used areas like bedrooms and bathrooms. The [Philips Hue smart bulbs](https://www.amazon.co.uk/dp/B07SS38CVG?tag=smarthomestip-21) can be programmed to gradually increase brightness when motion is detected at night, preventing the jarring effect of sudden bright lights.
+Motion-activated pathway lighting automatically illuminates routes between frequently used areas like bedrooms and bathrooms. The [Philips Hue smart bulbs](https://www.amazon.co.uk/dp/B07SS38CVG/ref=nosim?tag=smarthomestip-21) can be programmed to gradually increase brightness when motion is detected at night, preventing the jarring effect of sudden bright lights.
 
 Smart light switches like the Lutron Caseta can be controlled via voice commands or smartphone apps, eliminating the need to navigate dark rooms to find switches. These systems can also be programmed to maintain minimum lighting levels throughout the evening hours.
 
@@ -152,4 +152,4 @@ The investment in smart home automation for elderly care pays dividends in safet
 
 ## Recommended Products
 
-- [Lutron Caseta smart light switch](https://www.amazon.co.uk/dp/B00MXCRAX8?tag=smarthomestip-21)
+- [Lutron Caseta smart light switch](https://www.amazon.co.uk/dp/B00MXCRAX8/ref=nosim?tag=smarthomestip-21)

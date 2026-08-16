@@ -4,7 +4,7 @@ description: "Compare Amazon Alexa vs Google Nest Mini smart speakers. Detailed 
 date: 2026-04-17
 ---
 
-# Amazon Alexa vs [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34?tag=smarthomestip-21): Complete Smart Speaker Comparison
+# Amazon Alexa vs [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34/ref=nosim?tag=smarthomestip-21): Complete Smart Speaker Comparison
 
 Smart speakers have revolutionized how we interact with technology in our homes, and two devices consistently dominate the compact speaker market: Amazon's Echo Dot with Alexa and Google's Nest Mini. Both offer impressive capabilities packed into small, affordable packages, but they differ significantly in their approaches to voice assistance, smart home integration, and overall functionality.
 
@@ -14,7 +14,7 @@ Choosing between these two popular options requires understanding their unique s
 
 ### Amazon Alexa Performance
 
-Amazon Alexa has established itself as a versatile voice assistant with extensive skill development and third-party integrations. The **[Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF?tag=smarthomestip-21)** delivers consistent voice recognition even in noisy environments, thanks to its advanced microphone array and noise cancellation technology.
+Amazon Alexa has established itself as a versatile voice assistant with extensive skill development and third-party integrations. The **[Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21)** delivers consistent voice recognition even in noisy environments, thanks to its advanced microphone array and noise cancellation technology.
 
 Alexa excels at:
 - Understanding complex, multi-part commands

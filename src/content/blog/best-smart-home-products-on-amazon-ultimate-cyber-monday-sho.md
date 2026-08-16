@@ -26,13 +26,13 @@ As your smart home evolves, you'll want to consider more sophisticated products 
 
 ### Smart Speakers and Voice Assistants
 
-The [Amazon Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF?tag=smarthomestip-21) stands out as an exceptional entry point into voice-controlled smart homes. This compact device delivers impressive audio quality while serving as a central hub for controlling other smart devices. Its spherical design fits seamlessly into any room, and the improved processing power ensures faster response times for voice commands.
+The [Amazon Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21) stands out as an exceptional entry point into voice-controlled smart homes. This compact device delivers impressive audio quality while serving as a central hub for controlling other smart devices. Its spherical design fits seamlessly into any room, and the improved processing power ensures faster response times for voice commands.
 
 Smart speakers have evolved beyond simple voice recognition to become sophisticated home automation controllers. Look for models with built-in hubs that can directly connect to Zigbee and Matter-compatible devices, eliminating the need for additional hardware.
 
 ### Smart Home Security Solutions
 
-The [Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M?tag=smarthomestip-21) offers comprehensive front-door security with 1536p HD video, advanced motion detection, and two-way audio communication. This professional-grade doorbell provides peace of mind whether you're home or away, with instant notifications sent directly to your smartphone.
+The [Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M/ref=nosim?tag=smarthomestip-21) offers comprehensive front-door security with 1536p HD video, advanced motion detection, and two-way audio communication. This professional-grade doorbell provides peace of mind whether you're home or away, with instant notifications sent directly to your smartphone.
 
 Modern smart security systems integrate seamlessly with existing home automation setups. Consider products that offer local storage options alongside cloud services, ensuring your security footage remains accessible even during internet outages.
 
@@ -44,7 +44,7 @@ When selecting smart lighting, prioritize systems that support multiple protocol
 
 ### Climate Control and Energy Management
 
-Smart thermostats can significantly reduce energy costs while maintaining optimal comfort levels throughout your home. The [Google Nest Learning Thermostat (3rd Generation)](https://www.amazon.co.uk/dp/B016PW3JSG?tag=smarthomestip-21) exemplifies intelligent climate control by learning your preferences and automatically adjusting temperatures based on occupancy patterns.
+Smart thermostats can significantly reduce energy costs while maintaining optimal comfort levels throughout your home. The [Google Nest Learning Thermostat (3rd Generation)](https://www.amazon.co.uk/dp/B016PW3JSG/ref=nosim?tag=smarthomestip-21) exemplifies intelligent climate control by learning your preferences and automatically adjusting temperatures based on occupancy patterns.
 
 Energy management extends beyond temperature control to include smart plugs and power monitoring devices. These products provide insights into your energy consumption patterns while allowing remote control of connected appliances.
 

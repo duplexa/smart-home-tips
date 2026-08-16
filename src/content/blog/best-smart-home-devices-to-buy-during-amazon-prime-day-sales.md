@@ -16,11 +16,11 @@ Smart home devices have evolved from luxury gadgets to essential tools that enha
 
 Voice-controlled smart speakers serve as the central hub for many smart home ecosystems. These devices not only play music and answer questions but also control other smart devices throughout your home through simple voice commands.
 
-The **[Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B9615X2?tag=smarthomestip-21)** consistently ranks as one of the most popular Prime Day purchases due to its compact size and impressive functionality. This budget-friendly option provides full Alexa integration, allowing you to control lights, thermostats, and security systems with voice commands.
+The **[Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B9615X2/ref=nosim?tag=smarthomestip-21)** consistently ranks as one of the most popular Prime Day purchases due to its compact size and impressive functionality. This budget-friendly option provides full Alexa integration, allowing you to control lights, thermostats, and security systems with voice commands.
 
 For those seeking premium audio quality, the **Amazon Echo Studio** offers high-fidelity sound with 3D audio processing. Its five built-in speakers create an immersive listening experience while maintaining all smart home control capabilities.
 
-The **[Google Nest Audio](https://www.amazon.co.uk/dp/B0FC4GVSYQ?tag=smarthomestip-21)** presents an excellent alternative for households already invested in Google's ecosystem. Its adaptive sound technology automatically adjusts audio based on your environment and ambient noise levels.
+The **[Google Nest Audio](https://www.amazon.co.uk/dp/B0FC4GVSYQ/ref=nosim?tag=smarthomestip-21)** presents an excellent alternative for households already invested in Google's ecosystem. Its adaptive sound technology automatically adjusts audio based on your environment and ambient noise levels.
 
 ### Smart Lighting Solutions
 

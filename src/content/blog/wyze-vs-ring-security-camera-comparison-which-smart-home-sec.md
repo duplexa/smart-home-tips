@@ -23,7 +23,7 @@ Ring, now owned by Amazon, pioneered the video doorbell market and has expanded 
 ### Video Quality and Resolution
 
 **Wyze Cameras**
-Most Wyze cameras offer 1080p HD video recording with excellent clarity for their price point. The [Wyze Cam v3](https://www.amazon.co.uk/dp/B08R59YH7W?tag=smarthomestip-21) provides enhanced night vision capabilities and improved low-light performance. Some newer models support higher resolutions, delivering crisp footage suitable for identifying faces and licence plates.
+Most Wyze cameras offer 1080p HD video recording with excellent clarity for their price point. The [Wyze Cam v3](https://www.amazon.co.uk/dp/B08R59YH7W/ref=nosim?tag=smarthomestip-21) provides enhanced night vision capabilities and improved low-light performance. Some newer models support higher resolutions, delivering crisp footage suitable for identifying faces and licence plates.
 
 **Ring Cameras**
 Ring offers a wider range of resolution options across their product line, from 1080p in entry-level models to 4K in premium devices. Their cameras typically include advanced features like HDR (High Dynamic Range) for better contrast and colour accuracy in challenging lighting conditions.

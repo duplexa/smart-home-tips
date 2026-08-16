@@ -60,7 +60,7 @@ Smart water heaters learn usage patterns and heat water only when needed, while 
 
 Zoned climate control systems provide personalized comfort while minimizing energy waste. Room-by-room temperature and humidity control ensures occupied spaces remain comfortable while reducing energy usage in unoccupied areas.
 
-Advanced HVAC systems integrate with weather forecasts and occupancy sensors to pre-condition spaces efficiently. The [Nest Learning Thermostat](https://www.amazon.co.uk/dp/B079369272?tag=smarthomestip-21) exemplifies this trend, using machine learning to optimize heating and cooling schedules automatically.
+Advanced HVAC systems integrate with weather forecasts and occupancy sensors to pre-condition spaces efficiently. The [Nest Learning Thermostat](https://www.amazon.co.uk/dp/B079369272/ref=nosim?tag=smarthomestip-21) exemplifies this trend, using machine learning to optimize heating and cooling schedules automatically.
 
 [internal link: energy efficient smart home devices]
 
@@ -130,7 +130,7 @@ New voice processing technologies can distinguish between different family membe
 
 Spatial audio technology creates immersive sound experiences that adapt to room acoustics and listener position. Smart speakers can work together to create whole-home audio experiences that follow users from room to room.
 
-Advanced systems like the [Sonos Arc](https://www.amazon.co.uk/dp/B0BXPPNBPJ?tag=smarthomestip-21) use sophisticated acoustic modeling to optimize sound for specific room layouts and furniture arrangements.
+Advanced systems like the [Sonos Arc](https://www.amazon.co.uk/dp/B0BXPPNBPJ/ref=nosim?tag=smarthomestip-21) use sophisticated acoustic modeling to optimize sound for specific room layouts and furniture arrangements.
 
 ### Adaptive Lighting Scenes
 
@@ -142,7 +142,7 @@ These systems can learn from user behavior and automatically suggest or activate
 
 Kitchen appliances are becoming increasingly intelligent, with features like recipe guidance, inventory management, and nutritional analysis. Smart ovens can automatically adjust cooking parameters based on food recognition, while refrigerators track expiration dates and suggest recipes based on available ingredients.
 
-The [Samsung Family Hub refrigerator](https://www.amazon.co.uk/dp/B096L1WJWV?tag=smarthomestip-21) exemplifies this trend, combining food management, entertainment, and smart home control in a single appliance interface.
+The [Samsung Family Hub refrigerator](https://www.amazon.co.uk/dp/B096L1WJWV/ref=nosim?tag=smarthomestip-21) exemplifies this trend, combining food management, entertainment, and smart home control in a single appliance interface.
 
 [internal link: smart kitchen appliances]
 

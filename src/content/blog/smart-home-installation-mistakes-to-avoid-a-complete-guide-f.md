@@ -16,7 +16,7 @@ One of the most critical smart home installation mistakes to avoid is underestim
 
 Before purchasing any smart devices, conduct a thorough Wi-Fi coverage test throughout your home. Use a smartphone app to measure signal strength in every room where you plan to install devices. Areas with weak signals will experience connectivity issues, device dropouts, and poor performance.
 
-Consider upgrading to a mesh network system like the [Eero Pro 6E](https://www.amazon.co.uk/dp/B091G7Q217?tag=smarthomestip-21) or [Netgear Orbi](https://www.amazon.co.uk/dp/B07W8XFZ6X?tag=smarthomestip-21) if your current router cannot provide adequate coverage. These systems eliminate dead zones and ensure consistent connectivity for all your smart devices.
+Consider upgrading to a mesh network system like the [Eero Pro 6E](https://www.amazon.co.uk/dp/B091G7Q217/ref=nosim?tag=smarthomestip-21) or [Netgear Orbi](https://www.amazon.co.uk/dp/B07W8XFZ6X/ref=nosim?tag=smarthomestip-21) if your current router cannot provide adequate coverage. These systems eliminate dead zones and ensure consistent connectivity for all your smart devices.
 
 ### Choosing Incompatible Ecosystems
 
@@ -58,7 +58,7 @@ Prioritize devices from established manufacturers with proven track records. Rea
 
 Physical placement significantly impacts smart device performance, yet many installers overlook this crucial factor. Smart speakers placed in corners or enclosed spaces suffer from poor audio quality. Security cameras installed too high or at wrong angles miss important activity areas.
 
-For smart speakers like the [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B9615X2?tag=smarthomestip-21) or Google Nest Mini, place them at least eight inches from walls and avoid enclosed cabinets. Position them at ear level in central locations for optimal voice recognition and sound distribution.
+For smart speakers like the [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B9615X2/ref=nosim?tag=smarthomestip-21) or Google Nest Mini, place them at least eight inches from walls and avoid enclosed cabinets. Position them at ear level in central locations for optimal voice recognition and sound distribution.
 
 Motion sensors should be mounted at appropriate heights—typically 6-8 feet for ceiling mounting or 4-5 feet for wall mounting. Consider the sensor's detection pattern and avoid pointing them directly at heat sources or moving objects that might cause false triggers.
 

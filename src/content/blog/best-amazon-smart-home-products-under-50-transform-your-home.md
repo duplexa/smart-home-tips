@@ -24,7 +24,7 @@ Many affordable smart home products deliver the same core functionality as their
 
 Voice assistants serve as the central hub for most smart home ecosystems. They provide hands-free control over connected devices while offering entertainment, information, and productivity features.
 
-The **[Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B8YWXDF?tag=smarthomestip-21)** remains one of the most popular entry points into smart home technology. This compact speaker delivers impressive audio quality for its size while providing full access to Alexa's capabilities. You can control compatible smart devices, play music, set timers, answer questions, and even make calls.
+The **[Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21)** remains one of the most popular entry points into smart home technology. This compact speaker delivers impressive audio quality for its size while providing full access to Alexa's capabilities. You can control compatible smart devices, play music, set timers, answer questions, and even make calls.
 
 For those seeking enhanced audio performance, consider speakers with better sound quality that still fall within budget constraints. Look for devices that support multiple streaming services and offer clear voice recognition even in noisy environments.
 
@@ -68,7 +68,7 @@ Look for devices with clear screens, good audio quality, and compatibility with 
 
 Smart streaming devices have transformed television viewing by providing access to countless entertainment options. Budget-friendly streaming sticks and boxes offer 4K video support, voice control, and access to popular streaming platforms.
 
-The **[Amazon Fire TV Stick 4K Max](https://www.amazon.co.uk/dp/B08MQZYSVC?tag=smarthomestip-21)** delivers excellent streaming performance with support for high-definition content and advanced audio formats. Its compact design fits behind any television while providing access to thousands of apps and games.
+The **[Amazon Fire TV Stick 4K Max](https://www.amazon.co.uk/dp/B08MQZYSVC/ref=nosim?tag=smarthomestip-21)** delivers excellent streaming performance with support for high-definition content and advanced audio formats. Its compact design fits behind any television while providing access to thousands of apps and games.
 
 Consider devices that support multiple streaming services, offer responsive performance, and include voice remote controls. Some models provide gaming capabilities or additional connectivity options for enhanced versatility.
 
@@ -162,7 +162,7 @@ Building an impressive smart home for under £50 per device is entirely achievab
 
 Start with essential categories like voice assistants, smart lighting, and basic security devices. These foundational elements provide immediate benefits while creating platforms for future expansion.
 
-The **Amazon Echo Dot**, **Amazon Fire TV Stick 4K Max**, and **[TP-Link Tapo C200](https://www.amazon.co.uk/dp/B07XR2NWZC?tag=smarthomestip-21)** represent excellent starting points that deliver professional features at budget-friendly prices. Each device offers room for growth within their respective ecosystems while providing immediate practical benefits.
+The **Amazon Echo Dot**, **Amazon Fire TV Stick 4K Max**, and **[TP-Link Tapo C200](https://www.amazon.co.uk/dp/B07XR2NWZC/ref=nosim?tag=smarthomestip-21)** represent excellent starting points that deliver professional features at budget-friendly prices. Each device offers room for growth within their respective ecosystems while providing immediate practical benefits.
 
 Remember that smart home technology continues evolving rapidly. Budget-friendly devices today offer features that were premium options just a few years ago. By choosing wisely and building gradually, you can create a sophisticated, responsive smart home that enhances daily life without overwhelming your budget.
 

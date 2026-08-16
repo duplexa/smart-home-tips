@@ -32,9 +32,9 @@ For basic white light control, standard smart bulbs from established brands prov
 
 ### Smart Switches and Outlets
 
-The **[Kasa Smart WiFi Light Switch](https://www.amazon.co.uk/dp/B0FBRGKVZV?tag=smarthomestip-21)** transforms existing fixtures into smart-controlled lighting without requiring special bulbs. Installation involves basic electrical work but enables control of any connected light fixture through smartphone apps or voice commands.
+The **[Kasa Smart WiFi Light Switch](https://www.amazon.co.uk/dp/B0FBRGKVZV/ref=nosim?tag=smarthomestip-21)** transforms existing fixtures into smart-controlled lighting without requiring special bulbs. Installation involves basic electrical work but enables control of any connected light fixture through smartphone apps or voice commands.
 
-Smart outlets like the **[Amazon Smart Plug](https://www.amazon.co.uk/dp/B0CMXN6B3L?tag=smarthomestip-21)** convert any standard appliance into a smart device. These compact adapters work particularly well for lamps, fans, coffee makers, and seasonal decorations. The ability to create schedules and control devices remotely adds significant convenience for under $25.
+Smart outlets like the **[Amazon Smart Plug](https://www.amazon.co.uk/dp/B0CMXN6B3L/ref=nosim?tag=smarthomestip-21)** convert any standard appliance into a smart device. These compact adapters work particularly well for lamps, fans, coffee makers, and seasonal decorations. The ability to create schedules and control devices remotely adds significant convenience for under $25.
 
 ## Home Security on a Budget
 

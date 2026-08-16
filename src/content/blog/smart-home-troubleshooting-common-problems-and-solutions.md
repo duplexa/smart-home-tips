@@ -42,7 +42,7 @@ Intermittent connectivity issues can be particularly frustrating, causing device
 
 **Router Placement and Signal Strength**
 
-Position your router in a central location, elevated off the ground, and away from potential interference sources like microwaves, baby monitors, or cordless phones. Consider investing in a mesh network system like the [Eero Pro 6E](https://www.amazon.co.uk/dp/B091G7Q217?tag=smarthomestip-21) if your home has significant Wi-Fi dead zones.
+Position your router in a central location, elevated off the ground, and away from potential interference sources like microwaves, baby monitors, or cordless phones. Consider investing in a mesh network system like the [Eero Pro 6E](https://www.amazon.co.uk/dp/B091G7Q217/ref=nosim?tag=smarthomestip-21) if your home has significant Wi-Fi dead zones.
 
 **Bandwidth and Device Limits**
 
@@ -74,7 +74,7 @@ Thermostat issues can impact home comfort and energy efficiency, making quick re
 
 **Power and Wiring Problems**
 
-Smart thermostats like the [Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG?tag=smarthomestip-21) require adequate power from your HVAC system's C-wire. Without proper power, devices may shut down unexpectedly or fail to maintain Wi-Fi connections.
+Smart thermostats like the [Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG/ref=nosim?tag=smarthomestip-21) require adequate power from your HVAC system's C-wire. Without proper power, devices may shut down unexpectedly or fail to maintain Wi-Fi connections.
 
 **Calibration Issues**
 
@@ -198,4 +198,4 @@ With patience and the right approach, most smart home problems have straightforw
 
 ## Recommended Products
 
-- [Philips Hue Bridge](https://www.amazon.co.uk/dp/B016H0QZ7I?tag=smarthomestip-21)
+- [Philips Hue Bridge](https://www.amazon.co.uk/dp/B016H0QZ7I/ref=nosim?tag=smarthomestip-21)

@@ -42,7 +42,7 @@ Outdoor cameras must have IP65 or IP66 weather ratings to withstand British weat
 
 The **Arlo Pro 4** stands out as an exceptional wireless security camera with 2K video quality and colour night vision. Its magnetic mount system makes installation effortless, while the integrated spotlight deters intruders effectively. The rechargeable battery lasts up to six months, and advanced AI detection minimises false alerts.
 
-### Best Budget Option: [Ring Indoor Cam](https://www.amazon.co.uk/dp/B0B6GKH3C2?tag=smarthomestip-21)
+### Best Budget Option: [Ring Indoor Cam](https://www.amazon.co.uk/dp/B0B6GKH3C2/ref=nosim?tag=smarthomestip-21)
 
 For affordability without compromising essential features, the **Ring Indoor Cam** offers excellent value. This compact camera delivers 1080p video quality with two-way talk functionality. Its plug-in design eliminates battery concerns, making it perfect for continuous indoor monitoring.
 

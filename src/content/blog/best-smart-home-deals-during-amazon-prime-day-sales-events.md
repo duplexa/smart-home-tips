@@ -64,19 +64,19 @@ Download the Amazon mobile app for faster checkout and enable one-click purchasi
 
 ### Echo Devices and Alexa Ecosystem
 
-Amazon's own Echo lineup consistently receives the deepest Prime Day discounts. The **[Amazon Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF?tag=smarthomestip-21)** regularly drops to unprecedented low prices during these events, making it an excellent value for expanding voice control throughout your home.
+Amazon's own Echo lineup consistently receives the deepest Prime Day discounts. The **[Amazon Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21)** regularly drops to unprecedented low prices during these events, making it an excellent value for expanding voice control throughout your home.
 
 Consider purchasing multiple units during these sales, as distributed voice control significantly enhances the smart home experience. Echo devices also frequently come bundled with smart bulbs or plugs at no additional cost.
 
 ### Smart Security Solutions
 
-Security-focused deals often include subscription service credits or extended warranty coverage. The **[Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M?tag=smarthomestip-21)** typically sees substantial discounts during Prime Day events, often bundled with installation credits or additional mounting hardware.
+Security-focused deals often include subscription service credits or extended warranty coverage. The **[Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M/ref=nosim?tag=smarthomestip-21)** typically sees substantial discounts during Prime Day events, often bundled with installation credits or additional mounting hardware.
 
 When evaluating security device deals, factor in ongoing subscription costs for cloud storage and advanced features. Some Prime Day deals include several months of service credits, significantly improving the overall value proposition.
 
 ### Connected Lighting Systems
 
-Smart lighting deals span from individual bulbs to complete room solutions. The **[Philips Hue White and Color Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB?tag=smarthomestip-21)** often receives rare discounts during Prime Day, providing an excellent entry point into premium smart lighting.
+Smart lighting deals span from individual bulbs to complete room solutions. The **[Philips Hue White and Color Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB/ref=nosim?tag=smarthomestip-21)** often receives rare discounts during Prime Day, providing an excellent entry point into premium smart lighting.
 
 Color-changing bulbs typically offer better Prime Day savings than basic white bulbs, making it worthwhile to invest in the more advanced options even if you don't immediately need color features.
 

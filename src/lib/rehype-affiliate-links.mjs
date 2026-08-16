@@ -1,4 +1,21 @@
 const affiliateHostPattern = /(^|\.)amazon\.(co\.uk|com)$/i;
+const associateTag = 'smarthomestip-21';
+
+function normalizeAmazonHref(href) {
+  const url = new URL(href);
+
+  if (!affiliateHostPattern.test(url.hostname)) {
+    return href;
+  }
+
+  const asinMatch = url.pathname.match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})(?:\/|$)/i);
+  if (asinMatch) {
+    return `${url.protocol}//${url.hostname}/dp/${asinMatch[1].toUpperCase()}/ref=nosim?tag=${associateTag}`;
+  }
+
+  url.searchParams.set('tag', associateTag);
+  return url.toString();
+}
 
 function visit(node) {
   if (!node || typeof node !== 'object') return;
@@ -10,6 +27,9 @@ function visit(node) {
     try {
       const url = new URL(href);
       isAffiliateLink = affiliateHostPattern.test(url.hostname) || url.searchParams.has('tag');
+      if (affiliateHostPattern.test(url.hostname)) {
+        node.properties.href = normalizeAmazonHref(href);
+      }
     } catch {
       isAffiliateLink = /amazon\.(co\.uk|com).*tag=/i.test(href);
     }

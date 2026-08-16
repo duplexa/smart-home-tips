@@ -165,7 +165,7 @@ Intrusion Detection Systems (IDS) can automatically monitor your network for sus
 - **Host-based IDS**: Monitors individual device activity
 - **Hybrid Solutions**: Combine both approaches for comprehensive coverage
 
-Several consumer-friendly options are available, including the **[Firewalla Gold](https://www.amazon.co.uk/dp/B0BYMN4YZ3?tag=smarthomestip-21)** and **[Circle Home Plus](https://www.amazon.co.uk/dp/B019RC1EI8?tag=smarthomestip-21)**, which provide enterprise-level security features in user-friendly packages.
+Several consumer-friendly options are available, including the **[Firewalla Gold](https://www.amazon.co.uk/dp/B0BYMN4YZ3/ref=nosim?tag=smarthomestip-21)** and **[Circle Home Plus](https://www.amazon.co.uk/dp/B019RC1EI8/ref=nosim?tag=smarthomestip-21)**, which provide enterprise-level security features in user-friendly packages.
 
 ### Use VPN for Remote Access
 

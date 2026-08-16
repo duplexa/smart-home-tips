@@ -40,7 +40,7 @@ Security is a top priority for many renters, and smart technology offers numerou
 
 **Smart Door and Window Sensors**: These small sensors detect when doors or windows open and close. Most attach with adhesive strips and are virtually invisible when properly positioned.
 
-**Smart Locks**: While some smart locks require complete replacement of existing hardware, others work with your current deadbolt. The [August Smart Lock Pro](https://www.amazon.co.uk/dp/B0752XNC8M?tag=smarthomestip-21) is designed to attach to the interior side of your existing lock, requiring no changes to the exterior.
+**Smart Locks**: While some smart locks require complete replacement of existing hardware, others work with your current deadbolt. The [August Smart Lock Pro](https://www.amazon.co.uk/dp/B0752XNC8M/ref=nosim?tag=smarthomestip-21) is designed to attach to the interior side of your existing lock, requiring no changes to the exterior.
 
 ### Climate Control and Energy Management
 
@@ -218,5 +218,5 @@ Remember that smart home technology continues evolving rapidly. Stay informed ab
 
 ## Recommended Products
 
-- [Philips Hue White and Color Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB?tag=smarthomestip-21)
-- [Ring Video Doorbell 4](https://www.amazon.co.uk/dp/B08NY19G4C?tag=smarthomestip-21)
+- [Philips Hue White and Color Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB/ref=nosim?tag=smarthomestip-21)
+- [Ring Video Doorbell 4](https://www.amazon.co.uk/dp/B08NY19G4C/ref=nosim?tag=smarthomestip-21)

@@ -32,13 +32,13 @@ Many smart home companies share collected data with advertising partners, analyt
 
 ### Voice Assistants
 
-Devices like the [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B9615X2?tag=smarthomestip-21) and [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34?tag=smarthomestip-21) are always listening for wake words, but they sometimes activate accidentally, recording private conversations. These recordings are stored in the cloud and may be reviewed by human employees for quality improvement purposes.
+Devices like the [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B9615X2/ref=nosim?tag=smarthomestip-21) and [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34/ref=nosim?tag=smarthomestip-21) are always listening for wake words, but they sometimes activate accidentally, recording private conversations. These recordings are stored in the cloud and may be reviewed by human employees for quality improvement purposes.
 
 Voice assistants also create detailed profiles of user preferences, shopping habits, and daily routines based on commands and questions. This information can be valuable for targeted advertising and market research.
 
 ### Smart Security Systems
 
-Security cameras and doorbell cameras like the [Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M?tag=smarthomestip-21) collect footage of not just your property but also public areas and neighbors' properties. This footage is often stored in the cloud, raising questions about who has access and how long it's retained.
+Security cameras and doorbell cameras like the [Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M/ref=nosim?tag=smarthomestip-21) collect footage of not just your property but also public areas and neighbors' properties. This footage is often stored in the cloud, raising questions about who has access and how long it's retained.
 
 Some security system providers have partnerships with law enforcement, potentially allowing authorities to access footage without warrants under certain circumstances.
 

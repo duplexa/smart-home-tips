@@ -18,7 +18,7 @@ The benefits of smart home technology extend beyond mere convenience. Modern sma
 
 ### Smart Speakers and Voice Assistants
 
-Voice assistants serve as the central nervous system of most smart homes. The [Amazon Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF?tag=smarthomestip-21) stands out as an excellent entry point, offering robust voice recognition, superior sound quality, and seamless integration with thousands of compatible devices. This compact speaker can control lighting, play music, answer questions, and manage your smart home ecosystem through simple voice commands.
+Voice assistants serve as the central nervous system of most smart homes. The [Amazon Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21) stands out as an excellent entry point, offering robust voice recognition, superior sound quality, and seamless integration with thousands of compatible devices. This compact speaker can control lighting, play music, answer questions, and manage your smart home ecosystem through simple voice commands.
 
 When selecting a smart speaker, consider room size, audio quality preferences, and integration capabilities. Larger rooms benefit from speakers with enhanced bass and volume, while smaller spaces work well with compact options that focus on smart home control rather than premium audio.
 
@@ -34,7 +34,7 @@ Consider starting with frequently used areas like living rooms and bedrooms befo
 
 Smart security devices provide peace of mind through real-time monitoring, instant alerts, and remote access capabilities. Modern systems integrate cameras, doorbells, locks, and sensors into comprehensive security networks.
 
-The [Ring Video Doorbell 4](https://www.amazon.co.uk/dp/B08NY19G4C?tag=smarthomestip-21) exemplifies how smart security devices enhance home protection. This device offers crystal-clear video quality, two-way communication, motion detection, and cloud storage options, allowing homeowners to monitor their entrance remotely and interact with visitors regardless of location.
+The [Ring Video Doorbell 4](https://www.amazon.co.uk/dp/B08NY19G4C/ref=nosim?tag=smarthomestip-21) exemplifies how smart security devices enhance home protection. This device offers crystal-clear video quality, two-way communication, motion detection, and cloud storage options, allowing homeowners to monitor their entrance remotely and interact with visitors regardless of location.
 
 When building a security system, prioritize entry points like front doors, back doors, and first-floor windows. Consider your neighborhood's crime statistics, insurance requirements, and local regulations when selecting security devices.
 

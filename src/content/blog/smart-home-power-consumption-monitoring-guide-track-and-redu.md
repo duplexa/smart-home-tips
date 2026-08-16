@@ -124,7 +124,7 @@ Consider shifting activities like laundry, dishwashing, and electric vehicle cha
 
 Integrate your power monitoring system with smart home automation to automatically reduce consumption based on preset rules. For example, automatically turn off lights and electronics when rooms are unoccupied or reduce HVAC usage when energy prices peak.
 
-[internal link: smart home automation]
+Related guide: [smart home routine automation ideas](/blog/smart-home-routine-automation-ideas-transform-your-daily-lif).
 
 ### Behavioral Changes
 
@@ -146,7 +146,7 @@ If you have solar panels, look for monitoring systems that track both consumptio
 
 Monitor net metering credits and identify opportunities to shift consumption to times when your solar system produces excess electricity.
 
-[internal link: solar power systems]
+Related guide: [smart home energy efficiency tips](/blog/smart-home-energy-efficiency-tips-save-money-and-reduce-your).
 
 ### Battery Storage Coordination
 
@@ -176,11 +176,11 @@ Many monitoring systems include educational resources and customer support to he
 
 ## Popular Smart Power Monitoring Solutions
 
-Several excellent power monitoring solutions cater to different needs and budgets. The **[Sense Energy Monitor](https://www.amazon.co.uk/dp/B0CGFPDVHY?tag=smarthomestip-21)** offers sophisticated whole-home monitoring with machine learning-based device detection. This system installs at your electrical panel and can identify individual appliances automatically.
+Several excellent power monitoring solutions cater to different needs and budgets. The **[TP-Link Tapo P110M Matter Smart Plug](https://www.amazon.co.uk/dp/B0CGFPDVHY/ref=nosim?tag=smarthomestip-21)** is the best simple starting point for monitoring individual devices because it combines app-based energy tracking with Matter smart-home control.
 
-For circuit-level monitoring, the **[Emporia Vue](https://www.amazon.co.uk/dp/B0D6X6BX12?tag=smarthomestip-21)** provides an affordable option that tracks up to 16 circuits while offering excellent mobile app functionality and data visualization.
+For circuit-level monitoring, the **[Emporia Vue](https://www.amazon.co.uk/dp/B0D6X6BX12/ref=nosim?tag=smarthomestip-21)** provides an affordable option that tracks up to 16 circuits while offering excellent mobile app functionality and data visualization.
 
-The **[TP-Link Kasa Smart Plug](https://www.amazon.co.uk/dp/B08LZWBTR6?tag=smarthomestip-21)** represents a simple entry point for monitoring individual devices. These smart plugs track power consumption for whatever plugs into them and integrate well with popular smart home platforms.
+The **[TP-Link Kasa Smart Plug](https://www.amazon.co.uk/dp/B08LZWBTR6/ref=nosim?tag=smarthomestip-21)** represents a simple entry point for monitoring individual devices. These smart plugs track power consumption for whatever plugs into them and integrate well with popular smart home platforms.
 
 ## Future Trends in Power Monitoring
 

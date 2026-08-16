@@ -22,7 +22,7 @@ The beauty of gifting smart home technology lies in its universal appeal. Whethe
 
 Voice assistants remain among the most popular smart home gifts, and for good reason. They serve as central hubs for controlling other devices while providing entertainment, information, and assistance with daily tasks.
 
-The **[Amazon Echo Dot (4th Gen)](https://www.amazon.co.uk/dp/B09B96TG33?tag=smarthomestip-21)** frequently appears in this price range during sales periods, offering full Alexa functionality in a compact form. This spherical smart speaker can control other smart devices, answer questions, play music, and even make calls. Its improved sound quality compared to previous generations makes it an excellent standalone speaker as well.
+The **[Amazon Echo Dot (4th Gen)](https://www.amazon.co.uk/dp/B09B96TG33/ref=nosim?tag=smarthomestip-21)** frequently appears in this price range during sales periods, offering full Alexa functionality in a compact form. This spherical smart speaker can control other smart devices, answer questions, play music, and even make calls. Its improved sound quality compared to previous generations makes it an excellent standalone speaker as well.
 
 For those preferring a visual interface, smart displays in this price category provide added functionality. These devices can show weather forecasts, display recipes, make video calls, and serve as digital photo frames when not in active use.
 
@@ -154,5 +154,5 @@ The smart home market continues evolving rapidly, with new features and capabili
 
 ## Recommended Products
 
-- [TP-Link Kasa Smart Plug](https://www.amazon.co.uk/dp/B082DYJF52?tag=smarthomestip-21)
-- [Govee Smart LED Light Bulb](https://www.amazon.co.uk/dp/B0C3VS2DWN?tag=smarthomestip-21)
+- [TP-Link Kasa Smart Plug](https://www.amazon.co.uk/dp/B082DYJF52/ref=nosim?tag=smarthomestip-21)
+- [Govee Smart LED Light Bulb](https://www.amazon.co.uk/dp/B0C3VS2DWN/ref=nosim?tag=smarthomestip-21)

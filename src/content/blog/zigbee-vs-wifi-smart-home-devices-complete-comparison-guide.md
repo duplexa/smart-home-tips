@@ -20,13 +20,13 @@ WiFi and Zigbee represent two fundamentally different approaches to smart home c
 
 WiFi smart home devices connect directly to your existing wireless router, using the same 2.4GHz or 5GHz frequency bands as your other internet-connected devices. This direct connection approach offers immediate internet access and smartphone control from anywhere in the world.
 
-Popular WiFi smart home devices include smart thermostats, security cameras, smart speakers, and many smart switches and outlets. The [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B8YWXDF?tag=smarthomestip-21) and [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34?tag=smarthomestip-21) exemplify WiFi-based smart home hubs that rely entirely on your internet connection.
+Popular WiFi smart home devices include smart thermostats, security cameras, smart speakers, and many smart switches and outlets. The [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21) and [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34/ref=nosim?tag=smarthomestip-21) exemplify WiFi-based smart home hubs that rely entirely on your internet connection.
 
 ### Zigbee Smart Home Devices
 
 Zigbee operates on the 2.4GHz frequency but uses a different communication standard specifically optimized for low-power, low-bandwidth smart home applications. Devices form a self-healing mesh network where each device can act as a signal repeater, extending range and improving reliability.
 
-Zigbee devices require a hub or bridge to connect to your internet network. Popular options include the [Philips Hue Bridge](https://www.amazon.co.uk/dp/B016H0QZ7I?tag=smarthomestip-21), Samsung SmartThings Hub, and Amazon Echo Plus (4th generation) with built-in Zigbee support.
+Zigbee devices require a hub or bridge to connect to your internet network. Popular options include the [Philips Hue Bridge](https://www.amazon.co.uk/dp/B016H0QZ7I/ref=nosim?tag=smarthomestip-21), Samsung SmartThings Hub, and Amazon Echo Plus (4th generation) with built-in Zigbee support.
 
 ## Technical Specifications Comparison
 

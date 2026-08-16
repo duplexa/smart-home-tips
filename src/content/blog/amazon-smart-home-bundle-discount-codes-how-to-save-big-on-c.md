@@ -90,11 +90,11 @@ Some smart home accessories qualify for Subscribe and Save programs, providing o
 
 ## Recommended Smart Home Bundle Starting Points
 
-For those beginning their smart home journey, the **[Amazon Echo Dot Smart Home Bundle](https://www.amazon.co.uk/dp/B0DK71M8FZ?tag=smarthomestip-21)** provides excellent value with its combination of voice control and basic automation devices. This bundle typically includes smart plugs and basic lighting controls, creating an affordable entry point into connected home technology.
+For those beginning their smart home journey, the **[Amazon Echo Dot Smart Home Bundle](https://www.amazon.co.uk/dp/B0DK71M8FZ/ref=nosim?tag=smarthomestip-21)** provides excellent value with its combination of voice control and basic automation devices. This bundle typically includes smart plugs and basic lighting controls, creating an affordable entry point into connected home technology.
 
-Security-conscious users benefit from the **[Ring Video Doorbell Bundle](https://www.amazon.co.uk/dp/B09PKF2MBS?tag=smarthomestip-21)** which combines doorbell cameras with additional security devices like motion sensors and security cameras. The integrated monitoring system provides comprehensive home security at bundle pricing.
+Security-conscious users benefit from the **[Ring Video Doorbell Bundle](https://www.amazon.co.uk/dp/B09PKF2MBS/ref=nosim?tag=smarthomestip-21)** which combines doorbell cameras with additional security devices like motion sensors and security cameras. The integrated monitoring system provides comprehensive home security at bundle pricing.
 
-Entertainment-focused households should consider the **[Fire TV Stick Bundle](https://www.amazon.co.uk/dp/B09BZVGR73?tag=smarthomestip-21)** that pairs streaming devices with Echo speakers and smart home controls, creating an integrated entertainment and automation system.
+Entertainment-focused households should consider the **[Fire TV Stick Bundle](https://www.amazon.co.uk/dp/B09BZVGR73/ref=nosim?tag=smarthomestip-21)** that pairs streaming devices with Echo speakers and smart home controls, creating an integrated entertainment and automation system.
 
 ## Verifying Promotional Code Authenticity
 

@@ -27,7 +27,7 @@ Common compatibility problems include:
 - **Firmware limitations**: Older devices may lack support for newer communication standards
 - **Brand silos**: Manufacturers creating closed ecosystems that don't play well with competitors
 
-To address compatibility issues, research device specifications thoroughly before purchasing. Look for devices that support multiple protocols or are certified for major platforms. Consider investing in a universal hub like the **[SmartThings Hub](https://www.amazon.co.uk/dp/B07FJGGWJL?tag=smarthomestip-21)** or **[Hubitat Elevation](https://www.amazon.co.uk/dp/B0FZFVW5YR?tag=smarthomestip-21)** that can bridge different protocols.
+To address compatibility issues, research device specifications thoroughly before purchasing. Look for devices that support multiple protocols or are certified for major platforms. Consider investing in a universal hub like the **[SmartThings Hub](https://www.amazon.co.uk/dp/B07FJGGWJL/ref=nosim?tag=smarthomestip-21)** or **[Hubitat Elevation](https://www.amazon.co.uk/dp/B0FZFVW5YR/ref=nosim?tag=smarthomestip-21)** that can bridge different protocols.
 
 ### Network Infrastructure Limitations
 
@@ -40,7 +40,7 @@ Key network challenges include:
 - **Network congestion**: Overlapping frequencies causing interference
 - **Router limitations**: Older routers lacking capacity for numerous connected devices
 
-Upgrading to a mesh Wi-Fi system like the **[Eero Pro 6E](https://www.amazon.co.uk/dp/B091G7Q217?tag=smarthomestip-21)** can significantly improve network performance. Ensure your internet plan provides adequate bandwidth for your connected devices, typically requiring at least 25 Mbps for a moderately equipped smart home.
+Upgrading to a mesh Wi-Fi system like the **[Eero Pro 6E](https://www.amazon.co.uk/dp/B091G7Q217/ref=nosim?tag=smarthomestip-21)** can significantly improve network performance. Ensure your internet plan provides adequate bandwidth for your connected devices, typically requiring at least 25 Mbps for a moderately equipped smart home.
 
 ### Security and Privacy Concerns
 

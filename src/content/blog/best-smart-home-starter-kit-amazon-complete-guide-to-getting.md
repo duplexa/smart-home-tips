@@ -28,19 +28,19 @@ Expandability is equally important. A good starter kit should serve as the found
 
 ### Security-Focused Starter Kits
 
-Security-oriented kits prioritize protecting your home and family. These packages typically include door and window sensors, motion detectors, and often a security camera or video doorbell. The **[Ring Alarm 5-piece kit](https://www.amazon.co.uk/dp/B08L5TWL9D?tag=smarthomestip-21)** represents an excellent example of this category, providing comprehensive entry-level security monitoring.
+Security-oriented kits prioritize protecting your home and family. These packages typically include door and window sensors, motion detectors, and often a security camera or video doorbell. The **[Ring Alarm 5-piece kit](https://www.amazon.co.uk/dp/B08L5TWL9D/ref=nosim?tag=smarthomestip-21)** represents an excellent example of this category, providing comprehensive entry-level security monitoring.
 
 Many security kits offer professional monitoring options for an additional monthly fee, providing 24/7 surveillance even when you're away. The self-monitoring option allows you to receive alerts directly to your smartphone without ongoing costs.
 
 ### Lighting and Ambiance Kits
 
-Lighting-focused starter kits concentrate on creating the perfect ambiance while improving energy efficiency. These kits usually include smart bulbs, light switches, and sometimes smart plugs for lamp control. The **[Philips Hue White and Color Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB?tag=smarthomestip-21)** exemplifies this category, offering millions of color options and scheduling capabilities.
+Lighting-focused starter kits concentrate on creating the perfect ambiance while improving energy efficiency. These kits usually include smart bulbs, light switches, and sometimes smart plugs for lamp control. The **[Philips Hue White and Color Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB/ref=nosim?tag=smarthomestip-21)** exemplifies this category, offering millions of color options and scheduling capabilities.
 
 These systems allow you to create lighting scenes for different activities, from bright white light for reading to warm, dim lighting for relaxation. Automated scheduling can simulate presence when you're away, enhancing security while providing convenience.
 
 ### Comprehensive All-in-One Kits
 
-All-in-one starter kits provide a balanced selection of devices covering multiple smart home categories. These packages typically include a hub, various sensors, smart plugs, and sometimes smart bulbs or switches. The **[SmartThings Starter Kit](https://www.amazon.co.uk/dp/B010NZV0GE?tag=smarthomestip-21)** offers this comprehensive approach, providing flexibility to customize your automation based on personal preferences.
+All-in-one starter kits provide a balanced selection of devices covering multiple smart home categories. These packages typically include a hub, various sensors, smart plugs, and sometimes smart bulbs or switches. The **[SmartThings Starter Kit](https://www.amazon.co.uk/dp/B010NZV0GE/ref=nosim?tag=smarthomestip-21)** offers this comprehensive approach, providing flexibility to customize your automation based on personal preferences.
 
 These kits are ideal for users who want to experiment with different smart home applications before committing to specific categories. They provide enough variety to understand which features you value most in your daily routine.
 

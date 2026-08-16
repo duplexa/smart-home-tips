@@ -32,7 +32,7 @@ Understanding these patterns helps identify where the biggest savings opportunit
 
 Lighting typically accounts for 10-15% of home energy consumption. Smart LED bulbs offer the foundation for significant savings, but optimization requires more than simple replacement.
 
-Choose smart bulbs with the lowest standby power consumption—ideally under 0.5 watts when off. The **[Philips Hue White and Color Ambiance](https://www.amazon.co.uk/dp/B0D6NLR3H2?tag=smarthomestip-21)** bulbs exemplify efficient smart lighting, drawing only 0.4 watts in standby mode while offering full color control and dimming capabilities.
+Choose smart bulbs with the lowest standby power consumption—ideally under 0.5 watts when off. The **[Philips Hue White and Color Ambiance](https://www.amazon.co.uk/dp/B0D6NLR3H2/ref=nosim?tag=smarthomestip-21)** bulbs exemplify efficient smart lighting, drawing only 0.4 watts in standby mode while offering full color control and dimming capabilities.
 
 Configure your smart bulbs for maximum efficiency:
 
@@ -68,7 +68,7 @@ This approach reduces energy consumption by:
 
 Heating and cooling represent 40-50% of most homes' energy consumption, making smart thermostats your most powerful tool for reducing energy costs. However, effective programming requires understanding both comfort preferences and energy efficiency principles.
 
-The **[Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG?tag=smarthomestip-21)** demonstrates intelligent temperature management by learning your schedule and preferences while automatically creating energy-saving schedules. It can reduce heating and cooling costs by up to 23%.
+The **[Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG/ref=nosim?tag=smarthomestip-21)** demonstrates intelligent temperature management by learning your schedule and preferences while automatically creating energy-saving schedules. It can reduce heating and cooling costs by up to 23%.
 
 Implement these programming strategies:
 

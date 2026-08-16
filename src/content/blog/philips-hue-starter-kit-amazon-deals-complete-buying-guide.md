@@ -16,7 +16,7 @@ The Hue Bridge serves as the central command center, connecting your smart bulbs
 
 ### Types of Starter Kits Available
 
-Philips offers several starter kit configurations to suit different needs and budgets. The **[Philips Hue White and Color Ambiance A19 LED Smart Bulb Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB?tag=smarthomestip-21)** represents the premium option, including color-changing capabilities and the full spectrum of warm to cool white light. This kit typically contains three A19 bulbs and the Hue Bridge.
+Philips offers several starter kit configurations to suit different needs and budgets. The **[Philips Hue White and Color Ambiance A19 LED Smart Bulb Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB/ref=nosim?tag=smarthomestip-21)** represents the premium option, including color-changing capabilities and the full spectrum of warm to cool white light. This kit typically contains three A19 bulbs and the Hue Bridge.
 
 For budget-conscious buyers, the Philips Hue White starter kits provide excellent value without color-changing features. These kits focus on adjustable white light temperature and brightness control, offering the core smart lighting benefits at a lower price point.
 
@@ -54,7 +54,7 @@ Color ambiance kits add millions of colors to your lighting palette, enabling mo
 
 Philips Hue starter kits include various bulb types optimized for different fixtures and applications. A19 bulbs fit standard table lamps and ceiling fixtures, while BR30 flood lights work well in recessed ceiling installations. Candle-shaped bulbs suit chandeliers and decorative fixtures.
 
-Consider your existing fixtures when selecting starter kits. The **[Philips Hue White A19 LED Smart Bulb Starter Kit](https://www.amazon.co.uk/dp/B0152WXI18?tag=smarthomestip-21)** works for most standard applications, while specialty shapes require specific kit selections.
+Consider your existing fixtures when selecting starter kits. The **[Philips Hue White A19 LED Smart Bulb Starter Kit](https://www.amazon.co.uk/dp/B0152WXI18/ref=nosim?tag=smarthomestip-21)** works for most standard applications, while specialty shapes require specific kit selections.
 
 ### Bridge Capabilities
 
@@ -98,7 +98,7 @@ Strong network coverage throughout your home ensures responsive app control and 
 
 ### Expansion Planning
 
-Starter kits serve as the foundation for larger smart lighting systems. Plan potential expansion when selecting your initial kit. The **[Philips Hue Color and White Ambiance A19 Smart Bulb Starter Kit](https://www.amazon.co.uk/dp/B096YFWVVS?tag=smarthomestip-21)** provides the most flexibility for future additions, as color bulbs can always display white light, but white-only bulbs cannot produce colors.
+Starter kits serve as the foundation for larger smart lighting systems. Plan potential expansion when selecting your initial kit. The **[Philips Hue Color and White Ambiance A19 Smart Bulb Starter Kit](https://www.amazon.co.uk/dp/B096YFWVVS/ref=nosim?tag=smarthomestip-21)** provides the most flexibility for future additions, as color bulbs can always display white light, but white-only bulbs cannot produce colors.
 
 Consider room-specific needs when planning expansion. Bathrooms might benefit from bright white task lighting, while entertainment areas could utilize color-changing capabilities.
 

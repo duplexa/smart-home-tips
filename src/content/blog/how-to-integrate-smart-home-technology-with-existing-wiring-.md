@@ -42,7 +42,7 @@ Smart switches represent one of the most straightforward ways to upgrade your ho
 - Compatible load types (LED, incandescent, fluorescent)
 - Proper wire gauge for device amperage ratings
 
-The **[Kasa Smart WiFi Light Switch](https://www.amazon.co.uk/dp/B09F9ZR2J2?tag=smarthomestip-21)** offers reliable performance with existing wiring systems and doesn't require a separate hub. For dimming capabilities, the **[Lutron Caseta Wireless Smart Dimmer](https://www.amazon.co.uk/dp/B07DWRNRBY?tag=smarthomestip-21)** provides excellent compatibility with various bulb types and existing electrical setups.
+The **[Kasa Smart WiFi Light Switch](https://www.amazon.co.uk/dp/B09F9ZR2J2/ref=nosim?tag=smarthomestip-21)** offers reliable performance with existing wiring systems and doesn't require a separate hub. For dimming capabilities, the **[Lutron Caseta Wireless Smart Dimmer](https://www.amazon.co.uk/dp/B07DWRNRBY/ref=nosim?tag=smarthomestip-21)** provides excellent compatibility with various bulb types and existing electrical setups.
 
 ### Smart Outlets and Receptacles
 

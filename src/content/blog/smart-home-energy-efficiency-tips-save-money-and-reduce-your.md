@@ -20,7 +20,7 @@ Before implementing specific technologies, establish a baseline understanding of
 
 ### Programmable Smart Thermostats
 
-Smart thermostats represent one of the most impactful energy efficiency investments. The **[Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG?tag=smarthomestip-21)** adapts to your schedule and preferences, automatically adjusting temperatures when you're away. Similarly, the **[Ecobee SmartThermostat](https://www.amazon.co.uk/dp/B0CN67XQKW?tag=smarthomestip-21)** uses room sensors to ensure even temperature distribution while avoiding energy waste in unoccupied areas.
+Smart thermostats represent one of the most impactful energy efficiency investments. The **[Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG/ref=nosim?tag=smarthomestip-21)** adapts to your schedule and preferences, automatically adjusting temperatures when you're away. Similarly, the **[Ecobee SmartThermostat](https://www.amazon.co.uk/dp/B0CN67XQKW/ref=nosim?tag=smarthomestip-21)** uses room sensors to ensure even temperature distribution while avoiding energy waste in unoccupied areas.
 
 Implement these thermostat strategies:
 
@@ -46,7 +46,7 @@ Modern smart HVAC systems can integrate with whole-home automation platforms, en
 
 ### LED Smart Bulbs and Energy Savings
 
-Smart LED bulbs consume significantly less energy than traditional incandescent bulbs while offering advanced control features. The **[Philips Hue](https://www.amazon.co.uk/dp/B095KQSXYH?tag=smarthomestip-21)** system provides color-changing capabilities and scheduling options, while the **LIFX** bulbs offer bright, efficient lighting with extensive customization.
+Smart LED bulbs consume significantly less energy than traditional incandescent bulbs while offering advanced control features. The **[Philips Hue](https://www.amazon.co.uk/dp/B095KQSXYH/ref=nosim?tag=smarthomestip-21)** system provides color-changing capabilities and scheduling options, while the **LIFX** bulbs offer bright, efficient lighting with extensive customization.
 
 ### Automated Lighting Control
 

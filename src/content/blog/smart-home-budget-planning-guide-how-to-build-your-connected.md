@@ -75,7 +75,7 @@ Start with essential infrastructure and basic security. This phase typically cos
 - Smart locks for main entry points
 - Simple motion sensors
 
-The **[Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M?tag=smarthomestip-21)** offers excellent value for entry-point security, while the **[Aqara Hub M2](https://www.amazon.co.uk/dp/B08Y1PJZZH?tag=smarthomestip-21)** provides affordable centralized control for multiple device types.
+The **[Ring Video Doorbell Pro 2](https://www.amazon.co.uk/dp/B086QKXW1M/ref=nosim?tag=smarthomestip-21)** offers excellent value for entry-point security, while the **[Aqara Hub M2](https://www.amazon.co.uk/dp/B08Y1PJZZH/ref=nosim?tag=smarthomestip-21)** provides affordable centralized control for multiple device types.
 
 ### Phase 2: Comfort and Basic Automation (Months 4-6)
 
@@ -86,7 +86,7 @@ Expand into comfort-focused devices that provide immediate benefits:
 - Smart plugs for existing appliances
 - Window treatment automation
 
-The **[Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG?tag=smarthomestip-21)** delivers significant energy savings that help offset its cost, while **Philips Hue** starter kits provide flexible lighting automation options.
+The **[Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG/ref=nosim?tag=smarthomestip-21)** delivers significant energy savings that help offset its cost, while **Philips Hue** starter kits provide flexible lighting automation options.
 
 ### Phase 3: Advanced Features and Integration (Months 7-12)
 

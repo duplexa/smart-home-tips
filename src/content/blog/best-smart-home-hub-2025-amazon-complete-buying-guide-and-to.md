@@ -32,7 +32,7 @@ Amazon's return policy and customer support provide peace of mind when investing
 
 ## Top Smart Home Hubs Available on Amazon
 
-### [Amazon Echo (4th Generation)](https://www.amazon.co.uk/dp/B08K898H75?tag=smarthomestip-21)
+### [Amazon Echo (4th Generation)](https://www.amazon.co.uk/dp/B08K898H75/ref=nosim?tag=smarthomestip-21)
 
 The Echo 4th Generation represents Amazon's flagship smart speaker with built-in Zigbee hub functionality. Its spherical design houses premium audio drivers and advanced far-field voice recognition.
 
