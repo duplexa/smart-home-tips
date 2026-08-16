@@ -28,7 +28,10 @@ const { title, description, image, type = 'website', date, author } = Astro.prop
         <a href="/" class="site-title">{siteConfig.name}</a>
         <div class="nav-links">
           <a href="/">Home</a>
+          <a href="/categories/buying-guides">Buying Guides</a>
+          <a href="/categories/security">Security</a>
           <a href="/blog">Blog</a>
+          <a href="/about">About</a>
         </div>
       </nav>
       <AdSlot position="header" />
@@ -40,6 +43,8 @@ const { title, description, image, type = 'website', date, author } = Astro.prop
 
     <footer class="site-footer">
       <AdSlot position="footer" />
+      <p class="footer-disclosure">{siteConfig.affiliateDisclosure}</p>
+      <p><a href="/affiliate-disclosure">Affiliate disclosure</a> · <a href="/about">About</a></p>
       <p>&copy; {new Date().getFullYear()} {siteConfig.footer}. All rights reserved.</p>
     </footer>
   </body>
@@ -47,14 +52,81 @@ const { title, description, image, type = 'website', date, author } = Astro.prop
 
 <style is:global>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  html { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; color: #222; }
-  body { max-width: 720px; margin: 0 auto; padding: 0 1rem; }
-  a { color: #0066cc; text-decoration: none; }
+  :root {
+    --ink: #1b2522;
+    --muted: #5d6b66;
+    --line: #dfe7e3;
+    --soft: #f4f8f6;
+    --accent: #0f766e;
+    --accent-strong: #0b5f59;
+    --warn: #fff7dc;
+  }
+  html { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; color: var(--ink); background: #fbfdfc; }
+  body { max-width: 1120px; margin: 0 auto; padding: 0 1.25rem; }
+  a { color: var(--accent-strong); text-decoration: none; }
   a:hover { text-decoration: underline; }
   img { max-width: 100%; height: auto; }
-  .site-header nav { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; border-bottom: 1px solid #eee; }
-  .site-title { font-weight: 700; font-size: 1.1rem; color: #222; }
-  .nav-links { display: flex; gap: 1rem; }
-  main { min-height: 60vh; padding: 2rem 0; }
-  .site-footer { border-top: 1px solid #eee; padding: 1rem 0; text-align: center; font-size: 0.85rem; color: #666; }
+  .site-header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .site-title { font-weight: 800; font-size: 1.08rem; color: var(--ink); }
+  .nav-links { display: flex; gap: 0.85rem; flex-wrap: wrap; justify-content: flex-end; font-size: 0.95rem; }
+  main { min-height: 60vh; padding: 2rem 0 3rem; }
+  .site-footer {
+    border-top: 1px solid var(--line);
+    padding: 1.25rem 0 2rem;
+    text-align: center;
+    font-size: 0.88rem;
+    color: var(--muted);
+  }
+  .footer-disclosure { max-width: 720px; margin: 0 auto 0.5rem; }
+  .eyebrow {
+    color: var(--accent-strong);
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 1rem;
+  }
+  .card {
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 1rem;
+    background: #fff;
+  }
+  .card h2,
+  .card h3 { line-height: 1.25; margin-bottom: 0.35rem; }
+  .card p { color: var(--muted); font-size: 0.95rem; }
+  .button-link {
+    display: inline-block;
+    margin-top: 0.85rem;
+    border-radius: 6px;
+    background: var(--accent);
+    color: white;
+    padding: 0.58rem 0.85rem;
+    font-weight: 700;
+  }
+  .button-link:hover { background: var(--accent-strong); text-decoration: none; }
+  .notice {
+    background: var(--warn);
+    border: 1px solid #ead48a;
+    border-radius: 8px;
+    padding: 0.8rem 1rem;
+    color: #4d431b;
+    font-size: 0.92rem;
+  }
+  @media (max-width: 720px) {
+    body { padding: 0 1rem; }
+    .site-header nav { align-items: flex-start; flex-direction: column; }
+    .nav-links { justify-content: flex-start; }
+  }
 </style>

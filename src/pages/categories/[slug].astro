@@ -1,0 +1,44 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { categories, getExcerpt, getPostCategory, isBuyerIntentPost } from '../../lib/content';
+
+export async function getStaticPaths() {
+  return categories.map((category) => ({ params: { slug: category.slug }, props: { category } }));
+}
+
+const { category } = Astro.props;
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .filter((post) => getPostCategory(post).slug === category.slug)
+  .sort((a, b) => Number(isBuyerIntentPost(b)) - Number(isBuyerIntentPost(a)) || b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<Base title={`${category.label} | Smart Home Tips`} description={category.description}>
+  <header class="category-header">
+    <p class="eyebrow">Topic hub</p>
+    <h1>{category.label}</h1>
+    <p>{category.description}</p>
+  </header>
+
+  <div class="grid">
+    {posts.map((post) => (
+      <article class:list={['card', { commercial: isBuyerIntentPost(post) }]}>
+        {isBuyerIntentPost(post) && <p class="eyebrow">Buying guide</p>}
+        <h2><a href={`/blog/${post.id}`}>{post.data.title}</a></h2>
+        <p>{getExcerpt(post)}</p>
+        <time datetime={post.data.date.toISOString()}>
+          {post.data.date.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })}
+        </time>
+      </article>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .category-header { max-width: 760px; margin-bottom: 1.5rem; }
+  .category-header h1 { margin: 0.25rem 0 0.5rem; font-size: 2.3rem; line-height: 1.08; }
+  .category-header p { color: var(--muted); }
+  .card h2 { font-size: 1.08rem; }
+  .commercial { border-color: #b7d6d1; background: #fbfffe; }
+  time { display: block; margin-top: 0.75rem; color: var(--muted); font-size: 0.86rem; }
+</style>

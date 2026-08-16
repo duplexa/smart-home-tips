@@ -26,6 +26,7 @@ const siteName = 'Smart Home Tips';
 <meta name="title" content={`${title} | ${siteName}`} />
 <meta name="description" content={description} />
 {author && <meta name="author" content={author} />}
+<meta name="robots" content="index,follow,max-image-preview:large" />
 
 <!-- Open Graph -->
 <meta property="og:type" content={type} />
@@ -44,6 +45,7 @@ const siteName = 'Smart Home Tips';
 
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="alternate" type="application/rss+xml" title={`${siteName} RSS`} href="/rss.xml" />
 
 <!-- RSS (optional, add feed integration later) -->
 <!-- <link rel="alternate" type="application/rss+xml" title={siteName} href="/rss.xml" /> -->

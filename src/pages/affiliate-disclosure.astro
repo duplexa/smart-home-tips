@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import siteConfig from '../site.config';
+---
+
+<Base
+  title="Affiliate Disclosure"
+  description="How Smart Home Tips uses affiliate links, including Amazon Associate links."
+>
+  <section class="page">
+    <p class="eyebrow">Disclosure</p>
+    <h1>Affiliate Disclosure</h1>
+
+    <div class="notice">{siteConfig.affiliateDisclosure}</div>
+
+    <p>
+      Some links on Smart Home Tips are affiliate links. This means we may earn a commission if you click a link
+      and make a qualifying purchase, at no additional cost to you.
+    </p>
+    <p>
+      Affiliate links do not change the price you pay. They help support the time spent researching, writing,
+      updating, and maintaining the site.
+    </p>
+    <p>
+      We aim to recommend products and services only when they are relevant to the article and useful for the reader.
+      You should still check current pricing, compatibility, warranties, subscriptions, and reviews before buying.
+    </p>
+  </section>
+</Base>
+
+<style>
+  .page { max-width: 760px; }
+  h1 { margin: 0.25rem 0 1rem; font-size: clamp(2rem, 5vw, 3.4rem); line-height: 1.02; }
+  p { margin: 1rem 0; color: var(--muted); font-size: 1.03rem; }
+</style>

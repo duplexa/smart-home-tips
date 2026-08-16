@@ -2,25 +2,84 @@
 import Base from '../layouts/Base.astro';
 import siteConfig from '../site.config';
 import { getCollection } from 'astro:content';
+import { categories, getExcerpt, getPostCategory, isBuyerIntentPost } from '../lib/content';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 5);
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const buyingGuides = posts.filter(isBuyerIntentPost).slice(0, 6);
+const recentPosts = posts.slice(0, 6);
+const featuredCategories = categories.map((category) => ({
+  ...category,
+  count: posts.filter((post) => getPostCategory(post).slug === category.slug).length,
+}));
 ---
 
-<Base title="Home" description={siteConfig.description}>
-  <h1>{siteConfig.name}</h1>
-  <p>{siteConfig.description}</p>
+<Base title="UK Smart Home Buying Guides" description={siteConfig.description}>
+  <section class="hero">
+    <div>
+      <p class="eyebrow">Smart home advice that helps you choose</p>
+      <h1>Build a smarter home without buying the wrong kit.</h1>
+      <p>
+        Practical UK buying guides, compatibility explainers, and setup advice for Alexa, Google Home,
+        Matter, Zigbee, security, lighting, heating, and Wi-Fi.
+      </p>
+      <a class="button-link" href="/categories/buying-guides">Browse buying guides</a>
+    </div>
+    <aside class="hero-panel">
+      <h2>Start here</h2>
+      <ul>
+        <li><a href="/categories/buying-guides">Best devices and comparisons</a></li>
+        <li><a href="/categories/setup-automation">Setup and automation help</a></li>
+        <li><a href="/categories/wifi-hubs">Wi-Fi, hubs, Matter, and Zigbee</a></li>
+      </ul>
+    </aside>
+  </section>
 
-  <section>
-    <h2>Recent Posts</h2>
+  <section class="section">
+    <div class="section-heading">
+      <h2>Buying Guides</h2>
+      <a href="/categories/buying-guides">View all</a>
+    </div>
+    <div class="grid">
+      {buyingGuides.map((post) => (
+        <article class="card">
+          <p class="eyebrow">{getPostCategory(post).label}</p>
+          <h3><a href={`/blog/${post.id}`}>{post.data.title}</a></h3>
+          <p>{getExcerpt(post)}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <h2>Topics</h2>
+      <a href="/blog">All posts</a>
+    </div>
+    <div class="grid">
+      {featuredCategories.map((category) => (
+        <article class="card">
+          <h3><a href={`/categories/${category.slug}`}>{category.label}</a></h3>
+          <p>{category.description}</p>
+          <p class="count">{category.count} guides</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <h2>Latest Advice</h2>
+      <a href="/blog">View archive</a>
+    </div>
     <ul class="post-list">
-      {posts.map((post) => (
+      {recentPosts.map((post) => (
         <li>
           <a href={`/blog/${post.id}`}>
-            <span class="post-title">{post.data.title}</span>
+            <span>{post.data.title}</span>
             <time datetime={post.data.date.toISOString()}>
-              {post.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+              {post.data.date.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })}
             </time>
           </a>
         </li>
@@ -30,11 +89,51 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
 </Base>
 
 <style>
-  h1 { margin-bottom: 0.5rem; }
-  h2 { margin-top: 2rem; margin-bottom: 1rem; font-size: 1.25rem; }
-  .post-list { list-style: none; }
-  .post-list li { padding: 0.5rem 0; border-bottom: 1px solid #f0f0f0; }
-  .post-list a { display: flex; justify-content: space-between; align-items: center; }
-  .post-title { font-weight: 500; }
-  time { font-size: 0.85rem; color: #888; }
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 2rem;
+    align-items: start;
+    padding: 1rem 0 2rem;
+  }
+  .hero h1 {
+    max-width: 780px;
+    margin: 0.35rem 0 0.75rem;
+    font-size: clamp(2.1rem, 6vw, 4.4rem);
+    line-height: 0.98;
+  }
+  .hero p { max-width: 700px; color: var(--muted); font-size: 1.08rem; }
+  .hero-panel {
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 1rem;
+    background: var(--soft);
+  }
+  .hero-panel h2 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .hero-panel ul { padding-left: 1.2rem; }
+  .hero-panel li { margin: 0.4rem 0; }
+  .section { margin-top: 2.5rem; }
+  .section-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  .section-heading h2 { font-size: 1.35rem; }
+  .count { margin-top: 0.8rem; font-weight: 700; color: var(--accent-strong) !important; }
+  .post-list { list-style: none; border-top: 1px solid var(--line); }
+  .post-list li { border-bottom: 1px solid var(--line); }
+  .post-list a {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.75rem 0;
+  }
+  time { color: var(--muted); white-space: nowrap; font-size: 0.9rem; }
+  @media (max-width: 820px) {
+    .hero { grid-template-columns: 1fr; }
+    .post-list a { display: block; }
+    time { display: block; margin-top: 0.25rem; }
+  }
 </style>

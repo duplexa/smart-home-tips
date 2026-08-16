@@ -38,6 +38,18 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+## Deployment
+
+Production deploys run from GitHub Actions on every push to `main`.
+
+Required repository secrets:
+
+- `CLOUDFLARE_API_TOKEN`: Cloudflare API token with permission to deploy Workers.
+- `CLOUDFLARE_ACCOUNT_ID`: Cloudflare account ID for the Workers account.
+
+The workflow installs dependencies, runs `npm run build`, then deploys the existing
+`smart-home-tips` Worker with Wrangler.
+
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
