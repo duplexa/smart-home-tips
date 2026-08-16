@@ -25,7 +25,7 @@ Both devices offer solid construction, but the Nest Hello's unique shape makes i
 
 ### Recording Resolution and Clarity
 
-Both doorbells record in 1080p HD resolution, but their video quality characteristics differ notably. The Ring Doorbell Pro provides crisp daytime footage with good color accuracy and detail capture. The video quality remains consistent in various lighting conditions, though performance can vary slightly depending on network strength.
+Both doorbells record in 1080p HD resolution, but their video quality characteristics differ notably. The Ring Doorbell Pro provides crisp daytime footage with good colour accuracy and detail capture. The video quality remains consistent in various lighting conditions, though performance can vary slightly depending on network strength.
 
 The Google Nest Hello delivers exceptional video quality with enhanced HDR (High Dynamic Range) capabilities. This feature significantly improves image clarity in challenging lighting situations, such as when bright sunlight creates harsh shadows or during dawn and dusk periods. The HDR processing helps balance exposure across the entire frame, resulting in more detailed and usable footage.
 

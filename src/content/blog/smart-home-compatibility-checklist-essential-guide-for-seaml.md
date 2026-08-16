@@ -165,10 +165,10 @@ Integrating security devices requires additional considerations:
 
 ### Climate Control Integration
 
-HVAC systems need careful compatibility assessment:
+heating and cooling systems need careful compatibility assessment:
 
 **Thermostat Compatibility**
-- Verify HVAC system type support
+- Verify heating and cooling system type support
 - Check wiring requirements and common wire needs
 - Confirm heating and cooling stages supported
 - Assess multi-zone system integration
@@ -176,7 +176,7 @@ HVAC systems need careful compatibility assessment:
 **Smart Vent Compatibility**
 - Check duct size and mounting requirements
 - Verify pressure sensor compatibility
-- Assess integration with existing HVAC controls
+- Assess integration with existing heating and cooling controls
 - Consider energy efficiency implications
 
 ## Voice Assistant Integration Planning

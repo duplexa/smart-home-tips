@@ -22,7 +22,7 @@ Indoor cameras monitor interior spaces and can serve dual purposes as pet camera
 
 ### Smart Doorbell Cameras
 
-Video doorbells have become increasingly popular, allowing homeowners to see and communicate with visitors remotely. These devices typically feature motion detection, HD video recording, and smartphone integration, enabling you to answer your door from anywhere.
+Video doorbells have become increasingly popular, allowing homeowners and renters to see and communicate with visitors remotely. These devices typically feature motion detection, HD video recording, and smartphone integration, enabling you to answer your door from anywhere.
 
 ### Motion Sensors and Detection Systems
 

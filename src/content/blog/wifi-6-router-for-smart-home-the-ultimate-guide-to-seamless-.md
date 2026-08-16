@@ -1,6 +1,6 @@
 ---
 title: "WiFi 6 Router for Smart Home: The Ultimate Guide to Seamless Connectivity"
-description: "Discover the best WiFi 6 routers for smart homes. Complete guide covering features, setup, security, and performance optimization for connected devices."
+description: "Discover the best WiFi 6 routers for smart homes. Complete guide covering features, setup, security, and performance optimisation for connected devices."
 date: 2026-04-10
 ---
 

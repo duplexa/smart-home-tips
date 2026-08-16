@@ -89,7 +89,7 @@ Key sections in your configuration include:
 
 Home Assistant excels at lighting control, supporting major brands like:
 
-- **Philips Hue**: Complete color and brightness control
+- **Philips Hue**: Complete colour and brightness control
 - **LIFX**: RGB and white temperature adjustment
 - **Zigbee Devices**: Direct local control without hubs
 - **Z-Wave Switches**: Reliable mesh networking
@@ -175,7 +175,7 @@ The Lovelace dashboard system allows complete customization of your Home Assista
 
 - **Cards**: Individual interface elements for different data types
 - **Views**: Organized tabs for different areas or functions
-- **Themes**: Visual styling options for personalization
+- **Themes**: Visual styling options for personalisation
 - **Custom Components**: Community-created interface enhancements
 
 ### Mobile Experience
@@ -258,7 +258,7 @@ Home Assistant stays ahead of trends by embracing:
 - **Energy Management**: Solar panel and battery monitoring
 - **AI Integration**: Machine learning for predictive automations
 - **Health Monitoring**: Integration with fitness and health devices
-- **Sustainability**: Energy usage optimization and reporting
+- **Sustainability**: Energy usage optimisation and reporting
 
 ## Conclusion
 

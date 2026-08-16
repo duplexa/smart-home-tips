@@ -75,9 +75,9 @@ Security devices often require reliable communication and may have specific comp
 
 ### Climate Control
 
-**Smart Thermostats** must be compatible with your HVAC system's wiring and configuration. Some systems require professional installation, particularly for complex multi-zone setups.
+**Smart Thermostats** must be compatible with your heating and cooling system's wiring and configuration. Some systems require professional installation, particularly for complex multi-zone setups.
 
-**Smart Vents** and **Zone Controllers** should integrate with your primary thermostat and HVAC system for optimal performance and energy efficiency.
+**Smart Vents** and **Zone Controllers** should integrate with your primary thermostat and heating and cooling system for optimal performance and energy efficiency.
 
 ### Entertainment and Media
 

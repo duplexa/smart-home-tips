@@ -28,9 +28,9 @@ For those seeking enhanced audio performance, consider speakers with better soun
 
 ### Smart Lighting Solutions
 
-Smart lighting represents one of the most impactful and cost-effective smart home upgrades. These systems allow you to control brightness, color, and scheduling from your smartphone or voice assistant.
+Smart lighting represents one of the most impactful and cost-effective smart home upgrades. These systems allow you to control brightness, colour, and scheduling from your smartphone or voice assistant.
 
-Smart bulbs offer incredible versatility without requiring electrical work. Simply replace existing bulbs with smart alternatives and connect them to your home network. Many budget-friendly options support millions of colors, dimming capabilities, and automated scheduling.
+Smart bulbs offer incredible versatility without requiring electrical work. Simply replace existing bulbs with smart alternatives and connect them to your home network. Many budget-friendly options support millions of colours, dimming capabilities, and automated scheduling.
 
 For rooms with multiple light fixtures, smart switches provide more comprehensive control. Though installation requires basic electrical knowledge, they enable control of any connected light regardless of bulb type.
 
@@ -42,7 +42,7 @@ Affordable smart security devices provide peace of mind without expensive monito
 
 Smart doorbells have revolutionized home security by combining traditional doorbell functionality with video monitoring and two-way communication. Budget-friendly models often include motion detection, night vision, and smartphone notifications when someone approaches your door.
 
-Indoor security cameras offer versatile monitoring solutions for apartments, rental properties, or specific rooms. Look for devices with high-definition video, night vision, and reliable motion detection. Many budget options include cloud storage for recorded footage and real-time smartphone alerts.
+Indoor security cameras offer versatile monitoring solutions for flats, rental properties, or specific rooms. Look for devices with high-definition video, night vision, and reliable motion detection. Many budget options include cloud storage for recorded footage and real-time smartphone alerts.
 
 Window and door sensors create comprehensive security networks by monitoring entry points throughout your home. These small, wireless devices attach easily to doors and windows, sending alerts whenever they're opened unexpectedly.
 

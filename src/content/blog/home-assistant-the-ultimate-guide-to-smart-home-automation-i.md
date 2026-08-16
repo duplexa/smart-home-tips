@@ -141,7 +141,7 @@ smart home security essentials
 
 ### Performance Optimization
 
-As your Home Assistant installation grows, you may encounter performance issues. Several optimization strategies can help maintain smooth operation:
+As your Home Assistant installation grows, you may encounter performance issues. Several optimisation strategies can help maintain smooth operation:
 
 **Database Maintenance**: Regular database maintenance prevents bloat and improves query performance.
 
@@ -167,7 +167,7 @@ Home Assistant's Lovelace UI system allows for extensive dashboard customization
 
 **Card Types**: Choose from dozens of card types to display information and controls in the most appropriate format.
 
-**Themes**: Apply custom themes to change the appearance of your dashboard, including colors, fonts, and layout styles.
+**Themes**: Apply custom themes to change the appearance of your dashboard, including colours, fonts, and layout styles.
 
 **Conditional Cards**: Show or hide interface elements based on device states or user permissions.
 

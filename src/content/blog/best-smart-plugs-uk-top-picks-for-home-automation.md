@@ -5,11 +5,11 @@ date: 2026-04-16
 redirectTo: "/best-smart-plugs-uk/"
 ---
 
-Smart plugs are among the most affordable and versatile ways to transform your home into a connected ecosystem. These compact devices plug into your existing wall outlets and allow you to control any connected appliance remotely through your smartphone or voice commands. Whether you want to schedule your coffee maker, monitor energy usage, or create automated routines, smart plugs offer an excellent entry point into home automation.
+Smart plugs are among the most affordable and versatile ways to transform your home into a connected ecosystem. These compact devices plug into your existing wall sockets and allow you to control any connected appliance remotely through your smartphone or voice commands. Whether you want to schedule your coffee maker, monitor energy usage, or create automated routines, smart plugs offer an excellent entry point into home automation.
 
 ## What Are Smart Plugs and How Do They Work?
 
-A smart plug is a Wi-Fi enabled adapter that sits between your wall outlet and any electrical device. Once connected to your home network and paired with a companion app, you can control the power supply to connected devices from anywhere with an internet connection.
+A smart plug is a Wi-Fi enabled adapter that sits between your wall socket and any electrical device. Once connected to your home network and paired with a companion app, you can control the power supply to connected devices from anywhere with an internet connection.
 
 Most smart plugs connect directly to your 2.4GHz Wi-Fi network, though some premium models also support 5GHz bands or use alternative protocols like Zigbee or Z-Wave. The basic functionality remains consistent across brands: turn devices on or off remotely, set schedules, and monitor power consumption.
 
@@ -51,7 +51,7 @@ Weatherproof smart plugs designed for outdoor use feature IP ratings of IP44 or 
 
 ### Multi-Outlet Smart Plugs
 
-Smart power strips with multiple individually controlled outlets offer excellent value when you need to automate several devices in one location. These units typically include USB charging ports as well.
+Smart power strips with multiple individually controlled sockets offer excellent value when you need to automate several devices in one location. These units typically include USB charging ports as well.
 
 ## Installation and Setup Process
 
@@ -61,7 +61,7 @@ Setting up most smart plugs follows a similar process:
 
 1. Download the manufacturer's app from the App Store or Google Play
 2. Create an account and log in
-3. Plug the smart plug into a wall outlet
+3. Plug the smart plug into a wall socket
 4. Follow the app's pairing instructions, usually involving pressing a button on the plug
 5. Connect the plug to your Wi-Fi network
 6. Name the device and assign it to a room

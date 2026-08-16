@@ -37,7 +37,7 @@ With 100 devices and moderate automation complexity, Home Assistant generally co
 
 OpenHAB's Java foundation means higher initial memory requirements, typically starting around 200-400MB for a basic installation. However, the JVM's mature memory management often provides more predictable long-term performance.
 
-The platform benefits from JVM optimizations like just-in-time compilation, which can improve performance over time as frequently used code paths become optimized. Memory usage scales more linearly with device count and automation complexity.
+The platform benefits from JVM optimizations like just-in-time compilation, which can improve performance over time as frequently used code paths become optimised. Memory usage scales more linearly with device count and automation complexity.
 
 A comparable OpenHAB installation with 100 devices usually requires 500-900MB of RAM, with the JVM heap size being configurable to optimize performance for your specific setup.
 
@@ -55,7 +55,7 @@ OpenHAB leverages Java's multi-threading capabilities more extensively, allowing
 
 Both platforms typically respond to simple triggers within milliseconds under normal conditions. Home Assistant often shows slightly faster response times for basic device state changes due to its streamlined event handling.
 
-OpenHAB may exhibit marginally slower initial responses but maintains more consistent performance under heavy automation loads. The JVM's optimization over time can actually improve response speeds for frequently executed automations.
+OpenHAB may exhibit marginally slower initial responses but maintains more consistent performance under heavy automation loads. The JVM's optimisation over time can actually improve response speeds for frequently executed automations.
 
 ## Storage and Database Performance
 
@@ -65,11 +65,11 @@ Home Assistant uses SQLite by default, which provides excellent performance for 
 
 For larger installations, Home Assistant supports PostgreSQL and MySQL, which can improve performance when dealing with extensive historical data or high-frequency sensor updates.
 
-OpenHAB's modular persistence approach allows you to choose different storage backends for different types of data. This flexibility enables optimization based on specific use patterns, such as using InfluxDB for time-series sensor data while maintaining configuration in lighter storage systems.
+OpenHAB's modular persistence approach allows you to choose different storage backends for different types of data. This flexibility enables optimisation based on specific use patterns, such as using InfluxDB for time-series sensor data while maintaining configuration in lighter storage systems.
 
 ### Historical Data Management
 
-Both platforms can struggle with large historical datasets if not properly managed. Home Assistant includes built-in database purging and optimization tools, making maintenance relatively straightforward.
+Both platforms can struggle with large historical datasets if not properly managed. Home Assistant includes built-in database purging and optimisation tools, making maintenance relatively straightforward.
 
 OpenHAB's persistence flexibility allows for more sophisticated data retention strategies, potentially reducing storage overhead and improving query performance for specific use cases.
 
@@ -77,11 +77,11 @@ OpenHAB's persistence flexibility allows for more sophisticated data retention s
 
 ### Device Integration Efficiency
 
-Home Assistant's extensive integration library means most devices connect with optimized, purpose-built integrations. These integrations often provide efficient communication protocols and appropriate polling intervals.
+Home Assistant's extensive integration library means most devices connect with optimised, purpose-built integrations. These integrations often provide efficient communication protocols and appropriate polling intervals.
 
 The platform handles Zigbee, Z-Wave, and WiFi devices effectively, with performance largely dependent on the quality of individual integrations rather than the core platform.
 
-OpenHAB uses a binding system that provides consistent interfaces across different device types. While this creates uniformity, some bindings may not be as optimized as Home Assistant's specialized integrations.
+OpenHAB uses a binding system that provides consistent interfaces across different device types. While this creates uniformity, some bindings may not be as optimised as Home Assistant's specialized integrations.
 
 ### Cloud Service Integration
 
@@ -119,9 +119,9 @@ OpenHAB installations should start with at least 4GB RAM due to JVM requirements
 
 ### Performance Tuning Options
 
-Home Assistant offers several performance optimization options, including database configuration tweaks, integration management, and automation optimization. The platform's recorder component allows fine-tuning of what data gets stored and for how long.
+Home Assistant offers several performance optimisation options, including database configuration tweaks, integration management, and automation optimisation. The platform's recorder component allows fine-tuning of what data gets stored and for how long.
 
-OpenHAB provides extensive JVM tuning options, including heap size configuration, garbage collection optimization, and binding-specific performance settings. The platform's modular nature allows disabling unnecessary components to reduce resource usage.
+OpenHAB provides extensive JVM tuning options, including heap size configuration, garbage collection optimisation, and binding-specific performance settings. The platform's modular nature allows disabling unnecessary components to reduce resource usage.
 
 ## Real-World Performance Testing
 

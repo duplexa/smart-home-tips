@@ -116,11 +116,11 @@ Basic starter kits typically range from £50-£100 and include fundamental compo
 
 ### Mid-Range Systems
 
-Mid-tier kits (£100-£200) offer more sensors, better apps, and additional features like voice control integration. These provide better value for homeowners planning to expand their systems gradually.
+Mid-tier kits (£100-£200) offer more sensors, better apps, and additional features like voice control integration. These provide better value for homeowners and renters planning to expand their systems gradually.
 
 ### Premium Packages
 
-High-end kits (£200+) include professional-grade components, advanced automation features, and comprehensive device ecosystems. These suit tech enthusiasts and homeowners wanting robust, expandable systems from day one.
+High-end kits (£200+) include professional-grade components, advanced automation features, and comprehensive device ecosystems. These suit tech enthusiasts and homeowners and renters wanting robust, expandable systems from day one.
 
 ### Cost Per Device Analysis
 

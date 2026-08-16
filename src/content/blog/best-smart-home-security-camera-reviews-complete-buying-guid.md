@@ -36,7 +36,7 @@ Pan-tilt-zoom (PTZ) capabilities allow remote control of camera positioning, ena
 
 ### Night Vision Technology
 
-Effective night vision ensures round-the-clock security coverage. **Infrared (IR) night vision** uses invisible light to illuminate scenes in complete darkness, typically effective up to 30-100 feet. **Color night vision** employs ambient light and advanced sensors to maintain color information in low-light conditions.
+Effective night vision ensures round-the-clock security coverage. **Infrared (IR) night vision** uses invisible light to illuminate scenes in complete darkness, typically effective up to 30-100 feet. **Colour night vision** employs ambient light and advanced sensors to maintain colour information in low-light conditions.
 
 ### Motion Detection and AI Features
 

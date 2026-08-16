@@ -86,7 +86,7 @@ Access Assistant Settings through the Google Assistant app or by saying "Hey Goo
 
 ### Location and Device Data
 
-In your Google account settings, review Location History and Timeline settings. These affect how Google Assistant uses location data for personalized responses and recommendations.
+In your Google account settings, review Location History and Timeline settings. These affect how Google Assistant uses location data for personalised responses and recommendations.
 
 ## Apple Siri Privacy Settings
 
@@ -109,7 +109,7 @@ In Settings > Siri & Search, control which apps can provide suggestions and whet
 For HomePod users, configure personal requests through the Home app. Navigate to Home Settings > [Your Name] and manage which personal information Siri can access on shared devices.
 
 **Voice Recognition Settings:**
-- Enable "Recognize My Voice" for personalized responses
+- Enable "Recognize My Voice" for personalised responses
 - Disable personal requests when others might use the device
 - Set up restricted modes for guest access
 
@@ -117,7 +117,7 @@ For HomePod users, configure personal requests through the Home app. Navigate to
 
 ### Cortana Privacy Dashboard
 
-Access Cortana privacy settings through your Microsoft account at account.microsoft.com. Navigate to Privacy Dashboard to manage voice data and personalization settings.
+Access Cortana privacy settings through your Microsoft account at account.microsoft.com. Navigate to Privacy Dashboard to manage voice data and personalisation settings.
 
 ### Voice Data and Search History
 
@@ -128,7 +128,7 @@ Access Cortana privacy settings through your Microsoft account at account.micros
 4. Configure automatic deletion schedules
 
 **Search and Browsing History:**
-Manage how Cortana uses your search and browsing data for personalized responses through the Search History section of your privacy dashboard.
+Manage how Cortana uses your search and browsing data for personalised responses through the Search History section of your privacy dashboard.
 
 ### Cortana Across Devices
 
@@ -176,7 +176,7 @@ Set up separate voice profiles for each family member to compartmentalize person
 Configure robust parental controls for children's accounts, including restricted access to purchases, communications, and explicit content.
 
 **Guest Mode Settings:**
-Enable guest modes or temporary user settings when visitors use your devices, preventing their interactions from affecting your personalized settings.
+Enable guest modes or temporary user settings when visitors use your devices, preventing their interactions from affecting your personalised settings.
 
 ### Business and Office Environments
 

@@ -17,7 +17,7 @@ Amazon's Echo Show lineup includes several models with varying screen sizes and 
 
 ### Key Echo Show Models
 
-The Echo Show series includes compact 5-inch models perfect for bedside tables, versatile 8-inch versions ideal for kitchens, and large 10-inch displays suitable for entertainment centers. Each model offers different features, camera capabilities, and audio quality to match various use cases and room sizes.
+The Echo Show series includes compact 5-inch models perfect for bedside tables, versatile 8-inch versions ideal for kitchens, and large 10-inch displays suitable for entertainment centres. Each model offers different features, camera capabilities, and audio quality to match various use cases and room sizes.
 
 ### Alexa Integration and Capabilities
 
@@ -41,9 +41,9 @@ One notable feature of the standard Nest Hub is its lack of a built-in camera, a
 
 ### Screen Technology and Resolution
 
-Both Amazon and Google prioritize display quality in their smart displays, but with different approaches. Echo Show devices typically offer higher resolution displays with more vibrant colors, making them better suited for media consumption and detailed visual tasks.
+Both Amazon and Google prioritize display quality in their smart displays, but with different approaches. Echo Show devices typically offer higher resolution displays with more vibrant colours, making them better suited for media consumption and detailed visual tasks.
 
-Google Nest Hub devices focus on ambient integration, with displays designed to blend into home environments. The screens adjust automatically to lighting conditions and offer a more muted color palette that's easier on the eyes during extended use.
+Google Nest Hub devices focus on ambient integration, with displays designed to blend into home environments. The screens adjust automatically to lighting conditions and offer a more muted colour palette that's easier on the eyes during extended use.
 
 ### Build Quality and Aesthetics
 
@@ -61,7 +61,7 @@ Alexa excels in smart home control and third-party integrations. The assistant h
 
 ### Multi-User Support
 
-Both platforms offer multi-user support, but implementation differs. Google Nest Hub uses Voice Match technology to recognize different users and provide personalized responses, calendar information, and recommendations. The system can distinguish between family members and adjust responses accordingly.
+Both platforms offer multi-user support, but implementation differs. Google Nest Hub uses Voice Match technology to recognize different users and provide personalised responses, calendar information, and recommendations. The system can distinguish between family members and adjust responses accordingly.
 
 Echo Show devices offer household profiles that allow multiple users to access their personal content and settings. The voice recognition is reliable, though setup requires more manual configuration compared to Google's approach.
 
@@ -91,7 +91,7 @@ Google Nest Hub devices integrate seamlessly with YouTube, YouTube TV, and other
 
 Audio performance differs across models and brands. Larger Echo Show devices generally offer superior audio quality with more powerful speakers and better bass response. The integration with Amazon Music, Spotify, and other services is comprehensive and user-friendly.
 
-Nest Hub devices provide balanced audio quality optimized for voice and ambient listening. The integration with YouTube Music and Spotify is seamless, though the speaker quality may not satisfy audiophiles seeking premium sound quality.
+Nest Hub devices provide balanced audio quality optimised for voice and ambient listening. The integration with YouTube Music and Spotify is seamless, though the speaker quality may not satisfy audiophiles seeking premium sound quality.
 
 ## Privacy and Security Features
 
@@ -99,7 +99,7 @@ Nest Hub devices provide balanced audio quality optimized for voice and ambient 
 
 Both Amazon and Google have implemented various privacy controls in response to user concerns. Echo Show devices offer options to delete voice recordings, mute microphones, and control data sharing. Amazon's approach to privacy has evolved significantly, with more transparent policies and user controls.
 
-Google emphasizes privacy through design choices like the camera-free standard Nest Hub and comprehensive privacy controls in the Nest Hub Max. Users can review and delete activity data, control ad personalization, and manage connected services permissions.
+Google emphasizes privacy through design choices like the camera-free standard Nest Hub and comprehensive privacy controls in the Nest Hub Max. Users can review and delete activity data, control ad personalisation, and manage connected services permissions.
 
 ### Physical Privacy Controls
 

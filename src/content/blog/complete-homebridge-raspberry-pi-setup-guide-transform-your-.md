@@ -252,7 +252,7 @@ sudo ufw allow 51826
 #### Automated Configuration Backup
 ```bash
 #!/bin/bash
-cp /var/lib/homebridge/config.json /home/pi/config_backup_$(date +%Y%m%d).json
+cp /var/lib/homebridge/config.json /home/pi/config_backup_£(date +%Y%m%d).json
 ```
 
 #### SD Card Image Backup

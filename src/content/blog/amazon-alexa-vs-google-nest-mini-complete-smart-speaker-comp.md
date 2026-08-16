@@ -35,7 +35,7 @@ Google Assistant strengths include:
 - Better understanding of follow-up questions and context
 - Seamless multilingual support
 
-The assistant's ability to understand conversational nuances and provide relevant information based on your Google account data makes it feel more personalized and intuitive.
+The assistant's ability to understand conversational nuances and provide relevant information based on your Google account data makes it feel more personalised and intuitive.
 
 ## Smart Home Integration
 
@@ -144,7 +144,7 @@ The Nest Mini provides distinctive features leveraging Google's services:
 - Broadcast messaging to other Google Assistant devices
 - Continued conversation without repeated wake words
 - Better understanding of contextual follow-up questions
-- Integration with Google Photos for personalized responses
+- Integration with Google Photos for personalised responses
 
 ## Making the Right Choice
 

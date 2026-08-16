@@ -129,12 +129,12 @@ Most smart lighting systems use minimal bandwidth but require consistent connect
 - Ensure adequate 2.4GHz coverage throughout your home
 - Consider using smart lighting hubs that aggregate device communications
 
-### Thermostats and HVAC Controls
+### Thermostats and heating and cooling Controls
 
 Smart thermostats need reliable connectivity for remote control and scheduling but have minimal bandwidth requirements.
 
 **Installation tips**:
-- Verify coverage in utility areas where HVAC equipment is located
+- Verify coverage in utility areas where heating and cooling equipment is located
 - Enable automatic firmware updates during off-peak hours
 - Set up alerts for connectivity issues that might affect climate control
 
@@ -258,6 +258,6 @@ A well-configured mesh WiFi system transforms your smart home from a collection 
 
 Regular monitoring and adjustment ensure your network continues performing optimally as you add new devices and your smart home evolves. With proper setup and maintenance, a quality mesh system provides the reliable foundation your smart home devices need to deliver their full potential.
 
-Invest time in proper initial configuration, and your mesh WiFi system will serve as the invisible backbone that makes your smart home truly smart. The convenience and reliability gains from a properly optimized network far outweigh the initial setup effort, creating a seamless digital environment that enhances rather than complicates your daily life.
+Invest time in proper initial configuration, and your mesh WiFi system will serve as the invisible backbone that makes your smart home truly smart. The convenience and reliability gains from a properly optimised network far outweigh the initial setup effort, creating a seamless digital environment that enhances rather than complicates your daily life.
 
 Next guides to read: [smart home security best practices](/blog/how-to-secure-smart-home-network-complete-protection-guide), [Wi-Fi 6 router for smart home](/blog/wifi-6-router-for-smart-home-the-ultimate-guide-to-seamless-) and [Matter smart home UK](/matter-smart-home-uk/).

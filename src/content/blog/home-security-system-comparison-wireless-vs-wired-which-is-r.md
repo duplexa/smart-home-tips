@@ -24,7 +24,7 @@ Traditional wired systems often use twisted-pair copper wires, coaxial cables, o
 
 ### Wireless System Installation
 
-Wireless security systems shine in their installation simplicity. Most homeowners can install basic wireless systems themselves within a few hours. The process typically involves:
+Wireless security systems shine in their installation simplicity. Most homeowners and renters can install basic wireless systems themselves within a few hours. The process typically involves:
 
 - Mounting sensors and cameras with screws or adhesive strips
 - Programming devices to communicate with the central hub
@@ -89,29 +89,29 @@ Wired security systems traditionally offer superior reliability due to their phy
 Wireless security systems typically have lower upfront costs but higher ongoing expenses:
 
 **Initial Costs:**
-- Basic systems: $200-$500
-- Mid-range systems: $500-$1,200
-- Premium systems: $1,200-$3,000
-- Professional installation (optional): $100-$300
+- Basic systems: £200-£500
+- Mid-range systems: £500-£1,200
+- Premium systems: £1,200-£3,000
+- Professional installation (optional): £100-£300
 
 **Ongoing Costs:**
-- Monthly monitoring: $15-$60
-- Battery replacements: $50-$150 annually
+- Monthly monitoring: £15-£60
+- Battery replacements: £50-£150 annually
 - Equipment upgrades every 5-7 years
-- Cellular backup plans: $10-$30 monthly
+- Cellular backup plans: £10-£30 monthly
 
 ### Wired System Costs
 
 Wired systems have higher initial costs but lower ongoing maintenance expenses:
 
 **Initial Costs:**
-- Basic systems: $400-$800
-- Mid-range systems: $800-$2,000
-- Premium systems: $2,000-$5,000+
-- Professional installation: $500-$1,500
+- Basic systems: £400-£800
+- Mid-range systems: £800-£2,000
+- Premium systems: £2,000-£5,000+
+- Professional installation: £500-£1,500
 
 **Ongoing Costs:**
-- Monthly monitoring: $15-$50
+- Monthly monitoring: £15-£50
 - Minimal battery replacements (backup only)
 - Equipment lasts 10-15 years typically
 - Lower technology refresh requirements
@@ -194,7 +194,7 @@ Wireless security systems require regular attention to maintain optimal performa
 **Regular Tasks:**
 - Battery monitoring and replacement every 1-3 years
 - Software updates and security patches
-- Signal strength testing and optimization
+- Signal strength testing and optimisation
 - Cleaning solar panels on outdoor cameras
 - Network connectivity verification
 
@@ -220,7 +220,7 @@ Wired security systems often function reliably for 10-15 years with proper maint
 
 **Wireless System Advantages:**
 - Ideal for historic homes where wire installation damages structure
-- Perfect for apartments and rental properties
+- Perfect for flats and rental properties
 - Suitable for homes with difficult access areas
 - No construction modification requirements
 
@@ -282,7 +282,7 @@ Successful DIY installation requires:
 - Basic technical skills and patience
 - Proper planning and site surveys
 - Quality equipment from reputable manufacturers
-- Time investment for testing and optimization
+- Time investment for testing and optimisation
 
 ## Future-Proofing Your Security Investment
 

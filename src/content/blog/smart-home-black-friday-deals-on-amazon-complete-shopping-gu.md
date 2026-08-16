@@ -28,7 +28,7 @@ Consider smart light switches if you prefer controlling existing fixtures rather
 
 ### Home Security Devices
 
-Security remains a top priority for homeowners, making smart security devices popular Black Friday purchases. Ring doorbells and security cameras typically receive generous discounts, sometimes bundled with Echo devices for additional savings.
+Security remains a top priority for homeowners and renters, making smart security devices popular Black Friday purchases. Ring doorbells and security cameras typically receive generous discounts, sometimes bundled with Echo devices for additional savings.
 
 Smart locks from brands like August and Schlage also feature prominently in Black Friday sales. These devices provide keyless entry and remote access control, perfect for busy families or frequent travelers.
 
@@ -88,7 +88,7 @@ Amazon occasionally offers promotions where purchasing gift cards provides addit
 
 Most smart home devices feature user-friendly installation processes, but some items like smart thermostats or hardwired switches may require professional installation. Factor these costs into your budget calculations.
 
-Many manufacturers provide detailed installation guides and video tutorials, making DIY installation feasible for most homeowners with basic technical skills.
+Many manufacturers provide detailed installation guides and video tutorials, making DIY installation feasible for most homeowners and renters with basic technical skills.
 
 ### Network Requirements
 
@@ -150,4 +150,4 @@ The key to successful smart home shopping lies in balancing immediate savings wi
 
 smart home security systems
 energy efficient home upgrades
-wifi network optimization
+wifi network optimisation

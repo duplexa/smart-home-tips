@@ -32,13 +32,13 @@ Weighing 4.08 pounds, the Sonos One feels solid without being overly heavy, maki
 
 The Echo Studio incorporates five strategically positioned speakers: a 5.25-inch woofer, three 2-inch midrange speakers, and a 1-inch tweeter. This configuration enables true 360-degree audio projection, creating an immersive listening experience regardless of your position in the room.
 
-Amazon equipped the Studio with Dolby Atmos support, allowing it to process three-dimensional audio content. The speaker can automatically sense room acoustics and adjust its output accordingly, optimizing sound for your specific environment. Bass response is particularly impressive, with deep, controlled low frequencies that don't overwhelm the midrange.
+Amazon equipped the Studio with Dolby Atmos support, allowing it to process three-dimensional audio content. The speaker can automatically sense room acoustics and adjust its output accordingly, optimising sound for your specific environment. Bass response is particularly impressive, with deep, controlled low frequencies that don't overwhelm the midrange.
 
 The Studio supports high-resolution audio formats including Ultra HD and spatial audio, making it capable of reproducing studio-quality recordings with impressive detail and clarity.
 
 ### Sonos One Audio Performance
 
-The Sonos One houses two Class-D amplifiers powering a mid-woofer and tweeter configuration. While it may seem modest compared to the Studio's five-speaker setup, Sonos has optimized this design through advanced digital signal processing and acoustic engineering.
+The Sonos One houses two Class-D amplifiers powering a mid-woofer and tweeter configuration. While it may seem modest compared to the Studio's five-speaker setup, Sonos has optimised this design through advanced digital signal processing and acoustic engineering.
 
 The One delivers remarkably balanced sound with clear highs, present midrange, and surprising bass depth for its size. Sonos's TruePlay tuning technology uses your smartphone's microphone to analyze room acoustics and automatically adjust the speaker's output for optimal performance in your space.
 

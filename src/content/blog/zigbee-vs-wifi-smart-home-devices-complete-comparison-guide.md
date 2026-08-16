@@ -18,11 +18,11 @@ WiFi and Zigbee represent two fundamentally different approaches to smart home c
 
 WiFi smart home devices connect directly to your existing wireless router, using the same 2.4GHz or 5GHz frequency bands as your other internet-connected devices. This direct connection approach offers immediate internet access and smartphone control from anywhere in the world.
 
-Popular WiFi smart home devices include smart thermostats, security cameras, smart speakers, and many smart switches and outlets. The [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21) and [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34/ref=nosim?tag=smarthomestip-21) exemplify WiFi-based smart home hubs that rely entirely on your internet connection.
+Popular WiFi smart home devices include smart thermostats, security cameras, smart speakers, and many smart switches and sockets. The [Amazon Echo Dot](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21) and [Google Nest Mini](https://www.amazon.co.uk/dp/B0CGYFYY34/ref=nosim?tag=smarthomestip-21) exemplify WiFi-based smart home hubs that rely entirely on your internet connection.
 
 ### Zigbee Smart Home Devices
 
-Zigbee operates on the 2.4GHz frequency but uses a different communication standard specifically optimized for low-power, low-bandwidth smart home applications. Devices form a self-healing mesh network where each device can act as a signal repeater, extending range and improving reliability.
+Zigbee operates on the 2.4GHz frequency but uses a different communication standard specifically optimised for low-power, low-bandwidth smart home applications. Devices form a self-healing mesh network where each device can act as a signal repeater, extending range and improving reliability.
 
 Zigbee devices require a hub or bridge to connect to your internet network. Popular options include the [Philips Hue Bridge](https://www.amazon.co.uk/dp/B016H0QZ7I/ref=nosim?tag=smarthomestip-21), Samsung SmartThings Hub, and Amazon Echo Plus (4th generation) with built-in Zigbee support.
 
@@ -92,9 +92,9 @@ Zigbee systems can continue operating locally during internet outages. While you
 
 ### Initial Investment
 
-WiFi devices often have lower upfront costs since they don't require additional hub hardware. A WiFi smart switch might cost $15-30, with no additional infrastructure needed beyond your existing router.
+WiFi devices often have lower upfront costs since they don't require additional hub hardware. A WiFi smart switch might cost £15-30, with no additional infrastructure needed beyond your existing router.
 
-Zigbee systems require hub investment ranging from $50-200, depending on features and brand. However, individual Zigbee devices often cost less than comparable WiFi devices, potentially offsetting hub costs in larger installations.
+Zigbee systems require hub investment ranging from £50-200, depending on features and brand. However, individual Zigbee devices often cost less than comparable WiFi devices, potentially offsetting hub costs in larger installations.
 
 ### Long-term Costs
 
@@ -104,7 +104,7 @@ WiFi devices may require more frequent replacement due to higher power consumpti
 
 ### Scalability Costs
 
-Expanding WiFi smart home systems may require router upgrades or additional WiFi access points to maintain performance with many devices. Enterprise-grade routers capable of handling 100+ smart home devices can cost $300-500.
+Expanding WiFi smart home systems may require router upgrades or additional WiFi access points to maintain performance with many devices. Enterprise-grade routers capable of handling 100+ smart home devices can cost £300-500.
 
 Zigbee systems scale more cost-effectively, as additional devices actually strengthen the mesh network. No router upgrades are typically needed, though very large systems might require additional hubs to maintain performance.
 
@@ -175,7 +175,7 @@ Common WiFi smart home problems include:
 - Conflicts with router firmware updates
 - Network congestion slowing all connected devices
 
-Solutions often involve router placement optimization, upgrading to newer WiFi standards, or adding WiFi extenders to improve coverage.
+Solutions often involve router placement optimisation, upgrading to newer WiFi standards, or adding WiFi extenders to improve coverage.
 
 ### Zigbee Network Problems
 

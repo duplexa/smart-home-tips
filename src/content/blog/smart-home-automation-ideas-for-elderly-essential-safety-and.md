@@ -26,7 +26,7 @@ Motion-activated pathway lighting automatically illuminates routes between frequ
 
 Smart light switches like the Lutron Caseta can be controlled via voice commands or smartphone apps, eliminating the need to navigate dark rooms to find switches. These systems can also be programmed to maintain minimum lighting levels throughout the evening hours.
 
-Circadian rhythm lighting adjusts color temperature throughout the day, promoting better sleep patterns and helping maintain natural biological rhythms that often become disrupted with age.
+Circadian rhythm lighting adjusts colour temperature throughout the day, promoting better sleep patterns and helping maintain natural biological rhythms that often become disrupted with age.
 
 ### Medication Management Automation
 
@@ -50,7 +50,7 @@ Smart thermostats like the Nest Learning Thermostat can learn daily routines and
 
 Smart locks provide security while eliminating concerns about lost keys or difficulty operating traditional locks. The August Smart Lock Pro allows family members to remotely check if doors are locked and can automatically lock doors at predetermined times.
 
-Smart doorbells with video capabilities let elderly homeowners see and communicate with visitors without approaching the door. This feature is particularly valuable for individuals with mobility limitations or those living alone.
+Smart doorbells with video capabilities let elderly homeowners and renters see and communicate with visitors without approaching the door. This feature is particularly valuable for individuals with mobility limitations or those living alone.
 
 Motorized window treatments can be scheduled to open and close automatically, maintaining privacy and controlling natural light without requiring physical manipulation of heavy curtains or hard-to-reach blinds.
 
@@ -60,13 +60,13 @@ Smart kitchen appliances can address safety concerns while maintaining cooking i
 
 Smart refrigerators can track expiration dates and send reminders about spoiled food, helping prevent foodborne illness. Some models can also monitor eating patterns and alert family members if dietary habits change significantly.
 
-Water leak detectors placed near sinks, dishwashers, and water heaters can prevent costly damage while alerting homeowners to potential problems before they become serious.
+Water leak detectors placed near sinks, dishwashers, and water heaters can prevent costly damage while alerting homeowners and renters to potential problems before they become serious.
 
 ## Health and Wellness Monitoring
 
 ### Environmental Health Tracking
 
-Smart air quality monitors can track indoor pollutants, humidity levels, and temperature fluctuations that might affect respiratory health or comfort. These systems can automatically trigger air purifiers or HVAC adjustments to maintain optimal conditions.
+Smart air quality monitors can track indoor pollutants, humidity levels, and temperature fluctuations that might affect respiratory health or comfort. These systems can automatically trigger air purifiers or heating and cooling adjustments to maintain optimal conditions.
 
 Smart smoke and carbon monoxide detectors provide enhanced safety features including smartphone notifications and voice announcements that clearly identify the type and location of detected threats.
 
@@ -116,7 +116,7 @@ Regular system updates and maintenance should be handled by tech-savvy family me
 
 Basic smart plugs can transform regular appliances into automated devices for minimal cost. These can control lamps, fans, or small appliances through smartphone apps or voice commands.
 
-Smart bulbs offer significant functionality improvements at relatively low costs, providing dimming, scheduling, and color temperature control.
+Smart bulbs offer significant functionality improvements at relatively low costs, providing dimming, scheduling, and colour temperature control.
 
 ### Prioritizing High-Impact Investments
 

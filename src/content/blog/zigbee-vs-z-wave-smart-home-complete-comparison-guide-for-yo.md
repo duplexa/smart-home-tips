@@ -42,7 +42,7 @@ Z-Wave's proprietary nature requires manufacturers to obtain certification and p
 
 **ZigBee** operates at 2.4 GHz globally, providing consistent worldwide compatibility but sharing spectrum space with WiFi, Bluetooth, and microwave ovens. Typical range spans 10-20 meters indoors, with mesh networking extending coverage throughout your home.
 
-**Z-Wave** uses sub-1 GHz frequencies (915 MHz in the US), offering superior building penetration and reduced interference. Individual device range reaches 30 meters outdoors and 10-15 meters indoors, with less signal degradation through walls and floors.
+**Z-Wave** uses sub-1 GHz frequencies (868 MHz in the UK and 915 MHz in North America), offering superior building penetration and reduced interference. Individual device range reaches 30 meters outdoors and 10-15 meters indoors, with less signal degradation through walls and floors.
 
 ### Network Capacity and Performance
 
@@ -52,7 +52,7 @@ Z-Wave networks cap at 232 devices with data rates of 100 kbps, sufficient for r
 
 ### Power Consumption
 
-Both protocols prioritize energy efficiency, but their approaches differ. ZigBee devices typically consume slightly more power due to higher frequency operation, while Z-Wave's lower frequency and optimized protocol stack often deliver superior battery life in portable devices.
+Both protocols prioritize energy efficiency, but their approaches differ. ZigBee devices typically consume slightly more power due to higher frequency operation, while Z-Wave's lower frequency and optimised protocol stack often deliver superior battery life in portable devices.
 
 ### Interoperability Standards
 
@@ -81,10 +81,10 @@ Z-Wave's certified device ecosystem features over 4,000 products from 800+ manuf
 
 Common Z-Wave device types:
 - Smart door locks and security systems
-- Wall switches and outlet controls
+- Wall switches and socket controls
 - Garage door controllers
 - Water leak sensors and shutoff valves
-- HVAC thermostats and controls
+- heating and cooling thermostats and controls
 
 The Z-Wave Alliance maintains strict certification standards, ensuring reliable device interaction but potentially limiting manufacturer innovation and pricing flexibility.
 
@@ -136,7 +136,7 @@ Z-Wave setup involves:
 
 1. **Initialize your Z-Wave controller** and create a new network
 2. **Include devices** using controller-specific pairing procedures
-3. **Perform network optimization** to establish optimal routing paths
+3. **Perform network optimisation** to establish optimal routing paths
 4. **Configure device parameters** through your controller interface
 5. **Test network security** and verify encryption status
 
@@ -148,7 +148,7 @@ Z-Wave's inclusion/exclusion process requires more deliberate steps but provides
 
 ZigBee 3.0 implements robust security measures including:
 - AES 128-bit encryption for all communications
-- Trust center key management
+- Trust centre key management
 - Install code verification for secure device joining
 - Network-level and application-level security layers
 
@@ -186,9 +186,9 @@ Real-world testing shows Z-Wave devices often achieve 20-30% longer battery life
 
 ### Initial Investment Costs
 
-**ZigBee systems** typically require lower upfront investments due to competitive pricing among multiple manufacturers. Hub costs range from $50-200, with individual devices averaging $20-80 depending on functionality.
+**ZigBee systems** typically require lower upfront investments due to competitive pricing among multiple manufacturers. Hub costs range from £50-200, with individual devices averaging £20-80 depending on functionality.
 
-**Z-Wave systems** involve higher initial costs due to certification requirements and proprietary licensing. Controllers cost $100-400, while certified devices typically range $30-150.
+**Z-Wave systems** involve higher initial costs due to certification requirements and proprietary licensing. Controllers cost £100-400, while certified devices typically range £30-150.
 
 ### Long-term Value Considerations
 
@@ -230,7 +230,7 @@ Major cloud platforms including Amazon Alexa, Google Assistant, and Apple HomeKi
 
 ### Hybrid Approach Benefits
 
-Many modern hubs support both protocols, enabling hybrid networks that leverage each protocol's strengths. This approach maximizes device selection while optimizing performance for specific applications.
+Many modern hubs support both protocols, enabling hybrid networks that leverage each protocol's strengths. This approach maximizes device selection while optimising performance for specific applications.
 
 ## Conclusion
 

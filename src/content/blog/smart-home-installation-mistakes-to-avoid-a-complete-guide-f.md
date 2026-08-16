@@ -10,7 +10,7 @@ Smart home technology has revolutionized how we interact with our living spaces,
 
 ### Inadequate Network Assessment
 
-One of the most critical smart home installation mistakes to avoid is underestimating your network requirements. Many homeowners dive into smart device installation without properly evaluating their Wi-Fi infrastructure. Smart devices are only as reliable as the network supporting them.
+One of the most critical smart home installation mistakes to avoid is underestimating your network requirements. Many homeowners and renters dive into smart device installation without properly evaluating their Wi-Fi infrastructure. Smart devices are only as reliable as the network supporting them.
 
 Before purchasing any smart devices, conduct a thorough Wi-Fi coverage test throughout your home. Use a smartphone app to measure signal strength in every room where you plan to install devices. Areas with weak signals will experience connectivity issues, device dropouts, and poor performance.
 
@@ -24,7 +24,7 @@ Research compatibility before purchasing. If you already own devices from a spec
 
 ### Ignoring Future Expansion Plans
 
-Failing to plan for future expansion is a costly oversight. Many homeowners start with a few smart devices and gradually add more, only to discover their initial choices limit future options. This leads to replacing perfectly functional devices or accepting a suboptimal setup.
+Failing to plan for future expansion is a costly oversight. Many homeowners and renters start with a few smart devices and gradually add more, only to discover their initial choices limit future options. This leads to replacing perfectly functional devices or accepting a suboptimal setup.
 
 Create a comprehensive smart home roadmap before making purchases. Consider which rooms you might want to automate later and what types of devices you might add. This foresight helps you choose scalable solutions and avoid compatibility conflicts down the road.
 
@@ -136,7 +136,7 @@ Maintain comprehensive documentation including device manuals, network diagrams,
 
 smart home security
 home automation systems
-wireless network optimization
+wireless network optimisation
 
 ## Conclusion
 

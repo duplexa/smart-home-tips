@@ -5,7 +5,7 @@ date: 2026-04-16
 redirectTo: "/best-smart-plugs-uk/"
 ---
 
-Smart plugs compatible with Alexa transform ordinary appliances into voice-controlled devices, making home automation accessible and affordable. These compact devices plug into standard outlets and allow you to control connected appliances through voice commands, smartphone apps, or automated schedules.
+Smart plugs compatible with Alexa transform ordinary appliances into voice-controlled devices, making home automation accessible and affordable. These compact devices plug into standard UK sockets and allow you to control connected appliances through voice commands, smartphone apps, or automated schedules.
 
 ## What Makes a Smart Plug Ideal for Alexa
 
@@ -31,7 +31,7 @@ Some smart plugs include energy monitoring features that track power consumption
 
 ### Compact Design
 
-The best smart plugs maintain a low profile to avoid blocking adjacent outlets. Models with side-facing outlets or slim designs allow maximum flexibility in outlet usage.
+The best smart plugs maintain a low profile to avoid blocking adjacent sockets. Models with side-facing sockets or slim designs allow maximum flexibility in socket usage.
 
 ### App Control and Remote Access
 

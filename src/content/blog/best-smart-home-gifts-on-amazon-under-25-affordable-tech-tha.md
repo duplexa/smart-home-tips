@@ -46,7 +46,7 @@ Home security devices under £25 might seem limited, but several options provide
 
 Motion sensors offer another layer of security while also enabling automation. These devices can trigger lights when someone enters a room, send notifications about unexpected movement, or activate other smart devices based on occupancy.
 
-Window and door sensors provide affordable entry point monitoring, alerting homeowners when doors or windows open unexpectedly. While they might not include professional monitoring services, they offer valuable awareness about home access points.
+Window and door sensors provide affordable entry point monitoring, alerting homeowners and renters when doors or windows open unexpectedly. While they might not include professional monitoring services, they offer valuable awareness about home access points.
 
 ### Smart Home Accessories and Gadgets
 
@@ -126,7 +126,7 @@ These functional gifts continue providing value long after holiday decorations a
 
 ### Housewarming and New Home Gifts
 
-Smart home devices make excellent housewarming presents, helping new homeowners establish routines and enhance security in unfamiliar environments. Security-focused devices like door sensors or motion detectors provide peace of mind during the vulnerable early days of homeownership.
+Smart home devices make excellent housewarming presents, helping new homeowners and renters establish routines and enhance security in unfamiliar environments. Security-focused devices like door sensors or motion detectors provide peace of mind during the vulnerable early days of homeownership.
 
 Smart plugs and lighting solutions help create familiarity and comfort in new spaces, while voice assistants can answer questions about local services and weather.
 

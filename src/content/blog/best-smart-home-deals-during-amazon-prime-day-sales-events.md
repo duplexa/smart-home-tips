@@ -74,9 +74,9 @@ When evaluating security device deals, factor in ongoing subscription costs for 
 
 ### Connected Lighting Systems
 
-Smart lighting deals span from individual bulbs to complete room solutions. The **[Philips Hue White and Color Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB/ref=nosim?tag=smarthomestip-21)** often receives rare discounts during Prime Day, providing an excellent entry point into premium smart lighting.
+Smart lighting deals span from individual bulbs to complete room solutions. The **[Philips Hue White and Colour Ambiance Starter Kit](https://www.amazon.co.uk/dp/B07SKXH7TB/ref=nosim?tag=smarthomestip-21)** often receives rare discounts during Prime Day, providing an excellent entry point into premium smart lighting.
 
-Color-changing bulbs typically offer better Prime Day savings than basic white bulbs, making it worthwhile to invest in the more advanced options even if you don't immediately need color features.
+Colour-changing bulbs typically offer better Prime Day savings than basic white bulbs, making it worthwhile to invest in the more advanced options even if you don't immediately need colour features.
 
 ### Thermostats and Climate Control
 
@@ -116,7 +116,7 @@ Consider the total cost of ownership, including subscription services, replaceme
 
 Some sellers inflate prices before Prime Day to make discounts appear larger than they actually are. Use price-tracking tools and browser extensions to verify deal authenticity before purchasing.
 
-Focus on percentage discounts from established brands rather than absolute dollar amounts, as these tend to represent genuine savings.
+Focus on percentage discounts from established brands rather than absolute cash amounts, as these tend to represent genuine savings.
 
 ### Compatibility and Integration Issues
 

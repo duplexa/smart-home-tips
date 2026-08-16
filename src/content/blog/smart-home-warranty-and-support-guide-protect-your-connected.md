@@ -70,11 +70,11 @@ Smart security devices require robust warranty coverage due to their critical ro
 
 [smart home security systems](/blog/smart-home-security-systems-complete-guide-to-protecting-you)
 
-### HVAC and Climate Control
+### heating and cooling and Climate Control
 
 Smart thermostats and climate control systems should have comprehensive coverage including:
 
-- Compatibility issues with existing HVAC systems
+- Compatibility issues with existing heating and cooling systems
 - Temperature sensor accuracy problems
 - Wi-Fi connectivity failures
 - Integration problems with home automation platforms
@@ -84,7 +84,7 @@ Smart thermostats and climate control systems should have comprehensive coverage
 Smart lighting systems face unique challenges that warranties should address:
 
 - LED bulb longevity and dimming issues
-- Switch and outlet hardware failures
+- Switch and socket hardware failures
 - Hub connectivity problems
 - Integration with voice assistants and apps
 
@@ -270,7 +270,7 @@ Most manufacturers offer multiple claim submission methods:
 - Phone-based customer service
 - Email support systems
 - Mobile app claim submission
-- In-person at authorized service centers
+- In-person at authorized service centres
 
 ### Follow-Up and Resolution
 

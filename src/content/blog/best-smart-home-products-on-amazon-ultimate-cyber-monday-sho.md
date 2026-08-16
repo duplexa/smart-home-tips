@@ -14,7 +14,7 @@ Whether you're just starting your smart home journey or looking to expand your e
 
 Before diving into specific products, it's crucial to understand the core categories that form the backbone of any smart home ecosystem. These foundational elements work together to create a seamless, automated living experience.
 
-Smart speakers and displays serve as command centers, allowing you to control other devices through voice commands and visual interfaces. Smart lighting systems provide both convenience and energy efficiency, while security cameras and doorbells enhance home protection. Climate control devices like smart thermostats optimize comfort and reduce energy costs.
+Smart speakers and displays serve as command centres, allowing you to control other devices through voice commands and visual interfaces. Smart lighting systems provide both convenience and energy efficiency, while security cameras and doorbells enhance home protection. Climate control devices like smart thermostats optimize comfort and reduce energy costs.
 
 ### Advanced Smart Home Integration
 
@@ -36,7 +36,7 @@ Modern smart security systems integrate seamlessly with existing home automation
 
 ### Intelligent Lighting Systems
 
-Smart lighting represents one of the most impactful and immediately noticeable smart home upgrades. Philips Hue bulbs continue to lead the market with their extensive color range and reliable connectivity, but numerous budget-friendly alternatives now offer similar functionality.
+Smart lighting represents one of the most impactful and immediately noticeable smart home upgrades. Philips Hue bulbs continue to lead the market with their extensive colour range and reliable connectivity, but numerous budget-friendly alternatives now offer similar functionality.
 
 When selecting smart lighting, prioritize systems that support multiple protocols and can integrate with your chosen voice assistant platform. Look for products offering scheduling capabilities, geofencing, and energy monitoring features.
 

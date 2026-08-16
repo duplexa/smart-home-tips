@@ -30,7 +30,7 @@ Solar-powered blinds offer the most sustainable operation but require adequate s
 
 ### Measuring Your Windows
 
-Accurate measurements are crucial for proper smart blind installation. Measure both the width and height of your window opening at three points: top, middle, and bottom for width, and left, center, and right for height. Use the smallest measurement to ensure proper fit.
+Accurate measurements are crucial for proper smart blind installation. Measure both the width and height of your window opening at three points: top, middle, and bottom for width, and left, centre, and right for height. Use the smallest measurement to ensure proper fit.
 
 For inside mount installations, measure the exact width and height of the window opening. For outside mounts, add 2-4 inches to the width and extend 3-6 inches above and below the window frame for optimal light blocking.
 
@@ -178,7 +178,7 @@ Keep your smart blind app updated to access new features and bug fixes. Many sys
 
 ### Seasonal Adjustments
 
-Adjust scheduling and automation rules seasonally to account for changing sunrise and sunset times. Review energy-saving settings as outdoor temperatures change, optimizing blind positions for heating and cooling efficiency.
+Adjust scheduling and automation rules seasonally to account for changing sunrise and sunset times. Review energy-saving settings as outdoor temperatures change, optimising blind positions for heating and cooling efficiency.
 
 ## Energy Efficiency Optimization
 
@@ -188,9 +188,9 @@ Smart blinds can significantly impact your home's energy efficiency when properl
 
 Use temperature sensors or integrate with smart thermostats to automatically adjust blind positions based on indoor and outdoor temperatures. This creates a responsive system that optimizes comfort while minimizing energy consumption.
 
-### Integration with HVAC Systems
+### Integration with heating and cooling Systems
 
-Some advanced smart home setups allow integration between smart blinds and HVAC systems. When your air conditioning is running, blinds can automatically adjust to reduce solar heat gain. Similarly, during heating season, blinds can open to capture beneficial solar heating.
+Some advanced smart home setups allow integration between smart blinds and heating and cooling systems. When your air conditioning is running, blinds can automatically adjust to reduce solar heat gain. Similarly, during heating season, blinds can open to capture beneficial solar heating.
 
 ## Safety Considerations
 

@@ -1,6 +1,6 @@
 ---
 title: "Best WiFi Extenders for Smart Home: Boost Your Connected Device Performance"
-description: "Discover the best WiFi extenders for smart homes. Learn key features, placement strategies, and optimization tips for reliable connectivity."
+description: "Discover the best WiFi extenders for smart homes. Learn key features, placement strategies, and optimisation tips for reliable connectivity."
 date: 2026-04-16
 ---
 
@@ -45,7 +45,7 @@ Place extenders halfway between your main router and the areas needing coverage.
 
 ### Coverage Planning
 
-Map your smart devices before installation. Identify high-priority areas like security camera locations, smart doorbell positions, and entertainment centers. Consider outdoor coverage needs for garden sensors, pool equipment, and garage devices.
+Map your smart devices before installation. Identify high-priority areas like security camera locations, smart doorbell positions, and entertainment centres. Consider outdoor coverage needs for garden sensors, pool equipment, and garage devices.
 
 ### Network Configuration
 

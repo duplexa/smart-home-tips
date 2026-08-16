@@ -90,7 +90,7 @@ Create custom groups for scenarios like "movie time" or "bedtime" that control m
 
 ### Creating Custom Voice Commands
 
-Most voice assistant platforms allow you to create custom commands that trigger multiple actions simultaneously. These routines can combine device controls with information updates, creating personalized experiences.
+Most voice assistant platforms allow you to create custom commands that trigger multiple actions simultaneously. These routines can combine device controls with information updates, creating personalised experiences.
 
 For example, a "good morning" routine might turn on lights, start coffee brewing, provide weather updates, and read your calendar for the day. These multi-action routines showcase the true power of smart home voice control.
 
@@ -136,7 +136,7 @@ Consider network segmentation to isolate smart home devices from computers and m
 
 ### Privacy Settings Management
 
-Review and configure privacy settings for your voice assistant platform, including voice recording storage, data sharing preferences, and advertising personalization options. Most platforms allow you to delete voice recordings and limit data collection.
+Review and configure privacy settings for your voice assistant platform, including voice recording storage, data sharing preferences, and advertising personalisation options. Most platforms allow you to delete voice recordings and limit data collection.
 
 Enable local processing features when available to reduce the amount of data sent to cloud servers for processing.
 

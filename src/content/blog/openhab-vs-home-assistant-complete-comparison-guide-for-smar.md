@@ -136,7 +136,7 @@ Home Assistant's Python implementation offers different performance trade-offs:
 - Lower base memory usage
 - Faster startup times
 - Good performance for typical home installations
-- May require optimization for very large setups
+- May require optimisation for very large setups
 - Efficient database handling for historical data
 
 ## Community and Documentation

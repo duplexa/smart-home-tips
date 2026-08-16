@@ -1,6 +1,6 @@
 ---
 title: "Smart Home Maintenance Guide: Keep Your Connected Devices Running Smoothly"
-description: "Complete smart home maintenance guide covering network optimization, device care, security updates, and troubleshooting to keep your connected home running"
+description: "Complete smart home maintenance guide covering network optimisation, device care, security updates, and troubleshooting to keep your connected home running"
 date: 2026-04-18
 ---
 
@@ -30,7 +30,7 @@ Change your WiFi password every six months using a strong combination of letters
 
 ### Smart Thermostats
 
-Clean your smart thermostat's sensors monthly using a soft, dry cloth. Dust accumulation can affect temperature readings and reduce efficiency. Check and replace HVAC filters according to manufacturer recommendations, typically every 1-3 months.
+Clean your smart thermostat's sensors monthly using a soft, dry cloth. Dust accumulation can affect temperature readings and reduce efficiency. Check and replace heating and cooling filters according to manufacturer recommendations, typically every 1-3 months.
 
 Verify that your thermostat's scheduling and geofencing features are working correctly by testing them periodically. Update the device firmware through the manufacturer's app when notifications appear.
 
@@ -50,7 +50,7 @@ Replace batteries proactively based on manufacturer guidelines or low-battery al
 
 ### Smart Lighting Systems
 
-Dust smart bulbs and fixtures monthly to maintain optimal light output. LED smart bulbs generate less heat but still accumulate dust that can reduce brightness and color accuracy.
+Dust smart bulbs and fixtures monthly to maintain optimal light output. LED smart bulbs generate less heat but still accumulate dust that can reduce brightness and colour accuracy.
 
 Test automated lighting schedules and scenes regularly to ensure they activate as programmed. Update firmware for smart switches and dimmers when available, as these updates often include bug fixes and new features.
 

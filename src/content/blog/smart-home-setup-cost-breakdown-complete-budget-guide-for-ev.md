@@ -64,7 +64,7 @@ Premium setups offer comprehensive automation with professional-grade equipment:
 - Control4 systems: £1,000-£3,000
 
 **Advanced Climate Systems (£500-£2,500)**
-- Multi-zone HVAC control: £800-£2,000
+- Multi-zone heating and cooling control: £800-£2,000
 - Smart water heaters: £300-£800
 - Automated blinds/curtains: £100-£400 per window
 
@@ -119,7 +119,7 @@ Smart climate control offers significant energy savings that can offset initial 
 
 **Advanced Climate Systems:**
 - Multi-zone thermostats: £300-£800
-- Smart HVAC integration: £500-£2,000
+- Smart heating and cooling integration: £500-£2,000
 - Automated ventilation: £400-£1,200
 
 ## Hidden Costs and Additional Considerations

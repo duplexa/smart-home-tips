@@ -1,6 +1,6 @@
 ---
 title: "Zigbee Smart Home Range and Coverage Guide: Optimizing Your Network"
-description: "Complete guide to Zigbee smart home range and coverage optimization. Learn mesh networking, device placement, and troubleshooting for maximum coverage."
+description: "Complete guide to Zigbee smart home range and coverage optimisation. Learn mesh networking, device placement, and troubleshooting for maximum coverage."
 date: 2026-04-18
 ---
 
@@ -58,7 +58,7 @@ Optimal device placement is crucial for maximizing coverage:
 
 **Hub Positioning**: Place your Zigbee coordinator in a central location, elevated if possible, and away from other wireless devices. Avoid enclosed cabinets or areas with significant metal interference.
 
-**Router Distribution**: Distribute mains-powered devices throughout your home to create stepping stones for the mesh network. Smart switches and outlets work excellently as routers.
+**Router Distribution**: Distribute mains-powered devices throughout your home to create stepping stones for the mesh network. Smart switches and sockets work excellently as routers.
 
 **End Device Considerations**: While end devices don't extend the network, ensure they're within range of at least one router or the coordinator for reliable communication.
 
@@ -72,9 +72,9 @@ The **Aeotec Range Extender Zi** is a popular choice for extending Zigbee networ
 
 ### Using Smart Outlets as Range Extenders
 
-Smart outlets serve dual purposes as both functional devices and network extenders. The **Sengled Smart Outlet** and similar devices can significantly improve network coverage while providing additional smart home functionality.
+Smart sockets serve dual purposes as both functional devices and network extenders. The **Sengled Smart Outlet** and similar devices can significantly improve network coverage while providing additional smart home functionality.
 
-Place smart outlets in strategic locations throughout your home, particularly in areas that serve as natural bridges between the main hub and remote devices. Hallways, kitchens, and living rooms are often ideal locations.
+Place smart plugs in strategic locations throughout your home, particularly in areas that serve as natural bridges between the main hub and remote devices. Hallways, kitchens, and living rooms are often ideal locations.
 
 ### Optimizing Existing Device Placement
 
@@ -161,7 +161,7 @@ smart home automation basics
 
 ## Maximizing Your Zigbee Network's Potential
 
-Achieving optimal Zigbee coverage requires a combination of strategic planning, proper device placement, and ongoing optimization. Start with a centrally located hub, distribute mains-powered devices throughout your home to create a strong mesh backbone, and use dedicated repeaters to fill coverage gaps where necessary.
+Achieving optimal Zigbee coverage requires a combination of strategic planning, proper device placement, and ongoing optimisation. Start with a centrally located hub, distribute mains-powered devices throughout your home to create a strong mesh backbone, and use dedicated repeaters to fill coverage gaps where necessary.
 
 Remember that Zigbee networks improve over time as devices learn optimal routing paths and as you add more mesh-capable devices. Regular monitoring and maintenance will ensure your smart home network continues to provide reliable, comprehensive coverage for all your automation needs.
 

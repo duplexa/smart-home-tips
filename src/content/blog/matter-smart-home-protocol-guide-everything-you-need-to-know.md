@@ -78,9 +78,9 @@ Matter utilizes a multi-layer approach to device communication:
 
 Matter organizes smart home devices into specific categories, each with standardized features and commands:
 
-**Lighting**: Includes bulbs, switches, and dimmers with consistent brightness, color, and scheduling controls.
+**Lighting**: Includes bulbs, switches, and dimmers with consistent brightness, colour, and scheduling controls.
 
-**Climate Control**: Thermostats and HVAC systems with unified temperature management and scheduling.
+**Climate Control**: Thermostats and heating and cooling systems with unified temperature management and scheduling.
 
 **Security**: Door locks, sensors, and cameras with standardized security protocols and status reporting.
 
@@ -157,7 +157,7 @@ For homes with existing smart home infrastructure, Matter integration requires s
 
 ### Thread Network Optimization
 
-For Thread-based Matter devices, network optimization is crucial:
+For Thread-based Matter devices, network optimisation is crucial:
 
 **Border Router Placement**: Position Thread border routers centrally for optimal coverage and minimize interference.
 

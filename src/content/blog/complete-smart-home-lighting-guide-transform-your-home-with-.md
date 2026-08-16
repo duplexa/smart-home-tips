@@ -9,7 +9,7 @@ Smart home lighting has revolutionized how we interact with our living spaces, o
 
 ## What Is Smart Home Lighting?
 
-Smart home lighting refers to LED light fixtures and bulbs that can be controlled remotely through smartphone apps, voice assistants, or automated systems. Unlike traditional lighting, smart lights can be dimmed, color-changed, scheduled, and integrated with other smart home devices to create a truly connected living environment.
+Smart home lighting refers to LED light fixtures and bulbs that can be controlled remotely through smartphone apps, voice assistants, or automated systems. Unlike traditional lighting, smart lights can be dimmed, colour-changed, scheduled, and integrated with other smart home devices to create a truly connected living environment.
 
 These systems utilize wireless technologies like Wi-Fi, Zigbee, or Z-Wave to communicate with your home network, enabling features that were once only available in high-end commercial buildings.
 
@@ -25,7 +25,7 @@ Smart lighting can simulate occupancy when you're away by following programmed s
 
 ### Personalized Ambiance and Comfort
 
-Create the perfect atmosphere for any occasion with customizable color temperatures and brightness levels. Morning routines can gradually increase brightness to simulate sunrise, while evening settings can shift to warmer tones that promote better sleep. Color-changing bulbs offer millions of hue combinations for parties, holidays, or personal preference.
+Create the perfect atmosphere for any occasion with customizable colour temperatures and brightness levels. Morning routines can gradually increase brightness to simulate sunrise, while evening settings can shift to warmer tones that promote better sleep. Colour-changing bulbs offer millions of hue combinations for parties, holidays, or personal preference.
 
 ### Convenience and Automation
 
@@ -35,7 +35,7 @@ Voice control through assistants like Alexa, Google Assistant, or Siri makes adj
 
 ### Smart Bulbs
 
-The most accessible entry point into smart lighting, these LED bulbs screw directly into existing fixtures. Available in various form factors including A19, BR30, and specialty shapes, smart bulbs offer features like dimming, color changing, and scheduling. Popular brands include Philips Hue, LIFX, and Sengled.
+The most accessible entry point into smart lighting, these LED bulbs screw directly into existing fixtures. Available in various form factors including A19, BR30, and specialty shapes, smart bulbs offer features like dimming, colour changing, and scheduling. Popular brands include Philips Hue, LIFX, and Sengled.
 
 ### Smart Light Switches and Dimmers
 
@@ -47,7 +47,7 @@ Flexible LED strips provide ambient lighting behind TVs, under cabinets, or alon
 
 ### Smart Outdoor Lighting
 
-Weather-resistant smart bulbs and fixtures extend intelligent lighting to patios, gardens, and security areas. Motion-activated flood lights, color-changing landscape lighting, and automated porch lights enhance both security and curb appeal.
+Weather-resistant smart bulbs and fixtures extend intelligent lighting to patios, gardens, and security areas. Motion-activated flood lights, colour-changing landscape lighting, and automated porch lights enhance both security and curb appeal.
 
 ### Smart Light Panels and Fixtures
 
@@ -61,11 +61,11 @@ The industry leader offers an extensive ecosystem of bulbs, fixtures, and access
 
 ### LIFX
 
-Cloud-based system that doesn't require a hub, connecting directly to Wi-Fi. LIFX bulbs typically offer brighter output and more vibrant colors than competitors. The platform integrates well with major smart home systems and offers unique features like infrared night vision capabilities in select models.
+Cloud-based system that doesn't require a hub, connecting directly to Wi-Fi. LIFX bulbs typically offer brighter output and more vibrant colours than competitors. The platform integrates well with major smart home systems and offers unique features like infrared night vision capabilities in select models.
 
 ### TP-Link Kasa
 
-Budget-friendly option with a focus on simplicity and reliability. Kasa devices connect directly to Wi-Fi without requiring additional hubs. The ecosystem includes bulbs, switches, and outlets with straightforward setup and solid performance for basic smart lighting needs.
+Budget-friendly option with a focus on simplicity and reliability. Kasa devices connect directly to Wi-Fi without requiring additional hubs. The ecosystem includes bulbs, switches, and sockets with straightforward setup and solid performance for basic smart lighting needs.
 
 ### SmartThings and Zigbee-based Systems
 
@@ -116,7 +116,7 @@ Integrate motion sensors to create responsive lighting that activates only when 
 
 ### Scene Creation and Mood Lighting
 
-Develop custom lighting scenes for different activities: reading, entertaining, cooking, or relaxing. Save preferred settings for easy recall and share scenes with family members. Color-capable systems can create themed environments for holidays, seasons, or personal preferences.
+Develop custom lighting scenes for different activities: reading, entertaining, cooking, or relaxing. Save preferred settings for easy recall and share scenes with family members. Colour-capable systems can create themed environments for holidays, seasons, or personal preferences.
 
 ### Voice Control and AI Integration
 
@@ -167,9 +167,9 @@ Deeper integration with gaming systems, streaming services, and virtual reality 
 
 Smart lighting investments range from modest single-bulb installations to comprehensive whole-home systems. Budget considerations include:
 
-- **Starter systems**: $50-200 for basic smart bulbs and simple automation
-- **Mid-range installations**: $300-800 for multiple rooms with hub-based systems
-- **Premium implementations**: $1000+ for whole-home integration with advanced features
+- **Starter systems**: £50-200 for basic smart bulbs and simple automation
+- **Mid-range installations**: £300-800 for multiple rooms with hub-based systems
+- **Premium implementations**: £1000+ for whole-home integration with advanced features
 
 Factor in ongoing costs like electricity savings (typically 20-30% reduction), potential subscription fees for cloud services, and replacement costs as technology evolves.
 

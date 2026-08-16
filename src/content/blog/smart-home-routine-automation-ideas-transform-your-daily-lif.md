@@ -40,7 +40,7 @@ As you wake, smart speakers can provide weather updates, traffic conditions, cal
 
 ### Sunset Wind-Down Routines
 
-As evening approaches, automate your home's transition to relaxation mode. Smart lights can gradually shift to warmer color temperatures, mimicking natural sunset patterns. Door locks can automatically engage, security systems can activate, and entertainment systems can switch to quieter, more relaxing content.
+As evening approaches, automate your home's transition to relaxation mode. Smart lights can gradually shift to warmer colour temperatures, mimicking natural sunset patterns. Door locks can automatically engage, security systems can activate, and entertainment systems can switch to quieter, more relaxing content.
 
 ### Sleep Environment Optimization
 
@@ -76,7 +76,7 @@ Program high-energy devices like dishwashers, washing machines, and electric veh
 
 ### Phantom Load Elimination
 
-Use smart outlets to eliminate phantom energy draws from electronics in standby mode. Create routines that automatically cut power to entertainment centers, computer equipment, and kitchen appliances when not in use.
+Use smart plugs to eliminate phantom energy draws from electronics in standby mode. Create routines that automatically cut power to entertainment centres, computer equipment, and kitchen appliances when not in use.
 
 ## Security and Safety Automation
 
@@ -86,7 +86,7 @@ When leaving home, trigger comprehensive security sequences that lock all doors,
 
 ### Arrival Welcome Sequences
 
-As you approach home, automation can disarm security systems, unlock doors, turn on pathway lighting, and adjust climate control to comfortable settings. The Ring Video Doorbell Pro 2 can recognize familiar faces and trigger personalized welcome routines for different family members.
+As you approach home, automation can disarm security systems, unlock doors, turn on pathway lighting, and adjust climate control to comfortable settings. The Ring Video Doorbell Pro 2 can recognize familiar faces and trigger personalised welcome routines for different family members.
 
 ### Vacation Mode Automation
 
@@ -104,13 +104,13 @@ Create cinematic experiences by dimming lights, closing blinds, adjusting temper
 
 ### Reading and Relaxation Modes
 
-Develop calm, focused environments with appropriate lighting levels, background noise control, and temperature optimization for different relaxation activities. Essential oil diffusers can activate to create aromatherapy experiences that complement your relaxation routines.
+Develop calm, focused environments with appropriate lighting levels, background noise control, and temperature optimisation for different relaxation activities. Essential oil diffusers can activate to create aromatherapy experiences that complement your relaxation routines.
 
 ## Health and Wellness Automation
 
 ### Air Quality Management
 
-Implement automated air quality monitoring that activates purifiers, adjusts ventilation systems, and alerts you to pollution levels or allergen presence. Smart HVAC filters can indicate replacement needs, while humidity controls maintain optimal indoor air conditions.
+Implement automated air quality monitoring that activates purifiers, adjusts ventilation systems, and alerts you to pollution levels or allergen presence. Smart heating and cooling filters can indicate replacement needs, while humidity controls maintain optimal indoor air conditions.
 
 ### Exercise and Fitness Support
 
@@ -128,7 +128,7 @@ Develop meal preparation routines that preheat ovens, activate kitchen ventilati
 
 ### Cleaning and Maintenance Cycles
 
-Schedule dishwasher cycles during optimal times, coordinate garbage disposal cleaning, and activate kitchen air purifiers after cooking. The iRobot Roomba j7+ can automatically clean floors after meals, coordinating with your daily cleaning schedules.
+Schedule dishwasher cycles during optimal times, coordinate waste disposal cleaning, and activate kitchen air purifiers after cooking. The iRobot Roomba j7+ can automatically clean floors after meals, coordinating with your daily cleaning schedules.
 
 ### Grocery and Pantry Management
 

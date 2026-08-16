@@ -19,7 +19,7 @@ The doorbell includes a removable faceplate system, allowing you to customize th
 
 ### Google Nest Doorbell Battery Design
 
-The Google Nest Doorbell Battery adopts a more modern, vertical oval shape that stands 6.3 x 1.8 x 1.0 inches and weighs 8.0 ounces. Available in multiple colors including Snow, Linen, Ivy, and Ash, it offers more aesthetic flexibility out of the box.
+The Google Nest Doorbell Battery adopts a more modern, vertical oval shape that stands 6.3 x 1.8 x 1.0 inches and weighs 8.0 ounces. Available in multiple colours including Snow, Linen, Ivy, and Ash, it offers more aesthetic flexibility out of the box.
 
 The device features a minimalist design with a subtle Google logo and a small status light. The overall appearance is more streamlined and contemporary, appealing to users who prefer modern home aesthetics.
 
@@ -35,7 +35,7 @@ The Ring Video Doorbell 4 delivers 1080p HD video with enhanced dual-band Wi-Fi 
 
 - 1080p HD resolution with improved night vision
 - 160-degree horizontal and 90-degree vertical field of view
-- Color night vision in well-lit areas
+- Colour night vision in well-lit areas
 - Advanced motion detection with customizable zones
 - Pre-roll feature showing 4 seconds of video before motion events
 - HDR support for better image quality in varying lighting conditions
@@ -104,7 +104,7 @@ The Google Nest Doorbell Battery features an integrated rechargeable battery tha
 - Adaptive recording that adjusts based on activity levels
 - Power-saving modes during low-activity periods
 - Temperature compensation for cold weather performance
-- Battery optimization through software updates
+- Battery optimisation through software updates
 
 Unlike Ring's removable system, the Nest doorbell requires complete removal for charging, which can leave your entrance unmonitored.
 
@@ -290,7 +290,7 @@ Ring offers better value for security-focused users, while Google provides super
 - Excellent smart home integration
 - 3-hour local storage without subscription
 - Better aspect ratio for package detection
-- More color options
+- More colour options
 - Advanced on-device processing
 
 ### Google Nest Doorbell Battery Disadvantages
@@ -321,7 +321,7 @@ Ring offers better value for security-focused users, while Google provides super
 
 Both the Ring Video Doorbell 4 and Google Nest Doorbell Battery are excellent smart doorbells that excel in different areas. Your choice should depend primarily on your existing smart home ecosystem, specific feature priorities, and long-term security needs.
 
-For users focused on comprehensive security monitoring with reliable performance in all weather conditions, the Ring Video Doorbell 4 represents the better choice. Its removable battery system, pre-roll recording, and robust weather protection make it ideal for security-conscious homeowners.
+For users focused on comprehensive security monitoring with reliable performance in all weather conditions, the Ring Video Doorbell 4 represents the better choice. Its removable battery system, pre-roll recording, and robust weather protection make it ideal for security-conscious homeowners and renters.
 
 Conversely, if you value cutting-edge AI features, seamless smart home integration, and modern design, the Google Nest Doorbell Battery offers superior intelligence and automation capabilities.
 

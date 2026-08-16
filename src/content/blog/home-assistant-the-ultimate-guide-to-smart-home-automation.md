@@ -232,7 +232,7 @@ Home Assistant continues to evolve with emerging smart home technologies:
 - **Matter/Thread**: Industry-standard protocols for device interoperability
 - **Edge Computing**: Increased local processing capabilities
 - **Artificial Intelligence**: Enhanced automation through machine learning
-- **Energy Management**: Advanced monitoring and optimization features
+- **Energy Management**: Advanced monitoring and optimisation features
 
 ### Community Growth
 

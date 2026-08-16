@@ -80,7 +80,7 @@ The optimal mounting height for motion sensors balances detection range with fie
 
 ### Angle Adjustments for Maximum Coverage
 
-Many modern motion sensors offer adjustable mounting brackets allowing for precise angle optimization. Proper angling eliminates blind spots and maximizes the effective detection area.
+Many modern motion sensors offer adjustable mounting brackets allowing for precise angle optimisation. Proper angling eliminates blind spots and maximizes the effective detection area.
 
 **Angling techniques:**
 - Tilt sensors slightly downward to reduce ceiling detection and focus on floor-level movement
@@ -144,7 +144,7 @@ home automation systems
 **Integration considerations:**
 - Position sensors to complement security camera coverage
 - Coordinate with smart lighting for automated illumination
-- Integrate with HVAC systems for occupancy-based climate control
+- Integrate with heating and cooling systems for occupancy-based climate control
 - Connect with smart locks for enhanced entry monitoring
 
 ### Outdoor Motion Sensor Placement

@@ -42,7 +42,7 @@ If you want a safe first buy, start with the **TP-Link Tapo P110M Matter Smart P
 
 ## What Are Smart Plugs and How Do They Work?
 
-Smart plugs are Wi-Fi enabled adapters that plug into your existing wall outlets, creating an intermediary connection between your appliances and the power source. Once connected to your home network, these devices can be controlled remotely through dedicated smartphone apps, voice assistants, or automated schedules.
+Smart plugs are Wi-Fi enabled adapters that plug into your existing wall sockets, creating an intermediary connection between your appliances and the power source. Once connected to your home network, these devices can be controlled remotely through dedicated smartphone apps, voice assistants, or automated schedules.
 
 The basic functionality includes switching devices on and off remotely, setting timers and schedules, and monitoring energy consumption. Advanced models offer features like dimming capabilities for compatible lights, away mode simulation for security, and integration with comprehensive smart home ecosystems.
 
@@ -98,7 +98,7 @@ Most smart plugs require initial setup through their dedicated apps. This proces
 
 ### Optimal Placement Considerations
 
-Avoid installing smart plugs in locations with poor Wi-Fi reception or extreme temperatures. Consider the physical size of the plug to ensure it doesn't block adjacent outlets.
+Avoid installing smart plugs in locations with poor Wi-Fi reception or extreme temperatures. Consider the physical size of the plug to ensure it doesn't block adjacent sockets.
 
 ## Advanced Smart Plug Applications
 

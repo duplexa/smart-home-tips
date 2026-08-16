@@ -168,9 +168,9 @@ if (occupied === true) {
 
 Combine multiple sensors for intelligent decision-making:
 
-- **Temperature + Humidity**: Smart HVAC control
+- **Temperature + Humidity**: Smart heating and cooling control
 - **Motion + Light Level**: Adaptive lighting
-- **Door/Window + Weather**: Climate optimization
+- **Door/Window + Weather**: Climate optimisation
 - **Presence + Schedule**: Energy management
 
 ### Notification Systems

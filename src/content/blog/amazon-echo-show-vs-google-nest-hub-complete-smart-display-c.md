@@ -29,9 +29,9 @@ Google Nest Hubs adopt a more home-friendly approach with rounded edges, fabric-
 
 ### Screen Quality and Sizes
 
-Amazon offers greater variety in screen sizes across their Echo Show lineup, from compact displays perfect for nightstands to larger screens suitable for kitchen counters. The displays generally provide good brightness and color accuracy for their price points.
+Amazon offers greater variety in screen sizes across their Echo Show lineup, from compact displays perfect for nightstands to larger screens suitable for kitchen counters. The displays generally provide good brightness and colour accuracy for their price points.
 
-Google Nest Hubs focus on fewer size options but emphasize display quality. The screens often feature better color reproduction and viewing angles, making them more suitable for photo displays and video content.
+Google Nest Hubs focus on fewer size options but emphasize display quality. The screens often feature better colour reproduction and viewing angles, making them more suitable for photo displays and video content.
 
 ### Build Materials and Durability
 
@@ -51,7 +51,7 @@ Both assistants respond quickly to wake words and commands. Echo Show devices so
 
 ### Multi-User Support
 
-Both platforms offer voice recognition for multiple users, allowing personalized responses and access to individual accounts. Google's implementation tends to be more seamless, while Amazon's approach requires more setup but offers more granular control.
+Both platforms offer voice recognition for multiple users, allowing personalised responses and access to individual accounts. Google's implementation tends to be more seamless, while Amazon's approach requires more setup but offers more granular control.
 
 ## Smart Home Integration
 

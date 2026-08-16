@@ -4,7 +4,7 @@ description: "Complete guide to smart home renovation planning. Learn to integra
 date: 2026-04-18
 ---
 
-Smart home renovation planning has become essential for homeowners looking to modernize their living spaces while adding value and convenience. With technology advancing rapidly, planning your renovation to accommodate smart home features from the start saves time, money, and ensures seamless integration.
+Smart home renovation planning has become essential for homeowners and renters looking to modernize their living spaces while adding value and convenience. With technology advancing rapidly, planning your renovation to accommodate smart home features from the start saves time, money, and ensures seamless integration.
 
 ## Understanding Smart Home Renovation Fundamentals
 
@@ -29,7 +29,7 @@ Before diving into smart home renovation planning, conduct a thorough assessment
 
 **Electrical System Evaluation**
 - Age and capacity of your electrical panel
-- Number and placement of outlets
+- Number and placement of sockets
 - Quality of existing wiring
 - GFCI protection in appropriate areas
 
@@ -56,9 +56,9 @@ Successful smart home renovation planning begins with clear objectives. Consider
 - Water leak detection systems
 
 **Energy Management**
-- Smart thermostats and HVAC controls
+- Smart thermostats and heating and cooling controls
 - Automated lighting systems
-- Smart electrical outlets and switches
+- Smart electrical sockets and switches
 - Solar integration and battery storage
 
 **Convenience and Comfort**
@@ -77,7 +77,7 @@ Smart home renovation planning must prioritize electrical infrastructure. Most s
 Modern smart homes typically require 200-amp electrical panels to handle increased loads. Consider upgrading if your current panel is under 150 amps or more than 25 years old.
 
 **Strategic Outlet Placement**
-Plan outlets in locations where you'll need device charging stations, smart displays, or hub installations. Include USB outlets in bedrooms, kitchens, and common areas.
+Plan sockets in locations where you'll need device charging stations, smart displays, or hub installations. Include USB sockets in bedrooms, kitchens, and common areas.
 
 **Dedicated Circuits**
 Certain smart home systems benefit from dedicated circuits:
@@ -92,7 +92,7 @@ Certain smart home systems benefit from dedicated circuits:
 While Wi-Fi handles many smart devices, ethernet provides the most reliable connection for critical systems. Run Cat 6A cables to:
 - Each room for future access points
 - Security camera locations
-- Entertainment centers
+- Entertainment centres
 - Home office spaces
 - Garage and outdoor areas
 
@@ -106,7 +106,7 @@ Designate a central location for network equipment with proper ventilation, powe
 
 ### Kitchen Integration
 
-The kitchen serves as a smart home command center in many households. Your renovation planning should accommodate:
+The kitchen serves as a smart home command centre in many households. Your renovation planning should accommodate:
 
 **Smart Appliances**
 - Refrigerators with internal cameras and inventory management
@@ -119,7 +119,7 @@ Consider appliances like the **Samsung Family Hub Refrigerator** or **GE Profile
 **Lighting and Electrical**
 - Under-cabinet LED strips with smart controls
 - Pendant lights with dimming capabilities
-- Multiple outlet configurations for small appliances
+- Multiple socket configurations for small appliances
 - USB charging stations in convenient locations
 
 ### Living Areas and Entertainment
@@ -214,7 +214,7 @@ Smart home renovation planning requires careful budget allocation across multipl
 - Professional installation labor
 
 **Device and Equipment Costs (30-40% of budget)**
-- Smart switches, outlets, and controls
+- Smart switches, sockets, and controls
 - Security systems and cameras
 - Entertainment and audio equipment
 - Appliances with smart capabilities
@@ -263,18 +263,18 @@ Certain aspects of smart home renovation planning require professional expertise
 - Structured wiring systems
 - Enterprise-grade equipment setup
 - Network security configuration
-- Performance optimization
+- Performance optimisation
 
 **Integration Services**
 - Multi-platform device coordination
 - Complex automation programming
-- Troubleshooting and optimization
+- Troubleshooting and optimisation
 - Ongoing maintenance contracts
 
 ### DIY-Friendly Components
 
 Many smart home elements can be self-installed:
-- Basic smart switches and outlets
+- Basic smart switches and sockets
 - Plug-in smart devices
 - Wireless sensors and cameras
 - Voice assistants and displays
@@ -312,7 +312,7 @@ Include ongoing maintenance in your smart home renovation planning:
 **Regular Updates**
 - Device firmware updates
 - Security patches and system updates
-- Performance monitoring and optimization
+- Performance monitoring and optimisation
 - Feature additions and capability expansions
 
 **Component Lifecycle Management**
@@ -328,7 +328,7 @@ smart home maintenance
 ### Infrastructure Shortfalls
 
 - **Insufficient Network Capacity**: Underestimating bandwidth needs for multiple streaming devices
-- **Inadequate Electrical Planning**: Not including enough outlets or dedicated circuits
+- **Inadequate Electrical Planning**: Not including enough sockets or dedicated circuits
 - **Poor Hub Placement**: Installing central controllers in locations with connectivity issues
 - **Overlooking Ventilation**: Failing to provide adequate cooling for network equipment
 

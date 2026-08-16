@@ -13,7 +13,7 @@ The fundamental distinction between these devices lies in their design philosoph
 
 ### Display and Visual Features
 
-The **[Amazon Echo Show 8 (3rd Gen)](https://www.amazon.co.uk/dp/B0BLS36M5R/ref=nosim?tag=smarthomestip-21)** features an 8-inch HD touchscreen with adaptive color and auto-framing camera technology. This display transforms how you interact with Alexa, enabling video calls, streaming content, recipe viewing, and visual smart home management. The screen automatically adjusts brightness based on ambient lighting and can display photos, weather information, and timers simultaneously.
+The **[Amazon Echo Show 8 (3rd Gen)](https://www.amazon.co.uk/dp/B0BLS36M5R/ref=nosim?tag=smarthomestip-21)** features an 8-inch HD touchscreen with adaptive colour and auto-framing camera technology. This display transforms how you interact with Alexa, enabling video calls, streaming content, recipe viewing, and visual smart home management. The screen automatically adjusts brightness based on ambient lighting and can display photos, weather information, and timers simultaneously.
 
 In contrast, the **[Amazon Echo Dot (5th Gen)](https://www.amazon.co.uk/dp/B09B8YWXDF/ref=nosim?tag=smarthomestip-21)** relies entirely on LED indicators and audio feedback. While this eliminates visual distractions, it also limits functionality for tasks that benefit from visual elements like recipe instructions or video content.
 
@@ -61,7 +61,7 @@ The Echo Dot supports voice-only communication through Drop In and calling featu
 
 Size differences significantly impact placement options. The Echo Dot measures just 3.9 inches in diameter and 3.5 inches tall, making it suitable for nightstands, bookshelves, and compact spaces. Its unobtrusive design blends easily into existing décor.
 
-The Echo Show 8 requires more substantial placement consideration due to its 7.9-inch width, 5.4-inch height, and 4.3-inch depth. The device needs stable surface placement and clear viewing angles, making it ideal for kitchen counters, desks, and entertainment centers.
+The Echo Show 8 requires more substantial placement consideration due to its 7.9-inch width, 5.4-inch height, and 4.3-inch depth. The device needs stable surface placement and clear viewing angles, making it ideal for kitchen counters, desks, and entertainment centres.
 
 ### Privacy Features
 

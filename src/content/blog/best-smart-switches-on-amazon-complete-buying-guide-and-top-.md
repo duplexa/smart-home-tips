@@ -87,7 +87,7 @@ Provide variable light control alongside smart functionality, offering ambiance 
 
 ### Smart Switch Outlets
 
-Combine traditional outlet functionality with smart switching capabilities, perfect for lamps, small appliances, and seasonal decorations.
+Combine traditional socket functionality with smart switching capabilities, perfect for lamps, small appliances, and seasonal decorations.
 
 **Practical applications:**
 - Table lamp control without reaching behind furniture

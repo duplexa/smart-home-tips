@@ -28,7 +28,7 @@ The system uses proprietary wireless technology and cellular connectivity as the
 
 Ring Alarm offers a straightforward selection of security devices:
 
-**Base Station**: The central hub that connects all devices and communicates with Ring's monitoring center. It includes a built-in siren and battery backup.
+**Base Station**: The central hub that connects all devices and communicates with Ring's monitoring centre. It includes a built-in siren and battery backup.
 
 **Keypad**: A wireless keypad for arming and disarming the system. It features a numeric keypad with status indicators.
 
@@ -173,7 +173,7 @@ Simplisafe has built a reputation for reliability:
 
 ### Ring App Features
 
-The Ring app provides a comprehensive control center:
+The Ring app provides a comprehensive control centre:
 
 - Clean, intuitive interface design
 - Real-time system status and device health
@@ -201,7 +201,7 @@ Ring provides multiple support channels:
 
 - 24/7 phone support for subscribers
 - Live chat and email support
-- Comprehensive online help center
+- Comprehensive online help centre
 - Community forums and user guides
 - One-year limited warranty on devices
 - Extended warranty with Ring Protect Plus

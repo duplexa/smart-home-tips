@@ -56,7 +56,7 @@ Smart televisions and streaming devices monitor viewing habits, app usage, and s
 
 Privacy regulations vary significantly by jurisdiction. The European Union's General Data Protection Regulation (GDPR) provides strong protections for EU residents, requiring explicit consent for data collection and giving users rights to access, correct, and delete their data.
 
-In the United States, privacy laws are less comprehensive, though some states like California have implemented stronger protections through regulations like the California Consumer Privacy Act (CCPA).
+Outside the UK, privacy laws vary. If you are comparing products sold internationally, check how each manufacturer handles UK GDPR rights, data retention, cloud storage, and account deletion.
 
 ### Industry Self-Regulation
 

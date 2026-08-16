@@ -52,11 +52,11 @@ Ring focuses on affordability and extensive product range, while Nest emphasizes
 
 Ring doorbells typically offer 1080p HD recording with decent daytime clarity. The video compression can sometimes reduce fine details, but overall quality remains adequate for identifying visitors and monitoring activity.
 
-Night vision performance varies across Ring models, with newer versions providing clearer infrared footage. Color night vision is available on premium Ring models, though it requires adequate ambient lighting.
+Night vision performance varies across Ring models, with newer versions providing clearer infrared footage. Colour night vision is available on premium Ring models, though it requires adequate ambient lighting.
 
 ### Nest Video Performance
 
-Nest doorbells generally deliver superior video quality with better color accuracy and sharper detail retention. The HDR capabilities help balance exposure in challenging lighting conditions, producing more natural-looking footage.
+Nest doorbells generally deliver superior video quality with better colour accuracy and sharper detail retention. The HDR capabilities help balance exposure in challenging lighting conditions, producing more natural-looking footage.
 
 Nest's night vision typically outperforms Ring's offerings, providing clearer monochrome images in complete darkness. Some Nest models also feature advanced image processing that reduces noise and enhances overall clarity.
 
@@ -72,7 +72,7 @@ Pre-recorded messages allow you to respond to visitors when unavailable, though 
 
 Nest doorbells typically offer superior audio quality with clearer speaker output and better microphone sensitivity. Advanced noise cancellation helps filter out ambient sounds during conversations.
 
-The ability to create custom pre-recorded messages provides more personalization options, and the overall audio experience feels more natural and professional.
+The ability to create custom pre-recorded messages provides more personalisation options, and the overall audio experience feels more natural and professional.
 
 ## Smart Features and AI Capabilities
 

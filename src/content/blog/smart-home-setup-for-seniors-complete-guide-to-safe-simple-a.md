@@ -309,19 +309,19 @@ Advanced emergency features include:
 
 ## Budget-Conscious Smart Home Setup
 
-### Starting Budget: Under $200
+### Starting Budget: Under £200
 - **Amazon Echo Dot**: Basic voice control hub
 - Smart bulbs for two key rooms
 - Smart plug for lamp or device control
 - Basic motion sensor for hallway lighting
 
-### Mid-Range Budget: $200-500
+### Mid-Range Budget: £200-500
 - Smart speaker with display for video calls
 - Smart thermostat for energy savings
 - Video doorbell for security
 - Additional smart lighting for main living areas
 
-### Comprehensive Setup: $500+
+### Comprehensive Setup: £500+
 - Full home lighting automation
 - Complete security system with cameras
 - Smart door locks
@@ -344,7 +344,7 @@ Technology evolves rapidly, so consider:
 - Consider whole-home integration possibilities
 - Plan for changing needs over time
 
-Smart home technology offers seniors unprecedented opportunities for safer, more comfortable, and more independent living. By starting small, focusing on practical benefits, and gradually expanding capabilities, seniors can create personalized smart home environments that enhance daily life while maintaining simplicity and reliability. The key is choosing user-friendly devices, ensuring proper setup and support, and maintaining realistic expectations about the learning process.
+Smart home technology offers seniors unprecedented opportunities for safer, more comfortable, and more independent living. By starting small, focusing on practical benefits, and gradually expanding capabilities, seniors can create personalised smart home environments that enhance daily life while maintaining simplicity and reliability. The key is choosing user-friendly devices, ensuring proper setup and support, and maintaining realistic expectations about the learning process.
 
 home security systems
 voice assistant comparison

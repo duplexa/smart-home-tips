@@ -30,7 +30,7 @@ Every smart home ecosystem includes several core components that work together t
 
 ### Amazon Alexa Ecosystem
 
-Amazon's Alexa ecosystem centers around Echo devices and offers extensive third-party device compatibility. The platform excels in voice control capabilities and has one of the largest selections of compatible devices on the market.
+Amazon's Alexa ecosystem centres around Echo devices and offers extensive third-party device compatibility. The platform excels in voice control capabilities and has one of the largest selections of compatible devices on the market.
 
 **Strengths**: Broad device compatibility, strong voice recognition, extensive Skills marketplace, competitive pricing on Amazon devices, robust automation through Routines.
 

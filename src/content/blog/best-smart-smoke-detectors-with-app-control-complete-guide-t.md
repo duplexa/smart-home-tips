@@ -6,7 +6,7 @@ date: 2026-08-16
 
 Smart smoke detectors are worth buying when they solve a real problem: you want a phone alert when you are out, you want a family member notified, or you want one alarm to trigger the whole home. They are not worth buying just because the box says "smart".
 
-The short version: UK buyers should look hardest at FireAngel Pro Connected, Aico SmartLINK if the home is being professionally fitted, X-Sense if you want low-cost app alerts, and Frient if you already run Home Assistant. US buyers get a stronger Google Home path through First Alert SC5, while older Nest Protect owners should plan around expiry rather than assume they can keep buying replacements forever.
+The short version: UK buyers should look hardest at FireAngel Pro Connected, Aico SmartLINK if the home is being professionally fitted, X-Sense if you want low-cost app alerts, and Frient if you already run Home Assistant. Some Google Home replacement options are stronger outside the UK, so treat them as availability notes rather than default UK recommendations.
 
 Smoke alarms are life-safety devices. Always follow local rules, the manufacturer's siting instructions, and the replacement date printed on the alarm. Smart alerts are a useful extra layer; the loud local alarm is still the thing that wakes people up.
 
@@ -38,7 +38,7 @@ If you mainly want affordable phone alerts in a flat or small home, **X-Sense** 
 
 ## Best Overall UK Pick: FireAngel Pro Connected
 
-FireAngel Pro Connected is the best first recommendation for UK homeowners because it handles the bit most people actually need: a network of smoke, heat and CO alarms that can alert a phone when something happens.
+FireAngel Pro Connected is the best first recommendation for UK homeowners and renters because it handles the bit most people actually need: a network of smoke, heat and CO alarms that can alert a phone when something happens.
 
 The Pro Connected gateway links compatible FireAngel alarms to the FireAngel Connected app. That gives you instant mobile alerts, network status, app-based testing and silence features, and support for multiple properties. That last point matters if you are setting up alerts for an elderly parent, a student flat, a holiday home or a relative who lives alone.
 
@@ -86,7 +86,7 @@ It reports smoke alarms, battery status and temperature, and has a loud local si
 - Send push notifications to household phones.
 - Trigger an extra smart siren in a detached garage or garden office.
 - Pause robot vacuums and non-essential appliances.
-- Shut down HVAC or fans if your system supports it safely.
+- Shut down heating and cooling or fans if your system supports it safely.
 
 Choose Frient if you already have Home Assistant with a Zigbee coordinator.
 
@@ -98,7 +98,7 @@ Useful related guide: [Zigbee vs Wi-Fi smart home devices](/blog/zigbee-vs-wifi-
 
 Nest Protect was the smart smoke detector most people wanted: smoke and CO detection, voice warnings, phone alerts, self-tests, Pathlight and a polished app experience. It is still good if you already own in-date units.
 
-But as a buyer guide in 2026, it cannot be the default recommendation. Google announced in March 2025 that it was ending new production of Nest Protect, with existing units continuing to work until their expiry dates and continuing to receive updates. Google points US buyers toward the First Alert SC5 Smart Smoke & CO Alarm as the compatible replacement.
+But as a buyer guide in 2026, it cannot be the default recommendation. Google announced in March 2025 that it was ending new production of Nest Protect, with existing units continuing to work until their expiry dates and continuing to receive updates. Google points some non-UK buyers toward the First Alert SC5 Smart Smoke & CO Alarm as the compatible replacement, but UK availability and certification should be checked carefully.
 
 So the practical advice is:
 
@@ -115,7 +115,7 @@ The cleaner Ring route is a smoke and CO alarm designed to integrate through Rin
 
 The second route is a Ring Smoke & CO Listener, which listens for an existing compliant smoke or CO alarm. This is not itself a smoke detector. It is an alerting accessory. That distinction matters because you still need proper smoke and CO alarms installed and tested.
 
-For UK buyers, check availability carefully. Ring's smoke listener and professional monitoring features are more US/Canada-led than UK-led, so do not build a UK fire safety plan around a feature you cannot actually buy or subscribe to.
+For UK buyers, check availability carefully. Ring's smoke listener and professional monitoring features are more North America-led than UK-led, so do not build a UK fire safety plan around a feature you cannot actually buy or subscribe to.
 
 Useful related guide: [Ring Alarm vs SimpliSafe](/blog/ring-alarm-vs-simplisafe-complete-security-system-comparison).
 
@@ -170,7 +170,7 @@ Good automations:
 - Send push notifications to adults in the household.
 - Trigger an extra smart siren in a detached garage or garden office.
 - Pause robot vacuums and non-essential appliances.
-- Shut down HVAC or fans if your system supports it safely.
+- Shut down heating and cooling or fans if your system supports it safely.
 
 Bad automations:
 

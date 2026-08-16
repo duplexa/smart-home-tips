@@ -23,7 +23,7 @@ Key strengths include broad device support, voice control capabilities, and rout
 
 ### Google Home/Assistant Platform
 
-Google's ecosystem centers around the Google Assistant and integrates deeply with Google services. The platform excels at natural language processing and contextual understanding, making voice interactions more intuitive. Google Home devices serve as both controllers and smart speakers.
+Google's ecosystem centres around the Google Assistant and integrates deeply with Google services. The platform excels at natural language processing and contextual understanding, making voice interactions more intuitive. Google Home devices serve as both controllers and smart speakers.
 
 The platform's integration with Google services like Calendar, Maps, and Search provides unique automation possibilities. However, privacy-conscious users might be concerned about Google's data collection practices.
 

@@ -24,7 +24,7 @@ A complete smart home security system typically includes several core components
 
 **Smart Lighting Systems** create the appearance of occupancy when you're away and can automatically illuminate areas when motion is detected, deterring potential intruders.
 
-**Security Hubs and Control Panels** serve as the central command center, connecting all devices and providing a unified interface for monitoring and control.
+**Security Hubs and Control Panels** serve as the central command centre, connecting all devices and providing a unified interface for monitoring and control.
 
 ## Network Security Fundamentals
 

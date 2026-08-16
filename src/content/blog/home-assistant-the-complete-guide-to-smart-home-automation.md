@@ -154,7 +154,7 @@ The default Lovelace dashboard can be extensively customized to match your prefe
 
 - **Card Organization**: Arrange device controls logically by room or function
 - **Custom Cards**: Install community-developed cards for enhanced functionality
-- **Themes**: Apply custom color schemes and styling
+- **Themes**: Apply custom colour schemes and styling
 - **Responsive Design**: Optimize layouts for different screen sizes
 
 ### Mobile Experience

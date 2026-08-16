@@ -107,7 +107,7 @@ Battery-powered Zigbee devices present unique challenges:
 Router devices are critical for network stability:
 
 1. **Power cycling**: Restart router devices if they become unresponsive
-2. **Placement optimization**: Position routers to provide optimal coverage and create redundant paths
+2. **Placement optimisation**: Position routers to provide optimal coverage and create redundant paths
 3. **Load balancing**: Distribute end devices across multiple routers to prevent overloading
 
 ## Network Recovery and Rebuilding
@@ -190,6 +190,6 @@ Stay informed about Zigbee protocol updates and new standards like Matter/Thread
 
 Troubleshooting Zigbee connection issues requires a systematic approach that considers the mesh network's complexity and the various factors that can affect wireless communication. By understanding common problems, following structured troubleshooting steps, and implementing preventive maintenance practices, you can maintain a reliable and responsive Zigbee network.
 
-Remember that patience is key when troubleshooting Zigbee issues. The mesh network topology means that changes can take time to propagate throughout the system. Allow adequate time for network healing and route optimization after making changes.
+Remember that patience is key when troubleshooting Zigbee issues. The mesh network topology means that changes can take time to propagate throughout the system. Allow adequate time for network healing and route optimisation after making changes.
 
 With proper troubleshooting techniques and regular maintenance, your Zigbee network can provide years of reliable smart home automation. Focus on building a robust foundation with good router placement, minimal interference, and regular monitoring to prevent most connection issues before they occur.

@@ -60,7 +60,7 @@ Consider both indoor and outdoor coverage requirements. Smart security cameras, 
 
 Mesh systems excel in smart homes by providing seamless roaming and eliminating dead zones. Multiple access points create overlapping coverage areas, allowing devices to connect to the strongest signal automatically. This architecture particularly benefits mobile devices and ensures consistent connectivity throughout the property.
 
-Traditional single-router setups work well in smaller homes or apartments but may struggle with comprehensive coverage in larger spaces. Range extenders offer a cost-effective coverage solution but can introduce latency and reduce overall network performance compared to proper mesh implementations.
+Traditional single-router setups work well in smaller homes or flats but may struggle with comprehensive coverage in larger spaces. Range extenders offer a cost-effective coverage solution but can introduce latency and reduce overall network performance compared to proper mesh implementations.
 
 ## Bandwidth Calculation and Planning
 

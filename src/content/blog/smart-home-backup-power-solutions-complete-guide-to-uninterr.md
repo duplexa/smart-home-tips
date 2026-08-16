@@ -73,7 +73,7 @@ Portable power stations offer flexible backup power that can be moved where need
 
 Look for units with at least 500Wh capacity for basic smart home backup needs. Larger 1000-2000Wh units can power multiple devices for extended periods.
 
-Consider units with multiple AC outlets, USB ports, and DC outputs to accommodate different device charging requirements simultaneously.
+Consider units with multiple AC sockets, USB ports, and DC outputs to accommodate different device charging requirements simultaneously.
 
 ### Smart Features
 
@@ -159,7 +159,7 @@ Evaluate backup power solutions based on your specific needs, budget, and local 
 
 ### Initial Investment vs Long-term Value
 
-While whole home battery systems require substantial upfront investment, they can provide energy cost savings through time-of-use optimization and potential utility incentives.
+While whole home battery systems require substantial upfront investment, they can provide energy cost savings through time-of-use optimisation and potential utility incentives.
 
 Smaller UPS systems offer affordable protection for critical devices but may require replacement batteries and have limited runtime.
 

@@ -12,19 +12,19 @@ Before diving into specific budget allocations, it's essential to understand the
 
 ### Essential Infrastructure
 
-Your smart home foundation includes the hub, router upgrades, and basic connectivity components. Budget $200-500 for infrastructure, depending on your home's size and existing network capabilities.
+Your smart home foundation includes the hub, router upgrades, and basic connectivity components. Budget £200-500 for infrastructure, depending on your home's size and existing network capabilities.
 
 ### Security and Safety
 
-Smart security systems, cameras, and safety devices typically range from $300-1,500 for a comprehensive setup. This category often provides the highest return on investment through potential insurance discounts and peace of mind.
+Smart security systems, cameras, and safety devices typically range from £300-1,500 for a comprehensive setup. This category often provides the highest return on investment through potential insurance discounts and peace of mind.
 
 ### Comfort and Convenience
 
-Thermostats, lighting, and basic automation fall into this category, with costs ranging from $150-800 for starter setups. These devices often provide immediate utility bill savings.
+Thermostats, lighting, and basic automation fall into this category, with costs ranging from £150-800 for starter setups. These devices often provide immediate utility bill savings.
 
 ### Entertainment and Advanced Features
 
-Smart speakers, advanced lighting scenes, and entertainment integration can cost $200-1,000 or more, depending on your preferences.
+Smart speakers, advanced lighting scenes, and entertainment integration can cost £200-1,000 or more, depending on your preferences.
 
 ## Setting Your Smart Home Budget
 
@@ -41,7 +41,7 @@ Document your home's layout, identifying areas where smart technology would prov
 
 ### Determine Your Total Investment
 
-A realistic smart home budget typically ranges from $500 for basic automation to $5,000+ for comprehensive systems. Consider allocating:
+A realistic smart home budget typically ranges from £500 for basic automation to £5,000+ for comprehensive systems. Consider allocating:
 
 - 20-30% for infrastructure and hub systems
 - 30-40% for security and safety features
@@ -65,7 +65,7 @@ Implementing your smart home in phases spreads costs over time while allowing yo
 
 ### Phase 1: Foundation and Security (Months 1-3)
 
-Start with essential infrastructure and basic security. This phase typically costs $400-800 and includes:
+Start with essential infrastructure and basic security. This phase typically costs £400-800 and includes:
 
 - Smart hub or central control system
 - Router upgrade if necessary
@@ -90,7 +90,7 @@ The **[Nest Learning Thermostat](https://www.amazon.co.uk/dp/B016PW3JSG/ref=nosi
 
 Add sophisticated automation and entertainment features:
 
-- Advanced lighting scenes and color-changing bulbs
+- Advanced lighting scenes and colour-changing bulbs
 - Smart speakers and voice control
 - Integration between different device ecosystems
 - Specialized sensors for air quality, water leaks, etc.
@@ -130,7 +130,7 @@ Consider open-source solutions like Home Assistant for central control, which ca
 
 Smart thermostats typically save 10-15% on heating and cooling costs. Calculate your potential annual savings:
 
-- Average annual HVAC costs × savings percentage = annual benefit
+- Average annual heating and cooling costs × savings percentage = annual benefit
 - Compare against thermostat cost for payback period
 - Factor in utility rebates and tax incentives
 
@@ -138,7 +138,7 @@ Smart lighting and automated power management can add another 5-10% in electrici
 
 ### Security and Insurance Benefits
 
-Many insurance providers offer discounts for professionally monitored smart security systems. Contact your insurance agent to understand potential savings, which can range from 5-20% on homeowners insurance premiums.
+Many insurance providers offer discounts for professionally monitored smart security systems. Contact your insurance agent to understand potential savings, which can range from 5-20% on home insurance premiums.
 
 ### Home Value Impact
 
@@ -187,30 +187,30 @@ future-proofing smart homes
 
 ## Sample Budget Scenarios
 
-### Starter Budget: $500-800
+### Starter Budget: £500-800
 
-- Smart hub: $50-100
-- Basic security (doorbell camera, 2 sensors): $200-300
-- Smart thermostat: $150-250
-- Smart plugs and basic lighting: $100-150
+- Smart hub: £50-100
+- Basic security (doorbell camera, 2 sensors): £200-300
+- Smart thermostat: £150-250
+- Smart plugs and basic lighting: £100-150
 
-### Mid-Range Budget: $1,500-2,500
+### Mid-Range Budget: £1,500-2,500
 
-- Advanced hub system: $100-200
-- Comprehensive security system: $400-600
-- Multi-zone climate control: $300-500
-- Automated lighting throughout home: $400-600
-- Smart speakers and voice control: $200-400
-- Window treatments and additional sensors: $200-400
+- Advanced hub system: £100-200
+- Comprehensive security system: £400-600
+- Multi-zone climate control: £300-500
+- Automated lighting throughout home: £400-600
+- Smart speakers and voice control: £200-400
+- Window treatments and additional sensors: £200-400
 
-### Premium Budget: $3,000-5,000+
+### Premium Budget: £3,000-5,000+
 
-- Professional installation and integration: $500-1,000
-- Whole-home security with monitoring: $800-1,200
-- Advanced climate zones and air quality: $600-1,000
-- Premium lighting with color and scenes: $600-1,000
-- Entertainment integration: $400-800
-- Specialized sensors and advanced automation: $400-800
+- Professional installation and integration: £500-1,000
+- Whole-home security with monitoring: £800-1,200
+- Advanced climate zones and air quality: £600-1,000
+- Premium lighting with colour and scenes: £600-1,000
+- Entertainment integration: £400-800
+- Specialized sensors and advanced automation: £400-800
 
 ## Getting Started: Your First 30 Days
 

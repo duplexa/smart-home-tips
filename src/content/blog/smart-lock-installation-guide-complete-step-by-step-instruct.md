@@ -12,7 +12,7 @@ Before diving into installation, it's crucial to understand the different types 
 
 ### Retrofit Smart Locks
 
-Retrofit smart locks attach to your existing deadbolt mechanism, making them the easiest option for most homeowners. These devices typically clamp onto the interior thumb turn of your current lock, requiring minimal modifications to your door.
+Retrofit smart locks attach to your existing deadbolt mechanism, making them the easiest option for most homeowners and renters. These devices typically clamp onto the interior thumb turn of your current lock, requiring minimal modifications to your door.
 
 ### Complete Replacement Smart Locks
 
@@ -29,7 +29,7 @@ Some smart locks function as add-on devices that work with your existing lock ha
 Before purchasing a smart lock, measure your door's specifications. Standard residential doors accommodate most smart locks, but you'll need to verify:
 
 - Door thickness (typically 1.375 to 2.25 inches)
-- Backset measurement (distance from door edge to center of existing deadbolt hole)
+- Backset measurement (distance from door edge to centre of existing deadbolt hole)
 - Cross bore diameter (hole size for the lock cylinder)
 - Existing deadbolt type and brand
 
@@ -262,7 +262,7 @@ Remember that smart locks are only as secure as your door and frame. Ensure adeq
 
 ## When to Call a Professional
 
-While most homeowners can successfully install smart locks, certain situations warrant professional assistance:
+While most homeowners and renters can successfully install smart locks, certain situations warrant professional assistance:
 
 - Doors requiring significant modification or reinforcement
 - Integration with existing security systems

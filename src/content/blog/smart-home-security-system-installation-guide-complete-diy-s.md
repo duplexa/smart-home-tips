@@ -4,7 +4,7 @@ description: "Complete DIY smart home security system installation guide. Step-b
 date: 2026-04-21
 ---
 
-Installing a smart home security system has become increasingly accessible for homeowners who want to take control of their property's protection. With the right guidance and preparation, you can set up a comprehensive security network that rivals professional installations while saving hundreds of dollars in installation fees.
+Installing a smart home security system has become increasingly accessible for homeowners and renters who want to take control of their property's protection. With the right guidance and preparation, you can set up a comprehensive security network that rivals professional installations while saving hundreds of pounds in installation fees.
 
 ## Planning Your Smart Home Security System
 
@@ -54,7 +54,7 @@ Gather these essential tools before beginning installation:
 
 ### Power Considerations
 
-Determine which devices require hardwired power connections versus battery operation. While battery-powered devices offer easier installation, they require regular maintenance and replacement. Hardwired devices provide consistent power but may require professional electrical work if outlets aren't readily available.
+Determine which devices require hardwired power connections versus battery operation. While battery-powered devices offer easier installation, they require regular maintenance and replacement. Hardwired devices provide consistent power but may require professional electrical work if sockets aren't readily available.
 
 For outdoor cameras and devices, consider weatherproof electrical boxes and ensure all connections meet outdoor electrical codes.
 
@@ -129,7 +129,7 @@ For hardwired cameras, run cables through walls or use exterior-rated conduit fo
 Smart locks enhance your security system by providing remote access control and entry logging.
 
 **Installation Requirements**:
-- Measure your door's backset (distance from door edge to center of existing lock)
+- Measure your door's backset (distance from door edge to centre of existing lock)
 - Verify door thickness compatibility
 - Ensure your door frame provides adequate clearance
 
