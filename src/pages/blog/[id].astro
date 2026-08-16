@@ -144,6 +144,28 @@ const lastUpdated = post.data.date;
   }
   .post-content :global(p) { margin-bottom: 1rem; }
   .post-content :global(ul), .post-content :global(ol) { margin-bottom: 1rem; padding-left: 1.5rem; }
+  .post-content :global(table) {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+    margin: 1.25rem 0;
+    font-size: 0.94rem;
+    line-height: 1.45;
+  }
+  .post-content :global(th), .post-content :global(td) {
+    min-width: 9rem;
+    border: 1px solid var(--line);
+    padding: 0.7rem;
+    vertical-align: top;
+    text-align: left;
+  }
+  .post-content :global(th) {
+    background: var(--soft);
+    color: var(--ink);
+    font-weight: 800;
+  }
+  .post-content :global(tr:nth-child(even) td) { background: #fbfbf8; }
   .post-content :global(a[href*="amazon."]) {
     font-weight: 700;
     text-decoration: underline;
