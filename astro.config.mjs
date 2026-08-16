@@ -8,7 +8,7 @@ import removeMarkdownH1 from './src/lib/rehype-remove-markdown-h1.mjs';
 export default defineConfig({
   site: 'https://smarthomestips.com',
   output: 'static',
-  trailingSlash: 'never',
+  trailingSlash: 'always',
   adapter: cloudflare(),
   integrations: [sitemap({ lastmod: new Date() })],
   markdown: {

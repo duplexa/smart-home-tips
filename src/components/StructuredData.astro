@@ -12,7 +12,8 @@ interface Props {
 }
 
 const { title, description, date, author, image, type, breadcrumbs, rankedItems, faqs } = Astro.props;
-const url = new URL(Astro.url.pathname.replace(/\/+$/, '') || '/', Astro.site).href;
+const canonicalPathname = Astro.url.pathname === '/' ? '/' : `${Astro.url.pathname.replace(/\/+$/, '')}/`;
+const url = new URL(canonicalPathname, Astro.site).href;
 
 const websiteSchema = {
   '@context': 'https://schema.org',

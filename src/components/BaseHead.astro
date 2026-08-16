@@ -9,7 +9,8 @@ interface Props {
 }
 
 const { title, description, image, type = 'website', date, author } = Astro.props;
-const canonicalURL = new URL(Astro.url.pathname.replace(/\/+$/, '') || '/', Astro.site);
+const canonicalPathname = Astro.url.pathname === '/' ? '/' : `${Astro.url.pathname.replace(/\/+$/, '')}/`;
+const canonicalURL = new URL(canonicalPathname, Astro.site);
 const ogImage = image ? new URL(image, Astro.site).href : undefined;
 const siteName = 'Smart Home Tips';
 ---
