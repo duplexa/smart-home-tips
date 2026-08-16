@@ -13,7 +13,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => Number(isBuyerIntentPost(b)) - Number(isBuyerIntentPost(a)) || b.data.date.valueOf() - a.data.date.valueOf());
 ---
 
-<Base title={`${category.label} | Smart Home Tips`} description={category.description}>
+<Base title={category.label} description={category.description}>
   <header class="category-header">
     <p class="eyebrow">Topic hub</p>
     <h1>{category.label}</h1>
