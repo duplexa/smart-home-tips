@@ -146,7 +146,7 @@ Zigbee works better for devices prioritizing reliability and efficiency:
 - **Critical automation systems** that must work during internet outages
 - **Outdoor devices** where WiFi range might be insufficient
 
-[internal link: smart home security]
+smart home security
 
 ## Integration and Ecosystem Compatibility
 
@@ -163,7 +163,7 @@ Most major smart home platforms support both WiFi and Zigbee devices, though imp
 
 Modern smart home systems can create automation rules combining WiFi and Zigbee devices. For example, a Zigbee motion sensor could trigger a WiFi security camera to begin recording, or a WiFi weather service could adjust Zigbee smart thermostats.
 
-[internal link: smart home automation]
+smart home automation
 
 ## Troubleshooting and Maintenance
 

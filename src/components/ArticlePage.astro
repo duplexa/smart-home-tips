@@ -1,0 +1,195 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import AdSlot from './AdSlot.astro';
+import siteConfig from '../site.config';
+import {
+  getPostCategory,
+  getRelatedPosts,
+  getTableOfContents,
+  hasAffiliateLinks,
+  isBuyerIntentPost,
+} from '../lib/content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+  posts: CollectionEntry<'blog'>[];
+}
+
+const { post, posts } = Astro.props;
+const { Content } = await post.render();
+const category = getPostCategory(post);
+const toc = getTableOfContents(post);
+const relatedPosts = getRelatedPosts(post, posts);
+const showAffiliateDisclosure = hasAffiliateLinks(post) || isBuyerIntentPost(post);
+const lastUpdated = post.data.date;
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: category.label, url: `/categories/${category.slug}` },
+  { name: post.data.title },
+];
+---
+
+<Base
+  title={post.data.title}
+  description={post.data.description}
+  type="article"
+  date={post.data.date}
+  author={post.data.author ?? siteConfig.author}
+  image={post.data.image}
+  breadcrumbs={breadcrumbs}
+  rankedItems={post.data.rankedItems}
+  faqs={post.data.faqs}
+>
+  <article class="article-shell">
+    <header class="post-header">
+      <a class="category-link" href={`/categories/${category.slug}`}>{category.label}</a>
+      <h1>{post.data.title}</h1>
+      <div class="post-meta">
+        <time datetime={post.data.date.toISOString()}>
+          {post.data.date.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+        <span>Reviewed by {post.data.author ?? siteConfig.author}</span>
+        <span>Last updated {lastUpdated.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+      </div>
+      {post.data.tags && (
+        <div class="post-tags">
+          {post.data.tags.map((tag: string) => <span class="tag">{tag}</span>)}
+        </div>
+      )}
+    </header>
+
+    {showAffiliateDisclosure && (
+      <aside class="notice">
+        {siteConfig.affiliateDisclosure} We only link to products where they are relevant to the guide.
+        <a href="/affiliate-disclosure"> Read the full disclosure.</a>
+      </aside>
+    )}
+
+    {toc.length > 2 && (
+      <nav class="toc" aria-label="Table of contents">
+        <h2>On this page</h2>
+        <ol>
+          {toc.map((item) => (
+            <li><a href={`#${item.slug}`}>{item.text}</a></li>
+          ))}
+        </ol>
+      </nav>
+    )}
+
+    <AdSlot position="in-content" />
+
+    <div class="post-content">
+      <Content />
+    </div>
+  </article>
+
+  {relatedPosts.length > 0 && (
+    <section class="related">
+      <h2>Related guides</h2>
+      <div class="grid">
+        {relatedPosts.map((related) => (
+          <article class="card">
+            <p class="eyebrow">{getPostCategory(related).label}</p>
+            <h3><a href={related.data.canonicalPath ?? `/blog/${related.id}`}>{related.data.title}</a></h3>
+            <p>{related.data.description}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+</Base>
+
+<style>
+  .article-shell { max-width: 780px; margin: 0 auto; }
+  .post-header { margin-bottom: 1.25rem; }
+  .category-link {
+    display: inline-block;
+    margin-bottom: 0.6rem;
+    color: var(--accent-strong);
+    font-weight: 800;
+    font-size: 0.9rem;
+  }
+  h1 { margin-bottom: 0.7rem; font-size: clamp(2rem, 5vw, 3.45rem); line-height: 1.02; }
+  .post-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+    color: var(--muted);
+  }
+  .post-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
+  .tag {
+    background: var(--soft);
+    border: 1px solid var(--line);
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+  .toc {
+    margin: 1rem 0 1.4rem;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 1rem;
+    background: #fff;
+  }
+  .toc h2 { font-size: 1rem; margin-bottom: 0.5rem; }
+  .toc ol { columns: 2; gap: 2rem; padding-left: 1.25rem; }
+  .toc li { break-inside: avoid; margin: 0.25rem 0; }
+  .post-content { line-height: 1.8; font-size: 1.03rem; }
+  .post-content :global(h2) {
+    margin-top: 2.2rem;
+    margin-bottom: 0.55rem;
+    font-size: 1.55rem;
+    line-height: 1.18;
+  }
+  .post-content :global(h3) {
+    margin-top: 1.55rem;
+    margin-bottom: 0.4rem;
+    font-size: 1.2rem;
+    line-height: 1.25;
+  }
+  .post-content :global(p) { margin-bottom: 1rem; }
+  .post-content :global(ul), .post-content :global(ol) { margin-bottom: 1rem; padding-left: 1.5rem; }
+  .post-content :global(table) {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+    margin: 1.25rem 0;
+    font-size: 0.94rem;
+    line-height: 1.45;
+  }
+  .post-content :global(th), .post-content :global(td) {
+    min-width: 9rem;
+    border: 1px solid var(--line);
+    padding: 0.7rem;
+    vertical-align: top;
+    text-align: left;
+  }
+  .post-content :global(th) {
+    background: var(--soft);
+    color: var(--ink);
+    font-weight: 800;
+  }
+  .post-content :global(tr:nth-child(even) td) { background: #fbfbf8; }
+  .post-content :global(a[href*="amazon."]) {
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+  .post-content :global(pre) {
+    background: #f6f6f6;
+    padding: 1rem;
+    border-radius: 4px;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+  }
+  .post-content :global(code) { font-size: 0.9em; }
+  .related { margin-top: 3rem; }
+  .related h2 { margin-bottom: 1rem; }
+  @media (max-width: 720px) {
+    .toc ol { columns: 1; }
+  }
+</style>

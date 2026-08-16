@@ -106,7 +106,7 @@ This gradual approach allows you to learn device capabilities, identify preferre
 
 True smart home benefits emerge through device integration and automated routines. Modern smart home platforms enable complex automation scenarios, such as automatically adjusting thermostats when security systems are armed or dimming lights when streaming devices activate.
 
-[internal link: smart home automation basics]
+smart home automation basics
 
 ### Future-Proofing Your Investment
 
@@ -144,7 +144,7 @@ Track energy usage through smart device apps to quantify savings and identify ad
 
 As you expand your smart home ecosystem, maintain awareness of security and privacy implications. Regularly update device firmware, use strong unique passwords for each device, and review data sharing policies for cloud-connected devices.
 
-[internal link: smart home security best practices]
+smart home security best practices
 
 Consider devices offering local processing and storage options to minimize data transmission to external servers.
 

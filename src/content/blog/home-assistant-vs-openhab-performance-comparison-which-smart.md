@@ -2,6 +2,7 @@
 title: "Home Assistant vs OpenHAB Performance Comparison: Which Smart Home Platform Runs Better?"
 description: "Compare Home Assistant vs OpenHAB performance across memory usage, CPU efficiency, scaling, and real-world benchmarks to choose the best smart home platfor"
 date: 2026-04-19
+redirectTo: "/home-assistant-starter-kit-uk/"
 ---
 
 Choosing between Home Assistant and OpenHAB for your smart home automation platform involves many considerations, but performance often tops the list. Both platforms offer powerful automation capabilities, yet they handle system resources, respond to commands, and scale with growing device networks quite differently.
@@ -164,7 +165,7 @@ Both platforms benefit from regular performance monitoring. Home Assistant provi
 
 OpenHAB offers detailed logging and metrics through its console interface and optional monitoring bindings that can track JVM performance and system resources.
 
-[internal link: smart home automation platforms]
+smart home automation platforms
 
 ## Conclusion
 

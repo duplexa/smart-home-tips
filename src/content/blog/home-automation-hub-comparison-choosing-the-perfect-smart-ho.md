@@ -282,8 +282,8 @@ Complex systems may benefit from professional installation and configuration. Ma
 
 The home automation hub landscape continues evolving rapidly, with new standards and capabilities emerging regularly. Choose a platform with strong development support and active community engagement to ensure long-term viability and feature updates.
 
-[internal link: smart home security systems]
+smart home security systems
 
-[internal link: voice assistants for smart homes]
+voice assistants for smart homes
 
-[internal link: smart lighting control systems]
+smart lighting control systems

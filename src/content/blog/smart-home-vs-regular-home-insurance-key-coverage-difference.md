@@ -201,7 +201,7 @@ Advanced policies will likely incorporate:
 - Real-time risk adjustment and pricing
 - Personalized coverage recommendations
 
-[internal link: home security systems]
+home security systems
 
 ## Making the Switch: Practical Steps
 

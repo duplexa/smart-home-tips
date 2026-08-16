@@ -117,7 +117,7 @@ While many smart switches feature straightforward installation, electrical work 
 - Situations involving electrical code compliance questions
 - High-voltage or unusual load applications
 
-[internal link: electrical safety]
+electrical safety
 
 ### Box Compatibility and Space Requirements
 
@@ -213,7 +213,7 @@ Programmed schedules can shift non-essential electrical usage away from peak rat
 **Daylight Harvesting**
 Advanced switches can integrate with light sensors to automatically adjust artificial lighting based on available natural light, maintaining consistent illumination while minimising energy consumption.
 
-[internal link: home energy efficiency]
+home energy efficiency
 
 ## Security and Privacy Considerations
 

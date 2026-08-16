@@ -52,7 +52,7 @@ Router placement dramatically affects network performance throughout your home. 
 
 Wall materials significantly impact signal propagation. Concrete and metal structures severely attenuate wireless signals, while wood and drywall present minimal interference. Understanding your home's construction helps predict coverage patterns.
 
-[internal link: mesh network setup]
+mesh network setup
 
 ### Advanced Wi-Fi Settings
 

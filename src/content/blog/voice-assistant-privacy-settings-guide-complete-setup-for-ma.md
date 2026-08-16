@@ -250,6 +250,6 @@ Effective voice assistant privacy management requires finding the right balance 
 
 Remember that privacy is an ongoing process, not a one-time setup. Regular maintenance and awareness of new features will help you maintain control over your personal information while enjoying the benefits of voice assistant technology.
 
-[internal link: smart home security tips]
-[internal link: digital privacy fundamentals]
-[internal link: data protection best practices]
+smart home security tips
+digital privacy fundamentals
+data protection best practices

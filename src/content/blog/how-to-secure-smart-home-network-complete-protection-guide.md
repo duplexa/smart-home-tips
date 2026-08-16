@@ -204,7 +204,7 @@ Keep yourself updated on the latest smart home security threats:
 - Join online communities focused on smart home security
 - Attend webinars and training sessions on IoT security
 
-[internal link: cybersecurity news]
+cybersecurity news
 
 ### Plan for Incident Response
 
@@ -255,6 +255,6 @@ Start with the fundamental steps: update your router firmware, change default pa
 
 By following these comprehensive guidelines, you can enjoy the convenience of your smart home while maintaining robust protection against cyber threats. Regular maintenance and staying informed about emerging threats will ensure your network remains secure as your smart home ecosystem grows.
 
-[internal link: smart home setup guide]
+smart home setup guide
 
 The investment in security measures today will save you from potentially devastating consequences of a successful cyber attack. Take action now to protect your digital home and personal privacy.

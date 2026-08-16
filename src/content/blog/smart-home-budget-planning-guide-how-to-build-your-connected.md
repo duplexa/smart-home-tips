@@ -118,7 +118,7 @@ Smart home technology frequently goes on sale during major shopping events. Plan
 
 Sticking within one ecosystem (Amazon Alexa, Google Assistant, Apple HomeKit) often provides better integration and potentially lower costs through bundle deals. However, don't let ecosystem loyalty prevent you from choosing the best individual devices for your needs.
 
-[internal link: smart home ecosystems comparison]
+smart home ecosystems comparison
 
 ### Open-Source and Budget Alternatives
 
@@ -144,7 +144,7 @@ Many insurance providers offer discounts for professionally monitored smart secu
 
 While smart home features don't always translate to equivalent increases in home value, they can make your property more attractive to buyers and potentially reduce time on market.
 
-[internal link: smart home ROI analysis]
+smart home ROI analysis
 
 ## Avoiding Common Budget Pitfalls
 
@@ -183,7 +183,7 @@ Plan for technology updates every 3-5 years. Rapid advancement in smart home tec
 
 Invest in devices with strong manufacturer support and regular software updates. Choose products that support industry standards like Matter/Thread for better long-term compatibility.
 
-[internal link: future-proofing smart homes]
+future-proofing smart homes
 
 ## Sample Budget Scenarios
 
@@ -229,4 +229,4 @@ Building a smart home on a budget requires patience, planning, and strategic dec
 
 Remember that the goal is to enhance your daily life, not complicate it. Choose devices that solve real problems or provide genuine convenience, and resist the urge to automate everything simply because you can. With careful planning and realistic budgeting, your smart home investment will provide years of convenience, security, and potential savings.
 
-[internal link: smart home setup checklist]
+smart home setup checklist

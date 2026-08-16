@@ -130,7 +130,7 @@ If soft recovery methods fail, you may need to rebuild your network:
 4. **Reset coordinator**: Perform a factory reset on your coordinator
 5. **Rebuild strategically**: Add devices back starting with routers closest to the coordinator
 
-[internal link: smart home automation]
+smart home automation
 
 ## Preventive Maintenance
 
@@ -170,7 +170,7 @@ Some Zigbee issues may require professional assistance:
 - Complex network designs in large buildings
 - Integration issues with third-party systems
 
-[internal link: smart home installation]
+smart home installation
 
 ## Future-Proofing Your Zigbee Network
 

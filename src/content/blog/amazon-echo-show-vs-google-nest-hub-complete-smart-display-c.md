@@ -2,6 +2,7 @@
 title: "Amazon Echo Show vs Google Nest Hub: Complete Smart Display Comparison"
 description: "Compare Amazon Echo Show vs Google Nest Hub smart displays. Detailed analysis of features, design, privacy, smart home integration, and value to help you c"
 date: 2026-04-16
+redirectTo: "/alexa-vs-google-home-uk/"
 ---
 
 Smart displays have revolutionized how we interact with our homes, combining the functionality of voice assistants with the visual appeal of touchscreen interfaces. Two dominant players in this space are Amazon's Echo Show series and Google's Nest Hub lineup. Both offer compelling features, but choosing between them requires understanding their unique strengths and limitations.
@@ -58,7 +59,7 @@ Both platforms offer voice recognition for multiple users, allowing personalized
 
 Amazon's Echo Show series supports an enormous range of smart home devices through Alexa's extensive compatibility list. From major brands to niche manufacturers, the selection is unmatched. The integration often includes visual controls on the display.
 
-[internal link: smart home automation]
+smart home automation
 
 Google Nest Hubs work exceptionally well within Google's ecosystem and support major smart home standards. While the device selection is slightly smaller than Amazon's, the integration quality is often superior, with more intuitive visual controls.
 
@@ -94,7 +95,7 @@ Echo Show devices typically include cameras, making them excellent for video cal
 
 Many Google Nest Hub models deliberately omit cameras for privacy reasons, limiting video calling capabilities but addressing security concerns many users have about always-on devices.
 
-[internal link: video calling apps]
+video calling apps
 
 ## Privacy and Security Features
 
@@ -165,7 +166,7 @@ Consider how you plan to use your smart display most frequently:
 
 Evaluate which features matter most to your daily routine. If video calling is important, Echo Show models with cameras provide more options. For users prioritizing privacy and aesthetic integration, Google Nest Hubs often excel.
 
-[internal link: smart home security]
+smart home security
 
 ### Future-Proofing Considerations
 

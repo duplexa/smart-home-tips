@@ -79,7 +79,6 @@ Consider using VLAN capabilities to isolate smart home devices from personal dev
 
 Regularly check connection speeds and device response times. Use network monitoring tools to identify devices that may be consuming excessive bandwidth or experiencing connectivity issues.
 
-[Internal link: smart home security setup]
-[Internal link: mesh network configuration]
+Next guides to read: [how to secure your smart home network](/blog/how-to-secure-smart-home-network-complete-protection-guide) and [mesh Wi-Fi setup for smart home devices](/blog/mesh-wifi-setup-for-smart-home-devices-complete-configuratio).
 
 Investing in the right WiFi extender for your smart home ensures reliable connectivity for all your devices while providing room for future expansion. Focus on coverage area, device capacity, and advanced features that match your specific smart home requirements.

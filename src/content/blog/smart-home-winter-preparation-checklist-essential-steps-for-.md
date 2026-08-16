@@ -64,7 +64,7 @@ The August Smart Lock Pro offers excellent cold weather reliability, while the S
 
 Winter's shorter days increase reliance on artificial lighting. Review and update smart lighting schedules to account for earlier sunsets and later sunrises. Configure lights to simulate occupancy when traveling, which is especially important during winter when dark periods are extended.
 
-[Internal link: smart home security systems]
+[smart home security systems](/blog/smart-home-security-systems-complete-guide-to-protecting-you)
 
 ## Energy Management and Efficiency
 
@@ -130,7 +130,7 @@ Create winter-specific scenes like "Snow Day" that adjust heating, lighting, and
 
 Test all smart home integrations and automations with winter scenarios in mind. Verify that temperature-based triggers work correctly, lighting schedules account for seasonal changes, and security systems respond appropriately to winter conditions.
 
-[Internal link: home automation tips]
+[smart home routine automation ideas](/blog/smart-home-routine-automation-ideas-transform-your-daily-lif)
 
 ## Maintenance and Monitoring
 

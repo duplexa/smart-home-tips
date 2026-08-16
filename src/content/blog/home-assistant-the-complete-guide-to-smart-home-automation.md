@@ -2,6 +2,7 @@
 title: "Home Assistant: The Complete Guide to Smart Home Automation"
 description: "Home Assistant open-source platform for smart home automation. Learn installation, setup, integrations, and advanced features for local control."
 date: 2026-04-10
+redirectTo: "/home-assistant-starter-kit-uk/"
 ---
 
 Home Assistant has revolutionized the way we think about smart home automation, offering an open-source platform that puts control back in your hands. Whether you're a tech enthusiast or someone looking to make their home more convenient and efficient, Home Assistant provides the tools and flexibility needed to create a truly intelligent living space.
@@ -215,7 +216,7 @@ Home Assistant thrives on community contributions:
 - Create and share custom components
 - Help other users in forums and chat rooms
 
-### [Internal link: smart home security] and [Internal link: IoT device management]
+### smart home security and IoT device management
 
 ## Troubleshooting Common Issues
 

@@ -20,11 +20,11 @@ Target Wake Time (TWT) is another crucial feature that helps smart home devices 
 
 ### Multi-Gigabit Ethernet Ports
 
-When selecting a WiFi 6 router for smart home use, prioritise models with multiple gigabit Ethernet ports. These wired connections provide the most stable foundation for bandwidth-intensive devices like [internal link: 4K security cameras] and network-attached storage systems.
+When selecting a WiFi 6 router for smart home use, prioritise models with multiple gigabit Ethernet ports. These wired connections provide the most stable foundation for bandwidth-intensive devices like 4K security cameras and network-attached storage systems.
 
 ### Advanced Quality of Service (QoS) Controls
 
-Smart QoS features allow you to prioritise traffic from critical devices. For instance, you can ensure your [internal link: home security system] always receives priority bandwidth over less critical devices like smart plugs or environmental sensors.
+Smart QoS features allow you to prioritise traffic from critical devices. For instance, you can ensure your home security system always receives priority bandwidth over less critical devices like smart plugs or environmental sensors.
 
 ### Mesh Network Compatibility
 
@@ -40,7 +40,7 @@ Look for routers supporting WPA3 encryption, automatic security updates, and adv
 
 A typical smart home with 25-50 connected devices requires substantial bandwidth allocation. WiFi 6 routers typically offer speeds up to 9.6 Gbps across multiple bands, providing ample capacity for simultaneous device operation.
 
-Consider that each [internal link: smart security camera] might require 2-10 Mbps for continuous streaming, while smart thermostats and sensors use minimal bandwidth. Planning for peak usage scenarios ensures consistent performance across all devices.
+Consider that each smart security camera might require 2-10 Mbps for continuous streaming, while smart thermostats and sensors use minimal bandwidth. Planning for peak usage scenarios ensures consistent performance across all devices.
 
 ### Coverage Area and Antenna Configuration
 
@@ -66,7 +66,7 @@ Begin by updating your router's firmware to the latest version, then configure s
 
 ### Device Prioritisation and Bandwidth Allocation
 
-Modern WiFi 6 routers include intelligent device management features that automatically optimise connections based on device requirements. However, manual configuration allows for more precise control over your [internal link: smart home automation] priorities.
+Modern WiFi 6 routers include intelligent device management features that automatically optimise connections based on device requirements. However, manual configuration allows for more precise control over your smart home automation priorities.
 
 ### Monitoring Network Performance
 
@@ -80,7 +80,7 @@ When smart devices experience connectivity problems, systematic troubleshooting 
 
 ### Emerging Smart Home Technologies
 
-WiFi 6 routers provide the foundation for emerging technologies like augmented reality applications, advanced AI-powered home assistants, and high-resolution [internal link: smart displays]. The increased bandwidth and reduced latency prepare your network for future device innovations.
+WiFi 6 routers provide the foundation for emerging technologies like augmented reality applications, advanced AI-powered home assistants, and high-resolution smart displays. The increased bandwidth and reduced latency prepare your network for future device innovations.
 
 ### Scalability Considerations
 

@@ -274,7 +274,7 @@ Design your network with expansion in mind:
 - Plan for additional access points in expanding coverage areas
 - Consider emerging protocols like Matter for device compatibility
 
-[Internal link: smart home security best practices]
+Next guide to read: [how to secure your smart home network](/blog/how-to-secure-smart-home-network-complete-protection-guide).
 
 ### Technology Evolution
 

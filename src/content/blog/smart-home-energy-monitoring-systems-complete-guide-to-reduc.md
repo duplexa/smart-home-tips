@@ -86,7 +86,7 @@ The user interface significantly impacts your system's usefulness. Premium apps 
 
 ### Integration Capabilities
 
-Consider systems that integrate with popular smart home platforms like [internal link: smart home automation systems], Amazon Alexa, Google Home, or Apple HomeKit. Integration enables automated responses to energy data, such as adjusting thermostats during peak usage periods.
+Consider systems that integrate with popular smart home platforms like smart home automation systems, Amazon Alexa, Google Home, or Apple HomeKit. Integration enables automated responses to energy data, such as adjusting thermostats during peak usage periods.
 
 ### Alert and Notification Systems
 

@@ -157,7 +157,7 @@ As you add smart home devices, consider their impact on network topology:
 
 Stay informed about Zigbee protocol updates and new device capabilities. Newer Zigbee 3.0 devices often provide better range and compatibility than older versions.
 
-[internal link: smart home automation basics]
+smart home automation basics
 
 ## Maximizing Your Zigbee Network's Potential
 
@@ -165,6 +165,6 @@ Achieving optimal Zigbee coverage requires a combination of strategic planning, 
 
 Remember that Zigbee networks improve over time as devices learn optimal routing paths and as you add more mesh-capable devices. Regular monitoring and maintenance will ensure your smart home network continues to provide reliable, comprehensive coverage for all your automation needs.
 
-[internal link: wireless home automation protocols]
+wireless home automation protocols
 
 By following these guidelines and understanding the principles behind Zigbee mesh networking, you can create a robust, reliable smart home network that covers every corner of your property with consistent, dependable connectivity.

@@ -78,7 +78,7 @@ Post visible signage indicating surveillance monitoring to comply with disclosur
 
 ### Smart Home Platform Integration
 
-Modern outdoor camera systems integrate with popular smart home platforms including [internal link: amazon alexa smart home], Google Assistant, and Apple HomeKit. Voice control capabilities allow hands-free camera access, while automation rules can trigger lights, alarms, or other security devices based on camera detections.
+Modern outdoor camera systems integrate with popular smart home platforms including amazon alexa smart home, Google Assistant, and Apple HomeKit. Voice control capabilities allow hands-free camera access, while automation rules can trigger lights, alarms, or other security devices based on camera detections.
 
 Integration with smart doorbell systems creates comprehensive entry monitoring that combines video surveillance with two-way communication capabilities.
 

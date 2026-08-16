@@ -259,7 +259,7 @@ Maintain device performance through regular cleaning:
 - Check all mounting hardware for looseness
 - Inspect outdoor devices for weather damage
 
-[internal link: home automation systems] can complement your security installation by providing additional layers of protection and convenience.
+home automation systems can complement your security installation by providing additional layers of protection and convenience.
 
 ## Legal and Privacy Considerations
 

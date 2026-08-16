@@ -342,9 +342,7 @@ Once your Homebridge Raspberry Pi setup is running smoothly, consider these expa
 - **UPS battery**: Ensure continuous operation
 - **Ethernet connection**: Improve network reliability
 
-[Internal link: smart home automation]
-[Internal link: raspberry pi projects]
-[Internal link: homekit setup]
+Next guides to read: [Home Assistant starter kit](/home-assistant-starter-kit-uk/), [Matter smart home UK](/matter-smart-home-uk/) and [Zigbee vs Wi-Fi smart home devices](/blog/zigbee-vs-wifi-smart-home-devices-complete-comparison-guide).
 
 ## Conclusion
 

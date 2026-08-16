@@ -182,7 +182,7 @@ Consider professional assistance for:
 - Homes with unique architectural features affecting temperature control
 - Situations where DIY programming isn't achieving desired results
 
-[internal link: smart home automation]
+smart home automation
 
 ## Advanced Tips for Power Users
 
@@ -212,7 +212,7 @@ For homes with multiple thermostats or zones:
 - Program priority zones based on occupancy patterns
 - Use smart sensors to balance temperatures across zones
 
-[internal link: HVAC maintenance]
+HVAC maintenance
 
 ## Conclusion
 

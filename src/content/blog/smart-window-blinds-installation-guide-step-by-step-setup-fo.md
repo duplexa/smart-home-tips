@@ -208,4 +208,4 @@ Familiarize yourself with manual override procedures for your smart blind system
 
 Smart window blinds installation transforms your home's functionality and efficiency when done correctly. Following this comprehensive guide ensures proper installation and optimal performance of your automated window covering system. Remember that while DIY installation is possible for many systems, complex electrical work should always be performed by qualified professionals.
 
-[internal link: smart home automation]
+smart home automation

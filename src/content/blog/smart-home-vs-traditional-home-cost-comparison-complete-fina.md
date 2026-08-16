@@ -122,7 +122,7 @@ Traditional homes maintain standard insurance structures:
 
 **Conventional Security**: Basic alarm systems provide modest insurance benefits.
 
-[internal link: home insurance considerations]
+home insurance considerations
 
 ## Property Value and Resale Impact
 
@@ -218,7 +218,7 @@ Return on investment varies significantly based on:
 
 **Energy Audits**: Professional energy assessments identify cost-effective efficiency improvements.
 
-[internal link: home energy efficiency tips]
+home energy efficiency tips
 
 ## Making the Financial Decision
 

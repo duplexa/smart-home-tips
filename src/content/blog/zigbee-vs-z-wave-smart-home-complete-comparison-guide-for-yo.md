@@ -73,7 +73,7 @@ Popular ZigBee device categories include:
 - Smart switches and dimmers
 - Thermostats and climate control devices
 
-[internal link: smart lighting systems]
+smart lighting systems
 
 ### Z-Wave Product Range
 
@@ -114,7 +114,7 @@ Z-Wave networks require certified controllers, available as:
 
 Controller selection significantly impacts network performance, with newer Z-Wave 700 series chips offering improved range, battery life, and processing capabilities.
 
-[internal link: smart home hubs]
+smart home hubs
 
 ## Installation and Setup Process
 
@@ -196,7 +196,7 @@ ZigBee's open ecosystem promotes price competition and rapid innovation, potenti
 
 Z-Wave's standardization reduces compatibility risks and support costs, offering value through reliable interoperability and consistent performance across manufacturers.
 
-[internal link: smart home budgeting]
+smart home budgeting
 
 ## Future-Proofing Your Smart Home Investment
 

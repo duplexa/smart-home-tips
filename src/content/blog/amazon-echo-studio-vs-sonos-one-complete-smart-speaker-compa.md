@@ -172,6 +172,6 @@ The Sonos One, while more expensive, provides superior music service integration
 
 Consider your long-term audio goals, existing smart home setup, and listening preferences when making your decision. Both speakers represent solid investments in their respective ecosystems and will provide years of reliable service.
 
-[internal link: best smart speakers for large rooms]
-[internal link: multi-room audio system setup guide]
-[internal link: alexa vs google assistant comparison]
+best smart speakers for large rooms
+multi-room audio system setup guide
+alexa vs google assistant comparison

@@ -124,7 +124,7 @@ Integrate backup systems with home security monitoring. Configure alerts when ba
 
 Implement automated backup procedures using smart home automation platforms. Create rules that automatically start backup procedures when primary systems fail or when specific conditions are detected.
 
-[internal link: smart home security systems]
+smart home security systems
 
 ## Troubleshooting Common Backup Issues
 
@@ -150,7 +150,7 @@ Implement backup systems in phases, starting with the most critical devices and 
 
 Maximize backup system efficiency by sharing resources among multiple devices. A single UPS can protect several low-power devices, and mesh networks provide coverage redundancy without requiring separate backup connections for each access point.
 
-[internal link: smart home automation]
+smart home automation
 
 ## Future-Proofing Your Backup Strategy
 

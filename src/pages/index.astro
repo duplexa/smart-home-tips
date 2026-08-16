@@ -4,11 +4,12 @@ import siteConfig from '../site.config';
 import { getCollection } from 'astro:content';
 import { categories, getExcerpt, getPostCategory, isBuyerIntentPost } from '../lib/content';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
+const posts = (await getCollection('blog', ({ data }) => !data.draft && !data.redirectTo))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const buyingGuides = posts.filter(isBuyerIntentPost).slice(0, 6);
 const recentPosts = posts.slice(0, 6);
+const hubPosts = posts.filter((post) => post.data.canonicalPath);
 const featuredCategories = categories.map((category) => ({
   ...category,
   count: posts.filter((post) => getPostCategory(post).slug === category.slug).length,
@@ -38,6 +39,22 @@ const featuredCategories = categories.map((category) => ({
 
   <section class="section">
     <div class="section-heading">
+      <h2>Start With These Hubs</h2>
+      <a href="/categories/buying-guides">More guides</a>
+    </div>
+    <div class="grid">
+      {hubPosts.map((post) => (
+        <article class="card">
+          <p class="eyebrow">{getPostCategory(post).label}</p>
+          <h3><a href={post.data.canonicalPath}>{post.data.title}</a></h3>
+          <p>{getExcerpt(post)}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
       <h2>Buying Guides</h2>
       <a href="/categories/buying-guides">View all</a>
     </div>
@@ -45,7 +62,7 @@ const featuredCategories = categories.map((category) => ({
       {buyingGuides.map((post) => (
         <article class="card">
           <p class="eyebrow">{getPostCategory(post).label}</p>
-          <h3><a href={`/blog/${post.id}`}>{post.data.title}</a></h3>
+          <h3><a href={post.data.canonicalPath ?? `/blog/${post.id}`}>{post.data.title}</a></h3>
           <p>{getExcerpt(post)}</p>
         </article>
       ))}
@@ -76,7 +93,7 @@ const featuredCategories = categories.map((category) => ({
     <ul class="post-list">
       {recentPosts.map((post) => (
         <li>
-          <a href={`/blog/${post.id}`}>
+          <a href={post.data.canonicalPath ?? `/blog/${post.id}`}>
             <span>{post.data.title}</span>
             <time datetime={post.data.date.toISOString()}>
               {post.data.date.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })}

@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { categories, getExcerpt, getPostCategory } from '../../lib/content';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
+const posts = (await getCollection('blog', ({ data }) => !data.draft && !data.redirectTo))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
 
@@ -23,7 +23,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
       <li>
         <article>
           <p class="eyebrow">{getPostCategory(post).label}</p>
-          <h2><a href={`/blog/${post.id}`}>{post.data.title}</a></h2>
+          <h2><a href={post.data.canonicalPath ?? `/blog/${post.id}`}>{post.data.title}</a></h2>
           <p>{getExcerpt(post)}</p>
           <time datetime={post.data.date.toISOString()}>
             {post.data.date.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })}

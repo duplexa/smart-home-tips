@@ -136,10 +136,10 @@ Dividing your home into security zones helps optimize sensor placement and syste
 
 Motion sensors work most effectively when integrated with other smart home devices. Strategic placement should consider compatibility and coordination with:
 
-[internal link: smart home lighting automation]
-[internal link: smart security cameras]
-[internal link: smart door locks]
-[internal link: home automation systems]
+smart home lighting automation
+smart security cameras
+smart door locks
+home automation systems
 
 **Integration considerations:**
 - Position sensors to complement security camera coverage

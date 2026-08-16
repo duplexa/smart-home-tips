@@ -192,7 +192,7 @@ When investing in robot vacuum technology, consider models with:
 - Strong manufacturer support
 - Compatibility with evolving smart home standards
 
-[internal link: smart home automation]
+smart home automation
 
 Robot vacuum cleaners represent a significant step toward automated home maintenance. By carefully evaluating your specific needs, home layout, and budget constraints, you can select a model that provides years of reliable, convenient cleaning performance. The UK market offers excellent options across all price ranges, ensuring every household can benefit from this transformative technology.
 

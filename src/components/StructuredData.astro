@@ -6,9 +6,12 @@ interface Props {
   author?: string;
   image?: string;
   type: 'website' | 'article';
+  breadcrumbs?: Array<{ name: string; url?: string }>;
+  rankedItems?: Array<{ name: string; url?: string; description?: string }>;
+  faqs?: Array<{ question: string; answer: string }>;
 }
 
-const { title, description, date, author, image, type } = Astro.props;
+const { title, description, date, author, image, type, breadcrumbs, rankedItems, faqs } = Astro.props;
 const url = new URL(Astro.url.pathname.replace(/\/+$/, '') || '/', Astro.site).href;
 
 const websiteSchema = {
@@ -32,7 +35,51 @@ const articleSchema = {
   ...(image && { image }),
 };
 
-const schema = type === 'article' ? articleSchema : websiteSchema;
+const breadcrumbSchema = breadcrumbs?.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: breadcrumbs.map((crumb, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: crumb.name,
+        ...(crumb.url && { item: new URL(crumb.url, Astro.site).href }),
+      })),
+    }
+  : undefined;
+
+const itemListSchema = rankedItems?.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: title,
+      itemListOrder: 'https://schema.org/ItemListOrderAscending',
+      itemListElement: rankedItems.map((item, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: item.name,
+        ...(item.url && { url: item.url }),
+        ...(item.description && { description: item.description }),
+      })),
+    }
+  : undefined;
+
+const faqSchema = faqs?.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((faq) => ({
+        '@type': 'Question',
+        name: faq.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: faq.answer,
+        },
+      })),
+    }
+  : undefined;
+
+const schema = [type === 'article' ? articleSchema : websiteSchema, breadcrumbSchema, itemListSchema, faqSchema].filter(Boolean);
 ---
 
 <script type="application/ld+json" set:html={JSON.stringify(schema)} />

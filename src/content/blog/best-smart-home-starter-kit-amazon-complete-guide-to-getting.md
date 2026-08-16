@@ -158,6 +158,6 @@ Successful smart home implementation requires planning for growth. Consider your
 
 Document your current setup and automation rules to simplify future expansions. This documentation helps troubleshoot issues and ensures new devices integrate smoothly with existing configurations.
 
-[internal link: smart home security]
-[internal link: home automation basics]
-[internal link: smart lighting guide]
+smart home security
+home automation basics
+smart lighting guide

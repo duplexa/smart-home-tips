@@ -283,6 +283,6 @@ Integrating smart home technology with existing wiring is not only possible but 
 
 Start with simple replacements like smart switches and outlets, then gradually expand your system as you become more comfortable with the technology. Remember that professional help is available for complex installations, and investing in quality devices and proper infrastructure will provide years of reliable smart home enjoyment.
 
-[internal link: smart home security systems]
-[internal link: home automation planning]
-[internal link: electrical safety guidelines]
+smart home security systems
+home automation planning
+electrical safety guidelines

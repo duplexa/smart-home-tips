@@ -50,7 +50,7 @@ Factors affecting camera lifespan:
 
 ### Smart Lighting: 3-15 Years
 
-[internal link: smart lighting systems]
+smart lighting systems
 
 Smart bulbs using LED technology can last 15+ years based on rated hours, but their smart components often fail sooner. Smart switches and dimmers typically last 8-12 years, while smart bulbs average 5-8 years of reliable smart functionality.
 
@@ -68,7 +68,7 @@ Common failure points:
 
 ### Smart Locks: 3-5 Years
 
-[internal link: smart door locks]
+smart door locks
 
 Smart locks endure significant mechanical stress and weather exposure, resulting in shorter lifespans compared to traditional locks. Battery-powered models require more frequent maintenance, while hardwired versions often last longer.
 
@@ -128,7 +128,7 @@ Correct installation significantly impacts device longevity:
 
 ### Regular Maintenance
 
-[internal link: smart home maintenance]
+smart home maintenance
 
 Consistent maintenance extends device life:
 - Clean sensors and cameras regularly to maintain accuracy

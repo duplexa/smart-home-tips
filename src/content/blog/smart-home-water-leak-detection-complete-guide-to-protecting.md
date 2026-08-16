@@ -20,7 +20,7 @@ Many advanced systems integrate with your home's water supply, featuring automat
 
 The foundation of any smart water leak detection system includes several essential components. Water sensors form the front line of defense, typically small, battery-powered devices that can be placed anywhere water damage might occur. These sensors range from basic flood detectors to sophisticated devices that monitor temperature, humidity, and even small amounts of moisture.
 
-A central hub or smart home controller coordinates the sensor network and manages communications. This hub processes sensor data, sends alerts, and can integrate with other [internal link: home automation systems] to create comprehensive protection scenarios.
+A central hub or smart home controller coordinates the sensor network and manages communications. This hub processes sensor data, sends alerts, and can integrate with other home automation systems to create comprehensive protection scenarios.
 
 Smart water valves represent the most proactive component, automatically shutting off water supply when leaks are detected. These valves can be installed at the main water line or at specific appliances and fixtures for targeted protection.
 
@@ -58,7 +58,7 @@ Professional monitoring services add another layer of protection by providing 24
 
 Modern water leak detection systems integrate seamlessly with popular smart home platforms including Amazon Alexa, Google Assistant, and Apple HomeKit. This integration enables voice control, automated responses, and coordination with other smart home devices.
 
-Through [internal link: smart home automation], your leak detection system can trigger various responses beyond simple alerts. For example, detecting water near a washing machine might automatically turn off smart water valves, activate fans for ventilation, and send detailed notifications to your smartphone.
+Through smart home automation, your leak detection system can trigger various responses beyond simple alerts. For example, detecting water near a washing machine might automatically turn off smart water valves, activate fans for ventilation, and send detailed notifications to your smartphone.
 
 Integration capabilities extend to security systems, allowing water detection events to trigger security cameras for visual confirmation and documentation. This feature is particularly valuable for insurance claims and remote monitoring.
 

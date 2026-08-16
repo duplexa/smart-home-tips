@@ -96,7 +96,7 @@ Configure different motion-triggered scenes for day and night hours. Nighttime m
 
 ### Smart Home Integration
 
-[Internal link: smart home automation] platforms like Amazon Alexa, Google Assistant, or Apple HomeKit expand scene control options beyond manufacturer apps.
+[smart home automation](/blog/smart-home-routine-automation-ideas-transform-your-daily-lif) platforms like Amazon Alexa, Google Assistant, or Apple HomeKit expand scene control options beyond manufacturer apps.
 
 Voice commands provide hands-free scene activation: "Hey Google, activate movie night" or "Alexa, turn on dinner party lighting." Train household members on specific voice commands to ensure consistent results.
 

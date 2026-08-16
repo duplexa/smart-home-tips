@@ -200,6 +200,6 @@ Take time to research thoroughly, test options when possible, and start with a s
 
 By following this guide and carefully evaluating your needs, you'll be well-equipped to choose a smart home ecosystem that provides years of reliable, convenient, and enjoyable home automation.
 
-[internal link: smart home security]
-[internal link: smart home automation ideas]
-[internal link: smart home devices for beginners]
+smart home security
+smart home automation ideas
+smart home devices for beginners

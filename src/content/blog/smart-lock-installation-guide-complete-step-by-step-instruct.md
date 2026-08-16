@@ -157,7 +157,7 @@ Set up individual access codes for family members, guests, or service providers.
 
 ### Smart Home Integration
 
-Connect your smart lock to popular platforms like [internal link: smart home automation systems] for enhanced functionality:
+Connect your smart lock to popular platforms like smart home automation systems for enhanced functionality:
 
 - Voice control through Amazon Alexa or Google Assistant
 - Integration with security systems and cameras

@@ -1,13 +1,13 @@
 import { getCollection } from 'astro:content';
 
 export async function GET({ site }: { site: URL }) {
-  const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  const posts = (await getCollection('blog', ({ data }) => !data.draft && !data.redirectTo))
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 50);
 
   const items = posts
     .map((post) => {
-      const url = new URL(`/blog/${post.id}`, site).href;
+      const url = new URL(post.data.canonicalPath ?? `/blog/${post.id}`, site).href;
       return `
         <item>
           <title><![CDATA[${post.data.title}]]></title>

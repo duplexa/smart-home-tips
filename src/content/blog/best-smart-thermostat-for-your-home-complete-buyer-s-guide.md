@@ -104,7 +104,7 @@ Smart thermostats make these adjustments automatically based on occupancy detect
 
 Effective smart thermostat use involves adapting strategies for different seasons and weather conditions. During shoulder seasons, taking advantage of natural temperature fluctuations and outdoor air can reduce HVAC runtime significantly.
 
-Summer optimization includes pre-cooling strategies during off-peak hours when electricity rates may be lower, while winter efficiency benefits from humidity monitoring and zone-based heating in frequently occupied areas. [internal link: home energy efficiency] strategies work synergistically with smart thermostats to maximize savings.
+Summer optimization includes pre-cooling strategies during off-peak hours when electricity rates may be lower, while winter efficiency benefits from humidity monitoring and zone-based heating in frequently occupied areas. home energy efficiency strategies work synergistically with smart thermostats to maximize savings.
 
 ### Maintenance and Filter Monitoring
 

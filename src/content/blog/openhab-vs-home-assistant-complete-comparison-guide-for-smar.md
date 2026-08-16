@@ -2,6 +2,7 @@
 title: "OpenHAB vs Home Assistant: Complete Comparison Guide for Smart Home Enthusiasts"
 description: "Comprehensive comparison of OpenHAB vs Home Assistant for smart home automation. Compare features, ease of use, device support, and performance to choose t"
 date: 2026-04-11
+redirectTo: "/home-assistant-starter-kit-uk/"
 ---
 
 Choosing the right home automation platform can make or break your smart home experience. OpenHAB and Home Assistant stand as two of the most popular open-source solutions, each offering unique approaches to managing your connected devices. This comprehensive comparison will help you determine which platform best suits your needs, technical expertise, and smart home goals.
@@ -260,7 +261,7 @@ Home Assistant shares similar privacy commitments:
 
 ## Migration Considerations
 
-[Internal link: home automation platform migration]
+home automation platform migration
 
 Switching between platforms requires careful planning. Consider factors such as device compatibility, automation complexity, and time investment. Both platforms offer import/export capabilities for configurations, though manual recreation of automations is often necessary.
 

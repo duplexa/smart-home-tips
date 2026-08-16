@@ -10,7 +10,7 @@ Node-RED has revolutionized how we approach smart home automation, offering a vi
 
 Node-RED is a flow-based development tool that uses a visual programming approach to connect hardware devices, APIs, and online services. Originally developed by IBM, it's particularly powerful for Internet of Things (IoT) applications and smart home automation because it allows you to create complex logic without traditional coding.
 
-The platform excels in smart home environments because it can integrate virtually any device or service through its extensive library of nodes. Whether you're working with [internal link: smart lights], [internal link: smart thermostats], or [internal link: security cameras], Node-RED can serve as your central automation hub.
+The platform excels in smart home environments because it can integrate virtually any device or service through its extensive library of nodes. Whether you're working with smart lights, smart thermostats, or security cameras, Node-RED can serve as your central automation hub.
 
 ### Key Benefits of Node-RED for Home Automation
 

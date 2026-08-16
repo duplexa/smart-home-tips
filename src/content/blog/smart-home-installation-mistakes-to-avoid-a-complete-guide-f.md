@@ -134,9 +134,9 @@ Poor documentation makes troubleshooting difficult and complicates system expans
 
 Maintain comprehensive documentation including device manuals, network diagrams, automation descriptions, and troubleshooting guides. Share this information with family members and ensure someone else can manage the system in your absence.
 
-[internal link: smart home security]
-[internal link: home automation systems]
-[internal link: wireless network optimization]
+smart home security
+home automation systems
+wireless network optimization
 
 ## Conclusion
 

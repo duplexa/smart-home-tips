@@ -154,11 +154,11 @@ Design your smart home system with future expansion in mind. Choose hub-based sy
 
 Consider how your needs might change over time, including aging in place requirements, household size changes, and evolving technology preferences. Flexible systems adapt more easily to changing circumstances and provide better long-term value.
 
-[internal link: smart home security tips]
+smart home security tips
 
-[internal link: energy saving devices]
+energy saving devices
 
-[internal link: home automation guide]
+home automation guide
 
 ## Conclusion
 

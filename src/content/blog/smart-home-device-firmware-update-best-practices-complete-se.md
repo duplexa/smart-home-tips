@@ -197,7 +197,7 @@ Maintain awareness of emerging smart home security issues:
 - **Join user communities** for your specific devices and platforms
 - **Consult professional security services** for high-value installations
 
-[internal link: smart home security]
+smart home security
 
 ## Creating Documentation and Recovery Plans
 

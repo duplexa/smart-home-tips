@@ -156,7 +156,7 @@ Regularly test internet speed and connectivity throughout your home. Address wea
 
 ### Documentation and Organization
 
-[internal link: smart home setup guide]
+smart home setup guide
 
 Maintain a record of your device configurations, network settings, and troubleshooting history. This documentation proves invaluable when problems occur or when adding new devices to your system.
 
@@ -190,7 +190,7 @@ Smart home troubleshooting requires a systematic approach that addresses network
 
 Remember that smart home technology continues evolving rapidly, and staying informed about updates and best practices helps prevent many common problems. Regular maintenance, proper documentation, and proactive monitoring create a foundation for long-term smart home success.
 
-[internal link: smart home security best practices]
+smart home security best practices
 
 With patience and the right approach, most smart home problems have straightforward solutions that don't require expensive service calls or device replacements. The key is methodical troubleshooting that eliminates variables and identifies root causes rather than symptoms.
 

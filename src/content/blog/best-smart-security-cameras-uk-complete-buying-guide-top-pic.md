@@ -66,7 +66,7 @@ Ensure your Wi-Fi network can handle multiple camera streams. Each 1080p camera 
 
 ### UK Privacy Laws
 
-Under UK privacy legislation, you must inform visitors about security cameras through clear signage. Avoid pointing cameras toward neighbouring properties or public areas beyond your boundary. [internal link: home security legal requirements]
+Under UK privacy legislation, you must inform visitors about security cameras through clear signage. Avoid pointing cameras toward neighbouring properties or public areas beyond your boundary. home security legal requirements
 
 ### Data Protection
 

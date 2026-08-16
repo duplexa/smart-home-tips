@@ -2,6 +2,7 @@
 title: "Amazon Echo vs Google Nest Hub: Complete Smart Display Comparison"
 description: "Compare Amazon Echo Show vs Google Nest Hub smart displays. Detailed analysis of features, voice assistants, smart home integration, and value to help you "
 date: 2026-04-15
+redirectTo: "/alexa-vs-google-home-uk/"
 ---
 
 Smart displays have revolutionized how we interact with our homes, combining the convenience of voice assistants with visual interfaces that enhance functionality and user experience. Two dominant players in this space are Amazon's Echo lineup and Google's Nest Hub series. This comprehensive comparison will help you understand the key differences, strengths, and weaknesses of each platform to make an informed decision for your smart home setup.
@@ -144,9 +145,9 @@ Nest Hub devices suit users who prefer Google's services, value privacy-focused 
 
 If you're planning to deploy multiple smart displays throughout your home, consider ecosystem consistency. Mixing platforms can complicate smart home automation and create confusion in daily use. Choose the platform that best aligns with your existing smart home devices and preferred services.
 
-[internal link: smart home automation]
-[internal link: voice assistant comparison]
-[internal link: smart display setup guide]
+smart home automation
+voice assistant comparison
+smart display setup guide
 
 ## Conclusion
 

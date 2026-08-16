@@ -279,7 +279,7 @@ Many smart home elements can be self-installed:
 - Wireless sensors and cameras
 - Voice assistants and displays
 
-[internal link: smart home installation]
+smart home installation
 
 ## Future-Proofing Strategies
 
@@ -321,7 +321,7 @@ Include ongoing maintenance in your smart home renovation planning:
 - Document system configurations
 - Establish vendor relationships for support
 
-[internal link: smart home maintenance]
+smart home maintenance
 
 ## Common Planning Mistakes to Avoid
 
@@ -354,5 +354,5 @@ Remember that smart home technology continues evolving rapidly. The foundation y
 
 Start your planning process by assessing your current infrastructure, defining clear goals, and consulting with professionals for complex installations. With careful planning and strategic implementation, your smart home renovation will provide years of enhanced living while increasing your property value.
 
-[internal link: home automation systems]
-[internal link: smart home security planning]
+home automation systems
+smart home security planning

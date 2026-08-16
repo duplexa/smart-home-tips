@@ -144,7 +144,7 @@ Smart home automation offers tremendous potential for enhancing safety, convenie
 
 Start with simple solutions that provide immediate benefits, then gradually expand the system as comfort and familiarity grow. Focus on safety-critical applications first, then add convenience features that improve daily living experiences.
 
-[Internal link: smart home security systems] can provide additional protection layers, while [internal link: home automation for beginners] offers detailed guidance on getting started with smart home technology. Remember that the goal is to enhance independence and quality of life while providing peace of mind for both elderly individuals and their families.
+[smart home security systems](/blog/smart-home-security-systems-complete-guide-to-protecting-you) can provide additional protection layers, while [Home Assistant starter kit](/home-assistant-starter-kit-uk/) offers a practical route into deeper automation. Remember that the goal is to enhance independence and quality of life while providing peace of mind for both elderly individuals and their families.
 
 The investment in smart home automation for elderly care pays dividends in safety, comfort, and the ability to age in place successfully. With careful planning and gradual implementation, these technologies can significantly improve the lives of elderly individuals while supporting their desire for independence and dignity.
 

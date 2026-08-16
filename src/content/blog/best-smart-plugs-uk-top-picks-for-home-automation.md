@@ -2,6 +2,7 @@
 title: "Best Smart Plugs UK: Top Picks for Home Automation"
 description: "Discover the best smart plugs available in the UK. Compare features, prices, and compatibility to find the perfect smart plug for your home automation need"
 date: 2026-04-16
+redirectTo: "/best-smart-plugs-uk/"
 ---
 
 Smart plugs are among the most affordable and versatile ways to transform your home into a connected ecosystem. These compact devices plug into your existing wall outlets and allow you to control any connected appliance remotely through your smartphone or voice commands. Whether you want to schedule your coffee maker, monitor energy usage, or create automated routines, smart plugs offer an excellent entry point into home automation.

@@ -123,7 +123,7 @@ Protect your smart home ecosystem with comprehensive security measures:
 3. **Use strong network encryption**: Implement WPA3 security on your wireless network
 4. **Regular security audits**: Periodically review connected devices and their permissions
 
-[internal link: smart home security]
+smart home security
 
 ### Gradual Integration Approach
 
@@ -189,7 +189,7 @@ Keep your smart home integration knowledge current:
 - **Experiment with new features**: Test new capabilities as they become available
 - **Regular system reviews**: Periodically assess your setup's performance and identify improvement opportunities
 
-[internal link: smart home automation]
+smart home automation
 
 ## Conclusion
 

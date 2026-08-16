@@ -198,7 +198,7 @@ Smart LED lighting produces less heat than traditional bulbs, helping preserve p
 
 Plan for technology updates by choosing timeless color schemes that won't clash with future smart lighting capabilities.
 
-[internal link: smart home automation systems]
+smart home automation systems
 
 ## Conclusion
 
@@ -206,4 +206,4 @@ Choosing smart home colors with lighting is an art that combines traditional des
 
 Remember that the best smart home color schemes are those that serve your lifestyle while providing the flexibility to adapt as your needs change. With thoughtful planning and quality smart lighting systems, your home can become a dynamic, responsive environment that supports your well-being and enhances your daily experiences.
 
-[internal link: home lighting design tips]
+home lighting design tips

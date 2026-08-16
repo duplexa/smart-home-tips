@@ -144,6 +144,6 @@ The key to maintaining smart home privacy lies in taking control of your data th
 
 Remember that privacy protection is an ongoing process rather than a one-time setup. As technology evolves and new privacy challenges emerge, staying vigilant and adapting your privacy protection strategies will help ensure your smart home remains both functional and secure.
 
-[internal link: smart home security]
-[internal link: home network protection]
-[internal link: IoT device management]
+smart home security
+home network protection
+IoT device management

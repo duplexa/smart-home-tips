@@ -8,7 +8,7 @@ export async function getStaticPaths() {
 }
 
 const { category } = Astro.props;
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
+const posts = (await getCollection('blog', ({ data }) => !data.draft && !data.redirectTo))
   .filter((post) => getPostCategory(post).slug === category.slug)
   .sort((a, b) => Number(isBuyerIntentPost(b)) - Number(isBuyerIntentPost(a)) || b.data.date.valueOf() - a.data.date.valueOf());
 ---
@@ -24,7 +24,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     {posts.map((post) => (
       <article class:list={['card', { commercial: isBuyerIntentPost(post) }]}>
         {isBuyerIntentPost(post) && <p class="eyebrow">Buying guide</p>}
-        <h2><a href={`/blog/${post.id}`}>{post.data.title}</a></h2>
+        <h2><a href={post.data.canonicalPath ?? `/blog/${post.id}`}>{post.data.title}</a></h2>
         <p>{getExcerpt(post)}</p>
         <time datetime={post.data.date.toISOString()}>
           {post.data.date.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })}

@@ -58,7 +58,7 @@ Smart vents and sensors can extend this control to individual rooms, creating zo
 
 Voice-controlled security systems provide peace of mind with hands-free arming and disarming capabilities. Smart doorbells, cameras, and sensors can all integrate with your voice assistant to provide status updates and enable remote monitoring.
 
-[internal link: smart home security systems] can be configured to respond to specific voice commands while maintaining security protocols that prevent unauthorized access.
+smart home security systems can be configured to respond to specific voice commands while maintaining security protocols that prevent unauthorized access.
 
 ## Step-by-Step Setup Process
 
@@ -154,7 +154,7 @@ Plan system expansions thoughtfully to maintain performance and usability. Add n
 
 Consider the total number of devices your network and voice assistant can handle effectively. Most residential systems work best with 20-50 connected devices, depending on network capacity and usage patterns.
 
-[internal link: smart home automation ideas] can inspire new ways to expand your voice control system while maintaining simplicity and reliability.
+smart home automation ideas can inspire new ways to expand your voice control system while maintaining simplicity and reliability.
 
 ## Future-Proofing Your Voice Control Setup
 

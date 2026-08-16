@@ -152,6 +152,6 @@ Building a robust WiFi infrastructure for smart homes requires careful planning,
 
 Remember that smart home WiFi requirements continue evolving as technology advances and device capabilities expand. Regular assessment and infrastructure updates ensure your network continues meeting performance requirements while providing the foundation for emerging smart home technologies.
 
-[internal link: home automation systems]
-[internal link: mesh network setup]
-[internal link: network security best practices]
+home automation systems
+mesh network setup
+network security best practices

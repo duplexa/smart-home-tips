@@ -138,7 +138,7 @@ The **Nest Learning Thermostat** is known for its self-learning capabilities and
 
 **Smart Thermostats**: Typically generate 10-15% energy savings through automated optimization, which can amount to $100-$200 annually for average households, potentially recovering the higher initial investment within 2-4 years.
 
-[internal link: home energy efficiency]
+home energy efficiency
 
 ## Making the Right Choice
 
@@ -168,7 +168,7 @@ Installing a manual thermostat typically involves connecting four to six wires (
 
 Smart thermostats often require a "C" wire (common wire) for continuous power to support Wi-Fi connectivity and advanced features. Homes without this wire may need professional installation to add one or use alternative power solutions.
 
-[internal link: HVAC maintenance]
+HVAC maintenance
 
 ## Future Considerations
 

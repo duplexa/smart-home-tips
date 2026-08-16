@@ -81,7 +81,7 @@ Premium setups offer comprehensive automation with professional-grade equipment:
 
 ### Smart Lighting Solutions
 
-Lighting represents one of the most cost-effective smart home investments. [Internal link: smart lighting systems] offer immediate benefits in convenience and energy efficiency.
+Lighting represents one of the most cost-effective smart home investments. [Smart lighting systems](/best-smart-light-bulbs-uk/) offer immediate benefits in convenience and energy efficiency.
 
 **Cost-Effective Options:**
 - Basic LED smart bulbs provide colour changing and dimming for £10-£15 each
@@ -95,7 +95,7 @@ Lighting represents one of the most cost-effective smart home investments. [Inte
 
 ### Security and Safety Systems
 
-Smart security systems provide peace of mind and potential insurance discounts. [Internal link: home security systems] vary significantly in complexity and cost.
+Smart security systems provide peace of mind and potential insurance discounts. [Home security systems](/blog/smart-home-security-systems-complete-guide-to-protecting-you) vary significantly in complexity and cost.
 
 **Entry-Level Security:**
 - Battery-powered cameras: £50-£150 each
@@ -110,7 +110,7 @@ Smart security systems provide peace of mind and potential insurance discounts. 
 
 ### Climate Control Systems
 
-Smart climate control offers significant energy savings that can offset initial costs. [Internal link: smart thermostats] represent excellent long-term investments.
+Smart climate control offers significant energy savings that can offset initial costs. [Smart thermostats](/blog/best-smart-thermostat-for-your-home-complete-buyer-s-guide) represent excellent long-term investments.
 
 **Basic Climate Control:**
 - Programmable smart thermostats: £150-£250

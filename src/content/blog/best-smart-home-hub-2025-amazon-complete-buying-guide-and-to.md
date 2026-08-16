@@ -260,6 +260,6 @@ Remember that your smart home journey is evolutionary. Starting with a basic hub
 
 With the right hub as your foundation, you'll create a smart home that truly enhances your daily life while providing the flexibility to adapt as technology continues advancing.
 
-[internal link: smart home security systems]
-[internal link: voice assistant setup guides]
-[internal link: home automation ideas]
+smart home security systems
+voice assistant setup guides
+home automation ideas

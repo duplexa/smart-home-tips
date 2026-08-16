@@ -138,9 +138,9 @@ Smart home technology evolves rapidly, and devices purchased during Prime Day sh
 
 Invest in quality hubs and controllers that can adapt to new devices and protocols, ensuring your Prime Day purchases remain valuable as technology advances.
 
-[internal link: smart home security systems]
-[internal link: voice assistant setup guides]
-[internal link: smart lighting installation tips]
+smart home security systems
+voice assistant setup guides
+smart lighting installation tips
 
 ## Conclusion
 

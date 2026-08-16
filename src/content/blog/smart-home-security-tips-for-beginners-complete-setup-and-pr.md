@@ -170,9 +170,9 @@ Disable unnecessary data sharing features, such as analytics programs or marketi
 
 Regularly review and update privacy settings as manufacturers may change default configurations or add new data sharing options through updates.
 
-[internal link: home automation basics]
-[internal link: wireless security cameras]
-[internal link: smart door locks]
+home automation basics
+wireless security cameras
+smart door locks
 
 ## Building Your Security System Gradually
 

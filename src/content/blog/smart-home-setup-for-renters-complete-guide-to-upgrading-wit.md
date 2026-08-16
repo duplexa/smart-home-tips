@@ -200,11 +200,11 @@ Setting up your smart home in a new rental builds on your previous experience wh
 
 **Adaptation and Expansion**: Use the move as an opportunity to upgrade older devices or add new capabilities based on lessons learned from your previous setup.
 
-[internal link: smart home security systems]
+smart home security systems
 
-[internal link: energy saving smart home devices]
+energy saving smart home devices
 
-[internal link: smart home automation ideas]
+smart home automation ideas
 
 ## Conclusion
 

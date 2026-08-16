@@ -185,7 +185,7 @@ Some kits include optional subscription services for cloud storage, professional
 
 The best smart home starter kit depends on your specific needs, budget, and technical comfort level. Start by identifying your primary goals—whether security, convenience, or energy savings—then choose a kit aligning with those priorities.
 
-[internal link: smart home security systems] complement starter kits well for comprehensive protection, while [internal link: smart lighting solutions] can enhance the ambiance features in basic kits.
+smart home security systems complement starter kits well for comprehensive protection, while smart lighting solutions can enhance the ambiance features in basic kits.
 
 Consider starting small with a basic kit and expanding gradually rather than overwhelming yourself with complex systems initially. The smart home journey should be enjoyable and rewarding, not frustrating or complicated.
 

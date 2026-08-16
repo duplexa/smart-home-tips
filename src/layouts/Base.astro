@@ -11,16 +11,19 @@ interface Props {
   type?: 'website' | 'article';
   date?: Date;
   author?: string;
+  breadcrumbs?: Array<{ name: string; url?: string }>;
+  rankedItems?: Array<{ name: string; url?: string; description?: string }>;
+  faqs?: Array<{ question: string; answer: string }>;
 }
 
-const { title, description, image, type = 'website', date, author } = Astro.props;
+const { title, description, image, type = 'website', date, author, breadcrumbs, rankedItems, faqs } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <BaseHead {title} {description} {image} {type} {date} {author} />
-    <StructuredData {title} {description} {type} {date} {author} {image} />
+    <StructuredData {title} {description} {type} {date} {author} {image} {breadcrumbs} {rankedItems} {faqs} />
   </head>
   <body>
     <header class="site-header">
