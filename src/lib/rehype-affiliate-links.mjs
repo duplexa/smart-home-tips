@@ -1,4 +1,4 @@
-const affiliateHostPattern = /(^|\.)amazon\.(co\.uk|com)$/i;
+const affiliateHostPattern = /^(www\.)?amazon\.(co\.uk|com)$/i;
 const associateTag = 'smarthomestip-21';
 
 function normalizeAmazonHref(href) {

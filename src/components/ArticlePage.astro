@@ -17,7 +17,6 @@ interface Props {
 }
 
 const { post, posts } = Astro.props;
-const { Content } = await post.render();
 const category = getPostCategory(post);
 const toc = getTableOfContents(post);
 const relatedPosts = getRelatedPosts(post, posts);
@@ -80,7 +79,7 @@ const breadcrumbs = [
     <AdSlot position="in-content" />
 
     <div class="post-content">
-      <Content />
+      <slot />
     </div>
   </article>
 

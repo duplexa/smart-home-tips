@@ -1,6 +1,8 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
+
+export const prerender = true;
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft && !data.redirectTo && !data.canonicalPath);
@@ -8,6 +10,9 @@ export async function getStaticPaths() {
 }
 
 const { post, posts } = Astro.props;
+const { Content } = await render(post);
 ---
 
-<ArticlePage {post} {posts} />
+<ArticlePage {post} {posts}>
+  <Content />
+</ArticlePage>
